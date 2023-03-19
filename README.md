@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [小爱印象使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 - [免費認證的課程](https://github.com/cutepig123/gitblog/issues/4)--2023-03-19
 - [项目](https://github.com/cutepig123/gitblog/issues/3)--2023-03-19
 - [做一个modern c++的讲座](https://github.com/cutepig123/gitblog/issues/2)--2023-03-19
