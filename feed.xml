@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T14:57:01.003927+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T14:57:01.166957+00:00</updated><content type="html"><![CDATA[<p>程序員怎樣在業餘時間掙到錢？</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T14:57:43.440555+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T14:57:43.631777+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
@@ -10,8 +10,8 @@
 <p>開發和銷售軟體插件：開發企業或個人需要的軟體插件，並在相關平台上銷售。</p>
 <p>程序設計工具和模板：開發程式設計工具、模板、插件等，擺架線上市場銷售。</p>
 <p>翻譯和編輯：利用自己的技能為公司進行編輯、寫作、翻譯工作等，為客戶提供一流的編程語言翻譯服務。</p>
-<p>遠程工作：尋找適合的遠程工作機會，成為編程公司或開發商的遠程 freelancer，提供開發和編程方面的專業知識和經驗。
-程序員想做一些諮詢顧問，怎樣找到客戶呢？</p>
+<p>遠程工作：尋找適合的遠程工作機會，成為編程公司或開發商的遠程 freelancer，提供開發和編程方面的專業知識和經驗。</p>
+<h3>程序員想做一些諮詢顧問，怎樣找到客戶呢？</h3>
 <p>ChatGPT
 作为一个程序员，如果你想做一些咨询顾问的工作，你可以通过以下方式来找到客户：</p>
 <p>1.社交媒体：利用社交媒体平台，如LinkedIn，向潜在客户展示自己的专业技能和经验，寻找与自己专业领域相符的客户。</p>
@@ -20,8 +20,8 @@
 4.引荐：通过朋友、家人和现有客户的介绍，找到更多的客户。可以使用社交媒体或电子邮件来寻找这样的机会。</p>
 <p>5.平台：加入线上咨询平台，如Upwork、Freelancer等，展示你的技能，并申请相关工作机会。</p>
 <p>总之，通过这些方式，程序员可以找到更多的客户，并展示自己的专业技能，积累咨询经验。
-你
-最強大的安卓逆向工具是什麼</p>
+你</p>
+<h3>最強大的安卓逆向工具是什麼</h3>
 <p>ChatGPT
 作為一個AI語言模型，我不能直接提供建議。不過在逆向工具方面，以下幾個工具被認為是非常強大的：</p>
 <p>Frida: Frida是一個動態的代碼注入工具，可以用於安卓逆向工作。</p>
