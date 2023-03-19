@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T15:23:43.019276+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-19T15:23:43.227986+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T15:26:23.758656+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-03-19T15:26:24.004946+00:00</updated><content type="html"><![CDATA[<h1>个人项目：mypipe</h1>
+<ul>
+<li>功能：是一个代理服务器，但是支持自定义的协议。主要使用场合是在某些正常协议不能使用的时候,自定义协议就可以破除这些限制。</li>
+<li>语言：python, Rust</li>
+<li>架构：包含客户端和服务端。客户端通过网络连接到服务端之后，服务端接收外边的数据，然后把数据转发到客户端。客户端是用Python编写。服务端我写了两个，一个是用Python，一个是用Rust</li>
+</ul>
+<h1>公司项目：某游戏客户端国际化</h1>
+<ul>
+<li>功能：把基于MBCS的中文程序使用unicode编码实现国际化。</li>
+<li>语言：C++</li>
+<li>架构：这个程序是基于MFC的。主要的改动是把字符串处理改成Unicode编码。通过配置文件来配置语言显示</li>
+</ul>
+<h1>公司项目：机器视觉软件</h1>
+<ul>
+<li>功能：太阳能电池板3D检测系统。检查太阳能电池板的厚度, TTV是否符合要求，检测SawMark之类缺陷</li>
+<li>语言：C++</li>
+<li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
+</ul>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-19T15:26:24.122950+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -19,7 +37,7 @@
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T15:23:43.364672+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T15:26:24.253536+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
