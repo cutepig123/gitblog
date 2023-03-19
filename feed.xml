@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T15:27:10.927648+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-03-19T15:27:11.153998+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T15:28:21.551184+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-03-19T15:28:21.778796+00:00</updated><content type="html"><![CDATA[<p>免費認證
+freecodecamp.org/chinese/</p>
+<p>免費看，但沒有免費認證
+<a href="https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science">https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science</a></p>
+<p><a href="https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp">https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-03-19T15:28:21.901603+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
 <p>Many years software development working experience, strong C/C++ develop and debug skills, understanding of software design, generic programming, multi-threaded programming</p>
 <p>Semiconductor industry vision inspection application background</p>
 <p>Highly self-motivated, sincere, good team work, high analytical skills, curious at new knowledge, hard working</p>
@@ -26,7 +31,7 @@
 <li>语言：C++</li>
 <li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-19T15:27:11.279588+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-19T15:28:22.017965+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -46,7 +51,7 @@
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T15:27:11.388219+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T15:28:22.124383+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
