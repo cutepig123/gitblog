@@ -19,6 +19,20 @@ cd alpaca.cpp
 cmake .
 cmake --build . --config Release
 .\Release\chat.exe
+
+E:\>F:\_codes\alpaca.cpp\build\debug\chat.exe
+main: seed = 1679276051
+llama_model_load: loading model from 'ggml-alpaca-7b-q4.bin' - please wait ...
+llama_model_load: ggml ctx size = 6065.34 MB
+llama_model_load: memory_size =  2048.00 MB, n_mem = 65536
+llama_model_load: loading model part 1/1 from 'ggml-alpaca-7b-q4.bin'
+llama_model_load: ....... done
+llama_model_load: model size =   842.06 MB / num tensors = 59
+
+system_info: n_threads = 4 / 4 | AVX = 1 | AVX2 = 1 | AVX512 = 0 | FMA = 0 | NEON = 0 | ARM_FMA = 0 | F16C = 0 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | SSE3 = 0 | VSX = 0 |
+main: interactive mode on.
+sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
+
 ```
 
 
