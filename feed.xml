@@ -1,15 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-19T16:44:13.900897+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱印象使用chatgpt</title><updated>2023-03-19T16:44:14.202469+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-03-20T01:21:25.388195+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-03-20T01:21:25.684720+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
+<p>这是啥：一个基于llama微调后的模型</p>
+<p>如何本地运行？</p>
+<ul>
+<li>下载code <a href="https://github.com/antimatter15/alpaca.cpp">https://github.com/antimatter15/alpaca.cpp</a></li>
+<li>下载模型 <code>Torrent: </code>magnet:?xt=urn:btih:053b3d54d2e77ff020ebddf51dad681f2a651071&amp;dn=ggml-alpaca-13b-q4.bin&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce``</li>
+<li>编译运行</li>
+</ul>
+<pre><code>git clone https://github.com/antimatter15/alpaca.cpp
+cd alpaca.cpp
+
+cmake .
+cmake --build . --config Release
+.\Release\chat.exe
+</code></pre>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="chatgpot"/><category term="llama"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱印象使用chatgpt</title><updated>2023-03-20T01:21:25.840412+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
 就差一个openai账号了</p>
 <pre><code>set OPENAI_API_KEY=${your_api_key}
 xiaogpt --hardware L15A --use_chatgpt_api
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-03-19T16:44:14.336398+00:00</updated><content type="html"><![CDATA[<p>免費認證
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-03-20T01:21:25.952356+00:00</updated><content type="html"><![CDATA[<p>免費認證
 freecodecamp.org/chinese/</p>
 <p>免費看，但沒有免費認證
 <a href="https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science">https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science</a></p>
 <p><a href="https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp">https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-03-19T16:44:14.474222+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-03-20T01:21:26.085635+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
 <p>Many years software development working experience, strong C/C++ develop and debug skills, understanding of software design, generic programming, multi-threaded programming</p>
 <p>Semiconductor industry vision inspection application background</p>
 <p>Highly self-motivated, sincere, good team work, high analytical skills, curious at new knowledge, hard working</p>
@@ -36,7 +51,7 @@ freecodecamp.org/chinese/</p>
 <li>语言：C++</li>
 <li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-19T16:44:14.617758+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-03-20T01:21:26.218882+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -56,7 +71,7 @@ freecodecamp.org/chinese/</p>
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-19T16:44:14.767536+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-03-20T01:21:26.334079+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
