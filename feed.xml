@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-04-07T14:50:20.956392+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2023-04-07T14:50:21.179587+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-04-07T14:51:12.674849+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2023-04-07T14:51:13.069635+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
 <p>微软的edge tts</p>
 <pre><code class="language-bash"># https://pypi.org/project/edge-tts/
 pip install edge-tts
@@ -10,7 +10,7 @@ edge-playback --text &quot;Hello, world!&quot;
 edge-playback --text &quot;你是谁 hello work&quot; --voice zh-TW-HsiaoYuNeural
 edge-playback -f 1.txt --voice zh-TW-HsiaoYuNeural
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/12" rel="alternate"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2023-04-07T14:50:21.267253+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/12" rel="alternate"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2023-04-07T14:51:13.246983+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
 <pre><code>pip install git+https://github.com/openai/whisper.git 
 path %path%;F:\sw\ffmpeg-4.1.4-win64-static\bin
 
@@ -184,11 +184,11 @@ cutepig@DESKTOP-CM4NK5L MINGW64 /F/_codes/whisper.cpp
 </code></pre>
 <p>TODO</p>
 <ul>
-<li>[x ] 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp</li>
-<li>[ x] 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行</li>
+<li><input checked="" disabled="" type="checkbox"> 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp</li>
+<li><input checked="" disabled="" type="checkbox"> 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行</li>
 <li><input disabled="" type="checkbox"> 如何支持语音直接输入，而不是文件输入</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/11" rel="alternate"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2023-04-07T14:50:21.389980+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/11" rel="alternate"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2023-04-07T14:51:13.426765+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
 TAKEOWN /f &quot;%DIRECTORY_NAME%&quot; /r /d y
 ICACLS &quot;%DIRECTORY_NAME%&quot; /grant administrators:F /t
 ICACLS &quot;%DIRECTORY_NAME%&quot; /reset /T
@@ -198,13 +198,13 @@ rd/s/q &quot;%DIRECTORY_NAME%&quot;
 
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/10" rel="alternate"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2023-04-07T14:50:21.491136+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/9" rel="alternate"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2023-04-07T14:50:21.576586+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/8" rel="alternate"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2023-04-07T14:50:21.687160+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/10" rel="alternate"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2023-04-07T14:51:13.604771+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/9" rel="alternate"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2023-04-07T14:51:13.759908+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/8" rel="alternate"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2023-04-07T14:51:13.928529+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
 <p>剩下这几个还没用过，但据说是开源免费的。如果有需要可以玩一下。
 keenpass</p>
 <p>Bitwarden</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/7" rel="alternate"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-04-07T14:50:21.788487+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/7" rel="alternate"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-04-07T14:51:14.113202+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
 <p>这是啥：一个基于llama微调后的模型</p>
 <p>如何本地运行？</p>
 <ul>
@@ -233,17 +233,17 @@ main: interactive mode on.
 sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2023-04-07T14:50:21.914251+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2023-04-07T14:51:14.288618+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
 就差一个openai账号了</p>
 <pre><code>set OPENAI_API_KEY=${your_api_key}
 xiaogpt --hardware L15A --use_chatgpt_api
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-04-07T14:50:22.007775+00:00</updated><content type="html"><![CDATA[<p>免費認證
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-04-07T14:51:14.447762+00:00</updated><content type="html"><![CDATA[<p>免費認證
 freecodecamp.org/chinese/</p>
 <p>免費看，但沒有免費認證
 <a href="https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science">https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science</a></p>
 <p><a href="https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp">https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-04-07T14:50:22.095713+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-04-07T14:51:14.667539+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
 <p>Many years software development working experience, strong C/C++ develop and debug skills, understanding of software design, generic programming, multi-threaded programming</p>
 <p>Semiconductor industry vision inspection application background</p>
 <p>Highly self-motivated, sincere, good team work, high analytical skills, curious at new knowledge, hard working</p>
@@ -270,7 +270,7 @@ freecodecamp.org/chinese/</p>
 <li>语言：C++</li>
 <li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-04-07T14:50:22.185522+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-04-07T14:51:14.829818+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -290,7 +290,7 @@ freecodecamp.org/chinese/</p>
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-04-07T14:50:22.268531+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-04-07T14:51:15.064877+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>

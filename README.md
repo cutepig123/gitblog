@@ -17,6 +17,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## smart home
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## TODO
-TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--1 jobs to do--0 jobs done
+TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--1 jobs to do--2 jobs done
+- [x] 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp
+- [x] 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行
 - [ ] 如何支持语音直接输入，而不是文件输入
 
