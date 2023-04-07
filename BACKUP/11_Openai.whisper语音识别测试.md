@@ -56,6 +56,7 @@ TODO
 
 - [ ] 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp
 - [ ] 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行
+- [ ] 如何支持语音直接输入，而不是文件输入
 
 ---
 
