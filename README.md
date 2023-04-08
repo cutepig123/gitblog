@@ -5,11 +5,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [虽然马云经常哗众取宠，但是他说的有些话还是很有道理的](https://github.com/cutepig123/gitblog/issues/16)--2023-04-08
 - [物理学变成玄学了](https://github.com/cutepig123/gitblog/issues/15)--2023-04-08
 - [播客podcast ](https://github.com/cutepig123/gitblog/issues/14)--2023-04-08
 - [windows版本的timeit](https://github.com/cutepig123/gitblog/issues/13)--2023-04-07
 - [语音合成tts测试](https://github.com/cutepig123/gitblog/issues/12)--2023-04-07
-- [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--2023-04-07
 ## NLP
 - [语音合成tts测试](https://github.com/cutepig123/gitblog/issues/12)--2023-04-07
 - [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--2023-04-07
