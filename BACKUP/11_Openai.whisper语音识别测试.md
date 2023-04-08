@@ -187,6 +187,27 @@ cutepig@DESKTOP-CM4NK5L MINGW64 /F/_codes/whisper.cpp
 
 ```
 
+试用SpeechRecognition 
+
+这个包里面包含了很多云服务的语音识别功能，如果没有api key的话支持recognize_sphinx和recognize_google
+
+我试了下中文，效果比whisper差很多
+
+```bash
+AUDIO_FILE = path.join(path.dirname(path.realpath(__file__)), "chinese.flac")
+language = 'zh-CN'
+# recognize speech using Sphinx
+try:
+    print("Sphinx thinks you said " + r.recognize_sphinx(audio, language=language))
+except sr.UnknownValueError:
+    print("Sphinx could not understand audio")
+
+# 识别效果很差
+F:\_codes>python F:\_codes\speech_recognition\examples\audio_transcribe.py
+Sphinx thinks you said 上 世纪 之交
+Google Speech Recognition could not understand audio
+```
+
 
 
 TODO
