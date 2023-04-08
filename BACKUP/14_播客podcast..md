@@ -11,3 +11,9 @@
   - NPR Ted hour，American Scientific没有字幕
   - ESL，Grammer girl
   - BBC出品的The Documentary
+
+TODO
+
+- [ ] 让播客app支持字幕 https://github.com/AntennaPod/AntennaPod/issues/4935
+- [ ] 自建rss服务，使用openai whisper ai模型给播客增加字幕
+
