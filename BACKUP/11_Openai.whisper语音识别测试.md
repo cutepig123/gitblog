@@ -206,6 +206,11 @@ except sr.UnknownValueError:
 F:\_codes>python F:\_codes\speech_recognition\examples\audio_transcribe.py
 Sphinx thinks you said 上 世纪 之交
 Google Speech Recognition could not understand audio
+
+F:\_codes>whisper f:\_codes\speech_recognition\examples\chinese.flac --language Chinese
+f:\users\cutepig\appdata\local\programs\python\python38\lib\site-packages\whisper\transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:01.000] 砸自己的腳
 ```
 
 
