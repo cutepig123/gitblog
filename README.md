@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [ 20230407放假四天](https://github.com/cutepig123/gitblog/issues/19)--2023-04-10
 - [疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？](https://github.com/cutepig123/gitblog/issues/18)--2023-04-10
 - [欢乐颂3](https://github.com/cutepig123/gitblog/issues/17)--2023-04-09
 - [虽然马云经常哗众取宠，但是他说的有些话还是很有道理的](https://github.com/cutepig123/gitblog/issues/16)--2023-04-08
@@ -19,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [个人密码管理软件](https://github.com/cutepig123/gitblog/issues/7)--2023-04-05
 - [alpaca.cpp](https://github.com/cutepig123/gitblog/issues/6)--2023-03-20
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
-- [免費認證的課程](https://github.com/cutepig123/gitblog/issues/4)--2023-03-19
 ## NLP
 - [语音合成tts测试](https://github.com/cutepig123/gitblog/issues/12)--2023-04-07
 - [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--2023-04-07
@@ -27,6 +27,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## smart home
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## TODO
+TODO list from [ 20230407放假四天](https://github.com/cutepig123/gitblog/issues/19) all done
+
 TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--1 jobs to do--2 jobs done
 - [x] 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp
 - [x] 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行
