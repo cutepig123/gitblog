@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？](https://github.com/cutepig123/gitblog/issues/18)--2023-04-10
 - [欢乐颂3](https://github.com/cutepig123/gitblog/issues/17)--2023-04-09
 - [虽然马云经常哗众取宠，但是他说的有些话还是很有道理的](https://github.com/cutepig123/gitblog/issues/16)--2023-04-08
 - [物理学变成玄学了](https://github.com/cutepig123/gitblog/issues/15)--2023-04-08
@@ -19,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [alpaca.cpp](https://github.com/cutepig123/gitblog/issues/6)--2023-03-20
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 - [免費認證的課程](https://github.com/cutepig123/gitblog/issues/4)--2023-03-19
-- [项目](https://github.com/cutepig123/gitblog/issues/3)--2023-03-19
 ## NLP
 - [语音合成tts测试](https://github.com/cutepig123/gitblog/issues/12)--2023-04-07
 - [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--2023-04-07
