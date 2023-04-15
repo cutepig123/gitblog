@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [電影電視劇](https://github.com/cutepig123/gitblog/issues/20)--2023-04-15
 - [ 20230407放假四天](https://github.com/cutepig123/gitblog/issues/19)--2023-04-10
 - [疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？](https://github.com/cutepig123/gitblog/issues/18)--2023-04-10
 - [欢乐颂3](https://github.com/cutepig123/gitblog/issues/17)--2023-04-09
@@ -19,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入](https://github.com/cutepig123/gitblog/issues/8)--2023-04-05
 - [个人密码管理软件](https://github.com/cutepig123/gitblog/issues/7)--2023-04-05
 - [alpaca.cpp](https://github.com/cutepig123/gitblog/issues/6)--2023-03-20
-- [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## NLP
 - [语音合成tts测试](https://github.com/cutepig123/gitblog/issues/12)--2023-04-07
 - [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--2023-04-07
