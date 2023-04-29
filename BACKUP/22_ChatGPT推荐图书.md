@@ -19,3 +19,18 @@
     " Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
 
 这些教程都是非常适合初学者的，它们既简洁易懂，又涵盖了深度学习的很多基础知识和实践技巧。无论你是打算进入深度学习领域，还是已经开始学习，这些教程都值得一看。
+
+### 推荐几本出名的软件设计，软件架构学习入门教程
+
+
+    《软件架构设计的艺术》，作者：Martin Fowler
+    《软件系统设计与模式》，作者：Douglas C. Schmidt
+    《软件架构涉及》，作者：Len Bass、Paul Clements、Rick Kazman
+    《程序员必修的软件系统架构设计》，作者：林锐、王莉
+    《软件架构实践》，作者：Paul Clements、Rick Kazman
+    《软件架构师手册》，作者：Peter Eeles、Peter Cripps、Oliver Sims
+    《软件工程与软件架构》，作者：潘爱民、邹欣
+    《面向对象分析与设计》，作者：Craig Larman
+    《敏捷软件开发：原则、模式与实践》，作者：Robert C. Martin
+    《架构之美》，作者：中島健志
+
