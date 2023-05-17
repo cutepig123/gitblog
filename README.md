@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [端口转发工具](https://github.com/cutepig123/gitblog/issues/24)--2023-05-17
 - [使用facebook nllb英文翻译中文](https://github.com/cutepig123/gitblog/issues/23)--2023-04-30
 - [ChatGPT推荐图书](https://github.com/cutepig123/gitblog/issues/22)--2023-04-29
 - [港澳台居民在广东如何参加基本医疗保险？](https://github.com/cutepig123/gitblog/issues/21)--2023-04-29
