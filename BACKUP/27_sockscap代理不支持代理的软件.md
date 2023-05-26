@@ -10,4 +10,10 @@ proxifier 缺点是收费
 
 sockscap64 缺点是不能链式代理
 
-proxycap
+proxycap 缺点是需要重啟電腦，估计他主要管理员权限
+
+freecap 测试没成功
+
+使用这类软件不能连接localhost，我怀疑localhost之类的不会经过dns解析，所以他的远程解析失效了？
+
+
