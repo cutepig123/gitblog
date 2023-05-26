@@ -39,6 +39,9 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## smart home
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## TODO
+TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
+- [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
+
 TODO list from [ 20230407放假四天](https://github.com/cutepig123/gitblog/issues/19) all done
 
 TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--1 jobs to do--2 jobs done

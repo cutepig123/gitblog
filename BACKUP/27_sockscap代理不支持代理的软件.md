@@ -16,4 +16,7 @@ freecap 测试没成功
 
 使用这类软件不能连接localhost，我怀疑localhost之类的不会经过dns解析，所以他的远程解析失效了？
 
+todo
+
+- [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
