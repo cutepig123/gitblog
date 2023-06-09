@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [深圳游玩](https://github.com/cutepig123/gitblog/issues/31)--2023-06-09
 - [Win PE， Live CD总结](https://github.com/cutepig123/gitblog/issues/30)--2023-06-09
 - [网络小说 馆人](https://github.com/cutepig123/gitblog/issues/29)--2023-06-07
 - [C语言 宏嵌套的展开规则 2 年前](https://github.com/cutepig123/gitblog/issues/28)--2023-05-26
