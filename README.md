@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [居住证](https://github.com/cutepig123/gitblog/issues/35)--2023-06-30
 - [年度计划](https://github.com/cutepig123/gitblog/issues/34)--2023-06-25
 - [感兴趣的书](https://github.com/cutepig123/gitblog/issues/33)--2023-06-25
 - [自动控制理论](https://github.com/cutepig123/gitblog/issues/32)--2023-06-22
