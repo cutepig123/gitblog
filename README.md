@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [shadowsocks](https://github.com/cutepig123/gitblog/issues/36)--2023-07-02
 - [居住证](https://github.com/cutepig123/gitblog/issues/35)--2023-06-30
 - [年度计划](https://github.com/cutepig123/gitblog/issues/34)--2023-06-25
 - [感兴趣的书](https://github.com/cutepig123/gitblog/issues/33)--2023-06-25
