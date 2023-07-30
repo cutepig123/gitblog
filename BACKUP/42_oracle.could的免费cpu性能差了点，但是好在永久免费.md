@@ -33,3 +33,13 @@ Results not submitted
 
 
 ```
+
+如何申请
+https://www.oracle.com/hk/cloud/free/
+
+如何设置
+
+如何ssh连接
+
+其他厂商的免费产品
+https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
