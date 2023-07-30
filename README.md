@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [Codespace的cpu性能还凑活着](https://github.com/cutepig123/gitblog/issues/41)--2023-07-30
 - [使用userland app手机不用root安装linux](https://github.com/cutepig123/gitblog/issues/40)--2023-07-22
 - [用windbg监视cl进程编译过程中打开的文件](https://github.com/cutepig123/gitblog/issues/39)--2023-07-17
 - [zz找到了万元笔记本的完美替代方案](https://github.com/cutepig123/gitblog/issues/38)--2023-07-08
