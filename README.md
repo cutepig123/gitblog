@@ -5,6 +5,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [笔记本](https://github.com/cutepig123/gitblog/issues/45)--2023-08-10
 - [Old Story 超强相亲经历](https://github.com/cutepig123/gitblog/issues/44)--2023-08-09
 - [EDR](https://github.com/cutepig123/gitblog/issues/43)--2023-08-08
 - [oracle could的免费cpu性能差了点，但是好在永久免费](https://github.com/cutepig123/gitblog/issues/42)--2023-07-30
