@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-08-10T15:10:06.329467+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/45</id><title>笔记本</title><updated>2023-08-10T15:10:06.736943+00:00</updated><content type="html"><![CDATA[<p>bijiben</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-08-23T13:07:46.791854+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/46</id><title>再谈代理</title><updated>2023-08-23T13:07:47.078440+00:00</updated><content type="html"><![CDATA[<p>再谈代理</p>
+<p>上次写过一个blog <a href="https://github.com/cutepig123/gitblog/issues/24">https://github.com/cutepig123/gitblog/issues/24</a> 当时的要求已经基本达到。主要是实现一个端口提供多个服务，我基于一个开源代理修改而来，具体代码见https://github.com/cutepig123/dumb_proxy</p>
+<p>现在又想继续增强实现如下功能</p>
+<ul>
+<li>支持数据加密</li>
+<li>支持不能用代理的软件通过代理</li>
+</ul>
+<p>一个例子如下</p>
+<p>vnc客户端 -&gt; http proxy -&gt; dumb proxy 1 -&gt;加密的数据经过internet -&gt;dumb proxy 2 -&gt;vnc服务端</p>
+<p>vnc客户端</p>
+<pre><code>连接 localhost:15900
+</code></pre>
+<p>dumb proxy 1设置如下</p>
+<pre><code class="language-toml">[tcppm.a]
+port = 15900
+target = &quot;127.0.0.1:8080&quot;
+need_xor = true
+
+[http_proxy_client.a]
+port = 8080
+http_proxy_server = &quot;10.1.1.101:8080&quot;
+target = &quot;dumb proxy 2:80&quot;
+</code></pre>
+<p>dumb proxy 2设置如下</p>
+<pre><code class="language-toml">[tcppm.a]
+port = 80
+target = &quot;127.0.0.1:5900&quot;
+need_xor = true
+</code></pre>
+<p>分析</p>
+<p>客户端: 链接15900 -》转发到8080-》经过http proxy转发到proxy2:80 --&gt; 转发到服务端5900</p>
+<p>代码实现</p>
+<ul>
+<li>
+<p><code>F:\_codes\dumb_proxy</code> --&gt; <a href="https://github.com/cutepig123/dumb_proxy">https://github.com/cutepig123/dumb_proxy</a></p>
+</li>
+<li>
+<p><code>F:\_codes\Detours\samples\tracetcp-sockscap</code>稍后上传代码</p>
+</li>
+</ul>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/46" rel="alternate"/><published>2023-08-23T13:07:16+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/45</id><title>笔记本</title><updated>2023-08-23T13:07:47.161120+00:00</updated><content type="html"><![CDATA[<p>bijiben</p>
 <h2>轻薄本-凌云 X16- R7 7840HS，能换内存64gb，2个硬盘</h2>
 <p><a href="http://www.wooking.com.cn/product/66">http://www.wooking.com.cn/product/66</a></p>
 <p>[<a href="https://www.ithome.com/">IT之家</a>](https://www.ithome.com/) 8 月 5 日消息，笔记本厂商吾空日前推出了凌云 X16 笔记本，R7 7840HS + 2.5K 165Hz 配置首发 3799  元，之后涨到了 4199 元。现在，这款笔记本正在开启预定，16GB + 512GB 版本售价重回 3799 元，32GB + 1TB 版本  4299 元</p>
@@ -8,7 +48,7 @@
 <h2>机械革命无界14</h2>
 <h2>火影众颜U4/U6</h2>
 <p>继机械革命无界14和火影众颜U4/U6之后，吾空凌云X16锐龙版也迎来了7840HS的更新，并打出了3799元起的首发价。当然，能否以这个价格购入还得拼人品，但该产品的出现，还是能给咱们打下一个心灵钢印，锐龙7 7840HS原来也能这么便宜！</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/45" rel="alternate"/><published>2023-08-10T15:09:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/44</id><title>Old Story 超强相亲经历</title><updated>2023-08-10T15:10:06.871803+00:00</updated><content type="html"><![CDATA[<p>超强相亲经历2007-02-06 18:07【下午硬被朋友拉去相亲】
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/45" rel="alternate"/><published>2023-08-10T15:09:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/44</id><title>Old Story 超强相亲经历</title><updated>2023-08-23T13:07:47.239105+00:00</updated><content type="html"><![CDATA[<p>超强相亲经历2007-02-06 18:07【下午硬被朋友拉去相亲】
 女的长的相当不错，长发，蛮柔柔的样子。可我现在半点兴趣也提不起来，就是对着她发楞。结束后她发了消息给我，问我是不是对她不满意，我说不是，又问是不是嫌她难看，我说不是，你很好看。结果她就发嗲了一刚！娇声娇气要我明天去找她吃午饭。我说我穷光蛋，她说她来埋单，我说我胃溃疡，她说陪我去医院，我说我没医保卡，她说她来付帐，我么闲话来！</p>
 <p>【逛街】
 今天下午我在健身房里，收到她的手机电话，让我陪她逛徐家汇，我说没空，正在嘿咻嘿咻，她一下子很大声骂我黄色，忽然又小声问我你是不是有女朋友了？我说是的，我的女朋友就是扩胸器、跑步机等，她一下子愣住了，问我你在哪里，我说在健身房，她“噗哧”一下笑起来了，嗲声嗲气地骂我13点，然后让我快到徐家汇去，我说没空，她说不去的话就死给我看，我说你死吧，反正我也看不到，她又可怜巴巴地求我，我心肠软，一下子昏了头就答应她了。陪她逛徐家汇地铁下面的商场，我就是一个陪客，什么话也没有，她东看看，西摸摸，好像很兴奋，一路问我这件怎么样，那件好不好看，我就是不发表意见，到了快要回家的时候，她再三地逼我说，我看她一直在看那些鲜艳的衣服，就随便指了一件素色，说这件不错，想不到她一下子很惊喜地看着我，说我其实注意这件衣服很久了，就是想考考你的品味，想不到你还蛮懂的嘛！吾刚特了</p>
@@ -85,7 +125,7 @@
 我回到家里，躺在床上，回想着今天发生的一幕。钢笔上，笔记本，面纸上到处都是贴纸。大家都知道，这种玩意贴上去简单，撕下来可就不那么容易了。我一边叹气一边闷头撕着一些比较明显的，撕着撕着，悲从中来，不禁长叹一声。门外有朋友正好走进来，他奇怪的看着我，问：哟！你叹什么气啊。我摇摇头，起身拿了一瓶饮料丢给他。他惊奇的看着我床上的这些东西，大呼起来：这是什么啊。我看看！说完就全部拿了起来，看了许久，他也长叹一口气道：怪不得这些天看不到你的人，原来你躲起来享受美人恩了，真他妈不是东西。我苦笑一下：享受？接着就把这些天发生的事情都告诉了他。他听的时候表情千变万化，额头上不时有汗珠沁出。我唠唠叨叨说完之后，他睁大眼睛看着我，忽然扑通一声跪了下来！凄声道：英雄！如果你真不要就让给我吧！我推了他一下，笑道：搞什么！他问：你对这么好的女孩子真的一点感觉也没有？我说也不是，就是没到点子上。他神情古怪地看着我：我看你已经到点子上了！我傻了，他缓缓地说道：你没发现你的每张照片都很开心么？那种开心是发自内心的！ </p>
 <p>深夜，我躺在被子里，想着朋友说的话，难道他说的都是真的？我又仔细地看了一遍这些照片，还真的像他说的那样，笑的非常十三，但是又非常纯真。我翻来翻去，就是睡不着，还是打个电话给她！电话打过去她的声音也显然没睡着，她惊讶的低语：你那么晚打来干什么？我说我想你（我也不知道我怎么就脱口而出了），她说有多想，我说就像星星环绕着月亮（真恶心！）她呵呵笑说你神经，哪有星星环绕月亮的。我说难道是月亮环绕星星？她说也不是。我说那么就是互相环绕了。她噗嗤一声笑出来：你脑子有病！我说我是有病，相思病。她“油”了一声：恶心。我叹气：是恶心。她说我也想你，我说你也很恶心。她说是的。我说那恶心的人是不是应该在一起？她微微笑说是吧。我说：噢，你真的有病，我说相思病又没说相思你！她一下子无语了，我呵呵笑。她哼了一声：你欺负我好来！我说我就欺负你，她很小声很温柔的说我就愿意被你欺负。我刚特了…… </p>
 <p>夜，就这样悄悄的流逝……</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/44" rel="alternate"/><published>2023-08-09T16:22:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/43</id><title>EDR</title><updated>2023-08-10T15:10:07.128555+00:00</updated><content type="html"><![CDATA[<p>安全攻防之wmi</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/44" rel="alternate"/><published>2023-08-09T16:22:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/43</id><title>EDR</title><updated>2023-08-23T13:07:47.360872+00:00</updated><content type="html"><![CDATA[<p>安全攻防之wmi</p>
 <h1>进攻</h1>
 <h2>wmi能干啥</h2>
 <h2>怎样用wmi</h2>
@@ -587,7 +627,7 @@ print(output)
 <li>皮質 XDR。  </li>
 <li>FireEye 端點安全。  </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/43" rel="alternate"/><published>2023-08-08T12:51:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/42</id><title>oracle could的免费cpu性能差了点，但是好在永久免费</title><updated>2023-08-10T15:10:07.289629+00:00</updated><content type="html"><![CDATA[<h3>PassMark</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/43" rel="alternate"/><published>2023-08-08T12:51:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/42</id><title>oracle could的免费cpu性能差了点，但是好在永久免费</title><updated>2023-08-23T13:07:47.468690+00:00</updated><content type="html"><![CDATA[<h3>PassMark</h3>
 <pre><code>                          PassMark PerformanceTest Linux
 
 
@@ -638,7 +678,7 @@ success</p>
 <p>test it
 [opc@instance-20230730-2144 ~]$ python -m http.server</p>
 <h3>orcale cloud check balance</h3>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/42" rel="alternate"/><published>2023-07-30T14:07:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/41</id><title>Codespace的cpu性能还凑活着</title><updated>2023-08-10T15:10:07.423021+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/cutepig123/gitblog/assets/4235333/d0dff292-76cc-4f90-bd96-537b4900213b" alt="圖片" /></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/42" rel="alternate"/><published>2023-07-30T14:07:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/41</id><title>Codespace的cpu性能还凑活着</title><updated>2023-08-23T13:07:47.564998+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/cutepig123/gitblog/assets/4235333/d0dff292-76cc-4f90-bd96-537b4900213b" alt="圖片" /></p>
 <pre><code>@cutepig123 ➜ /workspaces/codespaces-jupyter (main) $ cat /proc/cpuinfo 
 processor       : 0
 vendor_id       : GenuineIntel
@@ -753,7 +793,7 @@ address sizes   : 46 bits physical, 48 bits virtual
 power management:
 ···
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/41" rel="alternate"/><published>2023-07-30T11:59:00+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/40</id><title>使用userland app手机不用root安装linux</title><updated>2023-08-10T15:10:07.589167+00:00</updated><content type="html"><![CDATA[<p>使用userland app手机不用root安装linux</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/41" rel="alternate"/><published>2023-07-30T11:59:00+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/40</id><title>使用userland app手机不用root安装linux</title><updated>2023-08-23T13:07:47.652789+00:00</updated><content type="html"><![CDATA[<p>使用userland app手机不用root安装linux</p>
 <p>目的
 测试能否编译rust程序
 测试性能</p>
@@ -801,7 +841,7 @@ Use ESC or CTRL-C to exit
 A: Run All Tests   C: Run CPU Tests   M: Run Memory Tests   U: Upload Test Results
 </code></pre>
 <p>性能差了些，本来1900现在成900了</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/40" rel="alternate"/><published>2023-07-22T17:12:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/39</id><title>用windbg监视cl进程编译过程中打开的文件</title><updated>2023-08-10T15:10:07.731440+00:00</updated><content type="html"><![CDATA[<pre><code>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/40" rel="alternate"/><published>2023-07-22T17:12:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/39</id><title>用windbg监视cl进程编译过程中打开的文件</title><updated>2023-08-23T13:07:47.748504+00:00</updated><content type="html"><![CDATA[<pre><code>
 Microsoft (R) Windows Debugger Version 10.0.22000.194 AMD64
 Copyright (c) Microsoft Corporation. All rights reserved.
 
@@ -1310,7 +1350,7 @@ ntdll!NtTerminateProcess+0x14:
 00007ffe`ef3ed644 c3              ret
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/39" rel="alternate"/><published>2023-07-17T07:08:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/38</id><title>zz找到了万元笔记本的完美替代方案</title><updated>2023-08-10T15:10:07.874180+00:00</updated><content type="html"><![CDATA[<p>发信人: pegasusrider (洛奇★小飞马), 信区: Notebook
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/39" rel="alternate"/><published>2023-07-17T07:08:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/38</id><title>zz找到了万元笔记本的完美替代方案</title><updated>2023-08-23T13:07:47.835409+00:00</updated><content type="html"><![CDATA[<p>发信人: pegasusrider (洛奇★小飞马), 信区: Notebook
 标  题: 找到了万元笔记本的完美替代方案
 发信站: 水木社区 (Sat Jul  8 08:35:11 2023), 站内</p>
 <p>那就是买个7940的nuc，ppd上一堆
@@ -1327,13 +1367,13 @@ amd7940的核不带硬盘内存最便宜不到3k
 过去两年间没有一次必须用电池的场景
 就算有的话我的15年8g macbookpro足够</p>
 <p>唉唉！除了报销发票不好开简直完美！ </p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/38" rel="alternate"/><published>2023-07-08T14:44:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/37</id><title>zz标  题: 50岁，哪些事令你后悔？</title><updated>2023-08-10T15:10:08.009678+00:00</updated><content type="html"><![CDATA[<p>发信人: faithlost (信仰迷失), 信区: Tooooold
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/38" rel="alternate"/><published>2023-07-08T14:44:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/37</id><title>zz标  题: 50岁，哪些事令你后悔？</title><updated>2023-08-23T13:07:47.913984+00:00</updated><content type="html"><![CDATA[<p>发信人: faithlost (信仰迷失), 信区: Tooooold
 标  题: 50岁，哪些事令你后悔？
 发信站: 水木社区 (Fri Jul  7 22:52:44 2023), 站内</p>
 <p>日本有一位医生，叫大津秀一，他的工作就是专门照顾那些临终的病人。在与1000位患者交谈，听取他们的临终遗憾后，他写下了《临终前会后悔的25件事》：
 第一个遗憾：没有做自己想做的事。第二个遗憾：没有实现梦想。第三个遗憾：做过对不起良心的事。第四个遗憾：被感情左右度过一生。第五个遗憾：没有尽力帮助过别人。第六个遗憾：过于相信自己。第七个遗憾：没有妥善安置财产。第八个遗憾：没有考虑过身后事。第九个遗憾：没有回故乡。第十个遗憾：没有享受过美食。第十一个遗憾：大部分时间都用来工作。第十二个遗憾：没有去想去的地方旅行。第十三个遗憾：没有和想见的人见面。第十四个遗憾：没能谈一场永存记忆的恋爱。第十五个遗憾：一辈子都没有结婚。第十六个遗憾：没有生育孩子。第十七个遗憾：没有看到孩子结婚。第十八个遗憾：没有注意身体健康。第十九个遗憾：没有戒烟。第二十个遗憾：没有表明自己的真实意愿。第二十一个遗憾：没有认清活着的意义。第二十二个遗憾：没有留下自己生存过的证据。第二十三个遗憾：没有看透生死。第二十四个遗憾：没有信仰。第二十五个遗憾：没有对深爱的人说“谢谢”。</p>
 <h2>50+岁数的大哥大姐，你们最后悔年轻时候做过或者没做过的事情是什么？</h2>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/37" rel="alternate"/><published>2023-07-08T14:30:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/36</id><title>shadowsocks</title><updated>2023-08-10T15:10:08.124371+00:00</updated><content type="html"><![CDATA[<pre><code>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/37" rel="alternate"/><published>2023-07-08T14:30:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/36</id><title>shadowsocks</title><updated>2023-08-23T13:07:48.004407+00:00</updated><content type="html"><![CDATA[<pre><code>
  2332  cargo install shadowsocks-rust
  2333  wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.15.3/shadowsocks-v1.15.3.x86_64-unknown-linux-gnu.tar.xz
  2334  ls shadowsocks-v1.15.3.x86_64-unknown-linux-gnu.tar.xz
@@ -1365,7 +1405,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 }
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/36" rel="alternate"/><published>2023-07-02T03:00:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/35</id><title>居住证</title><updated>2023-08-10T15:10:08.280663+00:00</updated><content type="html"><![CDATA[<p>港澳居住证需要什么材料。只需要回乡证，结婚证，房产证，照片即可</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/36" rel="alternate"/><published>2023-07-02T03:00:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/35</id><title>居住证</title><updated>2023-08-23T13:07:48.106192+00:00</updated><content type="html"><![CDATA[<p>港澳居住证需要什么材料。只需要回乡证，结婚证，房产证，照片即可</p>
 <p>地点在哪。上沙地铁站附近那个很方便，出地铁五十米</p>
 <p>注意事项。
 今天不熟悉搞了好多麻烦，去错地方折腾了半天，好几个地方都叫福田大厅。
@@ -1373,7 +1413,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 复印结婚证要全部三页复印而不是中间那一页</p>
 <p>如何领取。
 两周办好，可以邮寄，他们给张纸，交给邮递员</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/35" rel="alternate"/><published>2023-06-30T04:51:50+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/34</id><title>年度计划</title><updated>2023-08-10T15:10:08.434926+00:00</updated><content type="html"><![CDATA[<p>语言，
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/35" rel="alternate"/><published>2023-06-30T04:51:50+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/34</id><title>年度计划</title><updated>2023-08-23T13:07:48.188413+00:00</updated><content type="html"><![CDATA[<p>语言，
 加强英语听力，不要听了半天不明白，目标是1.听懂名人演讲，比如奥巴马，nvidia台大 2.听懂技术类访谈节目</p>
 <p>粤语口语，目标是自己讲的别人能一次听懂。避免1别人要问多几次才明白 2别人立马转普通话</p>
 <p>工作。如何才能升职？如何找到突破点？如果从项目出发，有什么值得做，有机会升职的项目？</p>
@@ -1389,7 +1429,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 难度 : 涉及到好几部分，每部分都要分别poc，安卓音频分析，语音频谱分析，ai语音识别，ai语音打分
 系统设计
 时间规划</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/34" rel="alternate"/><published>2023-06-25T04:51:58+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/33</id><title>感兴趣的书</title><updated>2023-08-10T15:10:08.566575+00:00</updated><content type="html"><![CDATA[<p>感兴趣的书</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/34" rel="alternate"/><published>2023-06-25T04:51:58+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/33</id><title>感兴趣的书</title><updated>2023-08-23T13:07:48.263777+00:00</updated><content type="html"><![CDATA[<p>感兴趣的书</p>
 <p>目的。。学习的重点在于灵活运用，之前大学上课就是听听而已，理解都不算深入，更别说实践，运用，甚至灵活运用了。现在是想重新拿起来，思考能否把他们用到实际中</p>
 <p>《傅里叶光学导论 第四版》
 《傅里叶光学导论（第四版）》讨论傅里叶分析在光学领域中的应用，尤其是在衍射、成像、光学数据处理以及全息术方面的应用。内容涉及二维信号和系统的分析、标量衍射理论基础、菲涅耳衍射与夫琅禾费衍射、计算衍射和计算传播、相干光学系统的波动光学分析、光学成像系统的频谱分析、点扩展函数和传递函数的工程、波前调制、模拟光学信息处理、全息术、光通信中的傅里叶光学等。</p>
@@ -1408,7 +1448,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 （荷兰）朱豫才著  张湘平  虞水俊  孙志强  胡德文译
 🌐 Chinese
 本书是2001年由Pergamon出版，总结了作者在系统辨识领域的研究、开发及应用的成果，表达了他对辨识学科的看法。其中的渐近法（ASYM）被首次用于SetPoint公司的MPC项目中。该书倾向于应用，目的在于为理论和应用之间架起一座桥梁，为实际应用提供具有坚实科学理论基础的过程辨识方法。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/33" rel="alternate"/><published>2023-06-25T02:36:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/32</id><title>自动控制理论</title><updated>2023-08-10T15:10:08.706208+00:00</updated><content type="html"><![CDATA[<p>自动控制理论</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/33" rel="alternate"/><published>2023-06-25T02:36:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/32</id><title>自动控制理论</title><updated>2023-08-23T13:07:48.338216+00:00</updated><content type="html"><![CDATA[<p>自动控制理论</p>
 <h1>本文目的</h1>
 <ul>
 <li>本人虽然是自控专业，但学的时候纯粹是书本知识，现在全部忘光了。当时也没有实践，完全没有切身感受。</li>
@@ -1515,7 +1555,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 <p><a href="https://blog.csdn.net/handsome_for_kill/article/details/103112509">https://blog.csdn.net/handsome_for_kill/article/details/103112509</a> MATLAB：对于状态空间方程的系统辨识</p>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/32" rel="alternate"/><published>2023-06-22T16:38:36+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/31</id><title>深圳游玩</title><updated>2023-08-10T15:10:08.843972+00:00</updated><content type="html"><![CDATA[<p>深圳游玩</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/32" rel="alternate"/><published>2023-06-22T16:38:36+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/31</id><title>深圳游玩</title><updated>2023-08-23T13:07:48.449740+00:00</updated><content type="html"><![CDATA[<p>深圳游玩</p>
 <h1>适合夏天玩，儿童，室内</h1>
 <h2>The Wooderful Land 木育森林</h2>
 <p><a href="https://www.mamibuy.com.hk/talk/article/70649">https://www.mamibuy.com.hk/talk/article/70649</a></p>
@@ -1561,7 +1601,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 <li>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/31" rel="alternate"/><published>2023-06-09T07:07:32+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/30</id><title>Win PE， Live CD总结</title><updated>2023-08-10T15:10:09.112682+00:00</updated><content type="html"><![CDATA[<pre><code class="language-bash">C:\Users\cutepig&gt;tree /f h:
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/31" rel="alternate"/><published>2023-06-09T07:07:32+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/30</id><title>Win PE， Live CD总结</title><updated>2023-08-23T13:07:48.552093+00:00</updated><content type="html"><![CDATA[<pre><code class="language-bash">C:\Users\cutepig&gt;tree /f h:
 H:\
 │   WePE64_V2.2.iso
 │   WePE64_V2.2.iso.txt
@@ -1577,7 +1617,7 @@ H:\
 └───ventoy
         ventoy_wimboot.img	# 让ventoy支持的wim插件
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/30" rel="alternate"/><published>2023-06-09T06:38:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/29</id><title>网络小说 馆人</title><updated>2023-08-10T15:10:09.247769+00:00</updated><content type="html"><![CDATA[<p><a href="https://m.ddxs.com/guanren/">https://m.ddxs.com/guanren/</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/30" rel="alternate"/><published>2023-06-09T06:38:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/29</id><title>网络小说 馆人</title><updated>2023-08-23T13:07:48.648440+00:00</updated><content type="html"><![CDATA[<p><a href="https://m.ddxs.com/guanren/">https://m.ddxs.com/guanren/</a></p>
 <p>一周时间读完了这个小说，小说讲的是一个小人物一步一步走上人生巅峰，迎娶白富美的历程
 主人公的成功，离不开一下几方面
 个人的天赋
@@ -1585,11 +1625,11 @@ H:\
 出生条件好，摊上个小土豪的爹妈
 利用各种资源，某些资源可能对自己有损害，但是用好了反而是有益
 自己的努力，其实看来，这个反而是小方面了</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/29" rel="alternate"/><published>2023-06-07T01:30:28+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/28</id><title>C语言 宏嵌套的展开规则 2 年前</title><updated>2023-08-10T15:10:09.393237+00:00</updated><content type="html"><![CDATA[<p>之前一直搞不明白宏为什么有的时候能递归，有的时候不能。
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/29" rel="alternate"/><published>2023-06-07T01:30:28+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/28</id><title>C语言 宏嵌套的展开规则 2 年前</title><updated>2023-08-23T13:07:48.733861+00:00</updated><content type="html"><![CDATA[<p>之前一直搞不明白宏为什么有的时候能递归，有的时候不能。
 看boost pp的宏定义不懂为啥搞两层
 看了这个帖子才明白</p>
 <p><a href="https://zhuanlan.zhihu.com/p/344240420?utm_id=0">https://zhuanlan.zhihu.com/p/344240420?utm_id=0</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/28" rel="alternate"/><published>2023-05-26T06:03:38+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/27</id><title>sockscap代理不支持代理的软件</title><updated>2023-08-10T15:10:09.546235+00:00</updated><content type="html"><![CDATA[<p>要求
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/28" rel="alternate"/><published>2023-05-26T06:03:38+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/27</id><title>sockscap代理不支持代理的软件</title><updated>2023-08-23T13:07:48.815988+00:00</updated><content type="html"><![CDATA[<p>要求
 windoes平台
 原先我有一些程序，但是他们不支持代理。如何让他们也能用？
 这个代理工具最好支持多个代理，首先通过p单的，然后再经过一个专有代理，比如shadowsocks实现加密</p>
@@ -1603,9 +1643,9 @@ proxifier 缺点是收费</p>
 <ul>
 <li><input disabled="" type="checkbox"> 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/27" rel="alternate"/><category term="TODO"/><published>2023-05-26T05:38:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/26</id><title>将任意程序变为windows service</title><updated>2023-08-10T15:10:09.692634+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.wintips.org/how-to-run-an-application-as-service/">https://www.wintips.org/how-to-run-an-application-as-service/</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/27" rel="alternate"/><category term="TODO"/><published>2023-05-26T05:38:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/26</id><title>将任意程序变为windows service</title><updated>2023-08-23T13:07:48.901519+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.wintips.org/how-to-run-an-application-as-service/">https://www.wintips.org/how-to-run-an-application-as-service/</a></p>
 <p>nssm。用过，很好用</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/26" rel="alternate"/><published>2023-05-25T17:12:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/25</id><title>文件上传下载</title><updated>2023-08-10T15:10:09.900494+00:00</updated><content type="html"><![CDATA[<p>文件上传下载</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/26" rel="alternate"/><published>2023-05-25T17:12:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/25</id><title>文件上传下载</title><updated>2023-08-23T13:07:48.992273+00:00</updated><content type="html"><![CDATA[<p>文件上传下载</p>
 <p>要求</p>
 <ul>
 <li>只用一个端口，方便端口映射或者socks代理</li>
@@ -1659,7 +1699,7 @@ fail3()
 <p>proposal3 一个rust程序</p>
 <p><a href="https://github.com/sigoden/dufs">https://github.com/sigoden/dufs</a></p>
 <p><a href="https://lib.rs/crates/simple-http-server">https://lib.rs/crates/simple-http-server</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/25" rel="alternate"/><published>2023-05-22T15:26:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/24</id><title>端口转发工具</title><updated>2023-08-10T15:10:10.041216+00:00</updated><content type="html"><![CDATA[<p>端口转发工具</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/25" rel="alternate"/><published>2023-05-22T15:26:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/24</id><title>端口转发工具</title><updated>2023-08-23T13:07:49.090016+00:00</updated><content type="html"><![CDATA[<p>端口转发工具</p>
 <p>要求</p>
 <ul>
 <li>
@@ -1731,7 +1771,7 @@ socks Server<ul>
 <li><a href="https://cloud.tencent.com/developer/article/1484318">https://cloud.tencent.com/developer/article/1484318</a>  是的，我又用rust实现了一版socks5代理</li>
 <li><a href="https://jimages.net/archives/269">https://jimages.net/archives/269</a> 使用rust实现一个sock5代理</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/24" rel="alternate"/><published>2023-05-17T14:56:30+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/23</id><title>使用facebook nllb英文翻译中文</title><updated>2023-08-10T15:10:10.175029+00:00</updated><content type="html"><![CDATA[<p>测了一下。效果一般般。感觉比google翻译差</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/24" rel="alternate"/><published>2023-05-17T14:56:30+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/23</id><title>使用facebook nllb英文翻译中文</title><updated>2023-08-23T13:07:49.187040+00:00</updated><content type="html"><![CDATA[<p>测了一下。效果一般般。感觉比google翻译差</p>
 <pre><code class="language-python">
 # https://huggingface.co/spaces/Geonmo/nllb-translation-demo
 import requests
@@ -1786,7 +1826,7 @@ while True:
 并在您的日志中打印traceId &amp; spanId来解决故障,并对相关日志和追踪. &#x27;}], &#x27;duration&#x27;: 21.45286989212036, &#x27;average_duration&#x27;: 3.95068706035614}}
 PS C:\JS\Desktop&gt; ^N
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/23" rel="alternate"/><published>2023-04-30T16:12:11+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/22</id><title>ChatGPT推荐图书</title><updated>2023-08-10T15:10:10.287243+00:00</updated><content type="html"><![CDATA[<h3>推荐几本出名的python入门教程</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/23" rel="alternate"/><published>2023-04-30T16:12:11+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/22</id><title>ChatGPT推荐图书</title><updated>2023-08-23T13:07:49.263531+00:00</updated><content type="html"><![CDATA[<h3>推荐几本出名的python入门教程</h3>
 <pre><code>《Python编程从入门到实践》（Eric Matthes）
 《Python基础教程》（Magnus Lie Hetland）
 《Python核心编程》（Wesley Chun）
@@ -1827,7 +1867,7 @@ PS C:\JS\Desktop&gt; ^N
 风景秀丽的湖泊：湖泊风景优美，适合漫步湖畔、观赏湖中风光，放松心情，如西湖、洱海等。
 </code></pre>
 <p>这些地方都有着独特的风情与魅力，适合散心旅游。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/22" rel="alternate"/><published>2023-04-29T17:24:10+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/21</id><title>港澳台居民在广东如何参加基本医疗保险？</title><updated>2023-08-10T15:10:10.433134+00:00</updated><content type="html"><![CDATA[<h1>港澳台居民在广东如何参加基本医疗保险？</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/22" rel="alternate"/><published>2023-04-29T17:24:10+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/21</id><title>港澳台居民在广东如何参加基本医疗保险？</title><updated>2023-08-23T13:07:49.350006+00:00</updated><content type="html"><![CDATA[<h1>港澳台居民在广东如何参加基本医疗保险？</h1>
 <p><a href="http://www.cnbayarea.org.cn/policy/policy%20analysis/content/post_535492.html">http://www.cnbayarea.org.cn/policy/policy%20analysis/content/post_535492.html</a></p>
 <p><a href="https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/609003/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97-%E6%B8%AF%E6%BE%B3%E4%BA%BA%E5%A3%AB%E5%8F%AF%E6%86%91%E8%AD%89%E5%9C%A8%E5%85%A7%E5%9C%B0%E6%8E%A5%E7%A8%AE-%E5%B1%85%E4%BD%8F%E8%AD%89%E8%88%87%E9%86%AB%E4%BF%9D%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E4%B8%80%E8%A6%BD">https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/609003/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97-%E6%B8%AF%E6%BE%B3%E4%BA%BA%E5%A3%AB%E5%8F%AF%E6%86%91%E8%AD%89%E5%9C%A8%E5%85%A7%E5%9C%B0%E6%8E%A5%E7%A8%AE-%E5%B1%85%E4%BD%8F%E8%AD%89%E8%88%87%E9%86%AB%E4%BF%9D%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E4%B8%80%E8%A6%BD</a></p>
 <p><a href="https://m12333.cn/query/ck.html">https://m12333.cn/query/ck.html</a></p>
@@ -1842,7 +1882,7 @@ PS C:\JS\Desktop&gt; ^N
 </blockquote>
 <h2>港澳办：港澳居民内地纳税问题不以居住证为依据</h2>
 <p><a href="https://www.sohu.com/a/249463247_800726">https://www.sohu.com/a/249463247_800726</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/21" rel="alternate"/><published>2023-04-29T10:56:04+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/20</id><title>電影電視劇</title><updated>2023-08-10T15:10:10.589272+00:00</updated><content type="html"><![CDATA[<p>電影電視劇</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/21" rel="alternate"/><published>2023-04-29T10:56:04+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/20</id><title>電影電視劇</title><updated>2023-08-23T13:07:49.455305+00:00</updated><content type="html"><![CDATA[<p>電影電視劇</p>
 <p>搜了一下如下主題的電影電視劇：程序員電影 程序員電視劇  技術創業電影 創業紀錄片 程序員紀錄片</p>
 <p>硅谷传奇 Pirates of Silicon Valley[3]
 社交网络 The Social Network[2]
@@ -1897,7 +1937,7 @@ PS C:\JS\Desktop&gt; ^N
 <a href="http://m.cyol.com/content/2018-03/10/content_17010436.htm">http://m.cyol.com/content/2018-03/10/content_17010436.htm</a>
 <a href="https://www.163.com/dy/article/HKRRTJQ40553P17N.html">https://www.163.com/dy/article/HKRRTJQ40553P17N.html</a>
 <a href="http://m.cnr.cn/news/20200927/t20200927_525279105.html">http://m.cnr.cn/news/20200927/t20200927_525279105.html</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/20" rel="alternate"/><published>2023-04-15T06:14:40+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/19</id><title> 20230407放假四天</title><updated>2023-08-10T15:10:10.719479+00:00</updated><content type="html"><![CDATA[<h1>20230407</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/20" rel="alternate"/><published>2023-04-15T06:14:40+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/19</id><title> 20230407放假四天</title><updated>2023-08-23T13:07:49.544709+00:00</updated><content type="html"><![CDATA[<h1>20230407</h1>
 <h2>done</h2>
 <ul>
 <li>
@@ -1975,7 +2015,7 @@ PS C:\JS\Desktop&gt; ^N
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/19" rel="alternate"/><category term="TODO"/><published>2023-04-10T14:34:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/18</id><title>疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？</title><updated>2023-08-10T15:10:10.950233+00:00</updated><content type="html"><![CDATA[<p>我发现网上有人已经问过类似。但是没有回。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/19" rel="alternate"/><category term="TODO"/><published>2023-04-10T14:34:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/18</id><title>疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？</title><updated>2023-08-23T13:07:49.662614+00:00</updated><content type="html"><![CDATA[<p>我发现网上有人已经问过类似。但是没有回。</p>
 <p><a href="https://www.amobbs.com/thread-5545108-1-1.html">https://www.amobbs.com/thread-5545108-1-1.html</a></p>
 <p>直流伺服电机用在平衡车上，电机电流问题请教：</p>
 <p>一、印象中有本教材上提到伺服电机因内阻较小，启动电流或者说堵转电流较大，因此不允许直流电机不允许长期处于堵转状态，以防止电流过大烧毁电
@@ -1988,12 +2028,12 @@ PS C:\JS\Desktop&gt; ^N
 <p>2.4 平衡小车处于平衡状态，“堵转电流”和负载的惯量有关系吗？如果保持平衡时的电流是“堵转电流”，那不就和负载惯量没关系了，感觉不对啊？</p>
 <p>ref
 什么是 <a href="https://www.yibumotor.com/news/656.html">https://www.yibumotor.com/news/656.html</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/18" rel="alternate"/><published>2023-04-10T08:12:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/17</id><title>欢乐颂3</title><updated>2023-08-10T15:10:11.131991+00:00</updated><content type="html"><![CDATA[<p>欢乐颂3</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/18" rel="alternate"/><published>2023-04-10T08:12:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/17</id><title>欢乐颂3</title><updated>2023-08-23T13:07:49.767315+00:00</updated><content type="html"><![CDATA[<p>欢乐颂3</p>
 <p>豆瓣评分挺差的，可是我觉得还不错。</p>
 <p>然后跟之前还是差不多，就是嗯，年轻小妹妹，但是你家庭背景各有不同。还是挺有实际的，现实的代表性。比如当大姐，家里一堆弟弟妹妹要照顾。但是平均来看这个片里面这一堆女人还是高于我们现实中的人的倍镜，实力，和水平了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/17" rel="alternate"/><published>2023-04-09T06:21:47+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/16</id><title>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的</title><updated>2023-08-10T15:10:11.268551+00:00</updated><content type="html"><![CDATA[<p>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的。企业的战略不应该是跟钱相关的，天天想钱的财务官不可能做好CEO。https://www.youtube.com/watch?v=TiB_TjlxYNM&amp;ab_channel=%E5%A4%A7%E7%83%AD%E9%97%A8 一个做企业家要做得久，做得好，他每天考虑的大部分的事情都应该跟钱没有关系，和钱有关的都不是战略性的。不以利益为出发点的战略决策，才是真正的庙堂之策。所以我一直相信一个好的财务总监很难做好董事长，因为好的财务总监脑子里全部都是钱，脑子里全是钱的人是很难做好事情</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/16" rel="alternate"/><published>2023-04-08T13:54:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/15</id><title>物理学变成玄学了</title><updated>2023-08-10T15:10:11.590909+00:00</updated><content type="html"><![CDATA[<p>量子擦除，双峰干涉，物理学变成玄学了。终于明白爱因斯坦老爷子的心态了。https://www.youtube.com/watch?v=Ik58awh2Mp4&amp;ab_channel=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/15" rel="alternate"/><published>2023-04-08T13:38:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/14</id><title>播客podcast </title><updated>2023-08-10T15:10:11.741481+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/17" rel="alternate"/><published>2023-04-09T06:21:47+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/16</id><title>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的</title><updated>2023-08-23T13:07:49.981337+00:00</updated><content type="html"><![CDATA[<p>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的。企业的战略不应该是跟钱相关的，天天想钱的财务官不可能做好CEO。https://www.youtube.com/watch?v=TiB_TjlxYNM&amp;ab_channel=%E5%A4%A7%E7%83%AD%E9%97%A8 一个做企业家要做得久，做得好，他每天考虑的大部分的事情都应该跟钱没有关系，和钱有关的都不是战略性的。不以利益为出发点的战略决策，才是真正的庙堂之策。所以我一直相信一个好的财务总监很难做好董事长，因为好的财务总监脑子里全部都是钱，脑子里全是钱的人是很难做好事情</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/16" rel="alternate"/><published>2023-04-08T13:54:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/15</id><title>物理学变成玄学了</title><updated>2023-08-23T13:07:50.069219+00:00</updated><content type="html"><![CDATA[<p>量子擦除，双峰干涉，物理学变成玄学了。终于明白爱因斯坦老爷子的心态了。https://www.youtube.com/watch?v=Ik58awh2Mp4&amp;ab_channel=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/15" rel="alternate"/><published>2023-04-08T13:38:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/14</id><title>播客podcast </title><updated>2023-08-23T13:07:50.162867+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 推荐播客app。如何给播客添加字幕？ podcast transript <a href="https://www.zhihu.com/question/21067130">https://www.zhihu.com/question/21067130</a><ul>
 <li>打开chrome的实时字幕功能，只能在桌面使用</li>
@@ -2017,7 +2057,7 @@ PS C:\JS\Desktop&gt; ^N
 <li><input disabled="" type="checkbox"> 让播客app支持字幕 <a href="https://github.com/AntennaPod/AntennaPod/issues/4935">https://github.com/AntennaPod/AntennaPod/issues/4935</a></li>
 <li><input disabled="" type="checkbox"> 自建rss服务，使用openai whisper ai模型给播客增加字幕</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/14" rel="alternate"/><published>2023-04-08T04:25:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/13</id><title>windows版本的timeit</title><updated>2023-08-10T15:10:11.880344+00:00</updated><content type="html"><![CDATA[<p>代码是从stackoverflow里面找的https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/14" rel="alternate"/><published>2023-04-08T04:25:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/13</id><title>windows版本的timeit</title><updated>2023-08-23T13:07:50.272474+00:00</updated><content type="html"><![CDATA[<p>代码是从stackoverflow里面找的https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line</p>
 <pre><code class="language-bash">@echo off
 @setlocal
 
@@ -2049,7 +2089,7 @@ echo end=%end%
 echo command took %hours%:%mins%:%secs%.%ms% (%totalsecs%.%ms%s total)
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/13" rel="alternate"/><published>2023-04-07T15:15:42+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2023-08-10T15:10:12.096113+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/13" rel="alternate"/><published>2023-04-07T15:15:42+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2023-08-23T13:07:50.350577+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
 <p>微软的edge tts</p>
 <pre><code class="language-bash"># https://pypi.org/project/edge-tts/
 pip install edge-tts
@@ -2068,7 +2108,7 @@ AO: [wasapi] 48000Hz stereo 2ch float
 A: 00:00:03 / 00:00:04 (74%)
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/12" rel="alternate"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2023-08-10T15:10:12.261185+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/12" rel="alternate"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2023-08-23T13:07:50.436221+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
 <pre><code>pip install git+https://github.com/openai/whisper.git 
 path %path%;F:\sw\ffmpeg-4.1.4-win64-static\bin
 
@@ -2267,7 +2307,7 @@ f:\users\cutepig\appdata\local\programs\python\python38\lib\site-packages\whispe
 <li><input checked="" disabled="" type="checkbox"> 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行</li>
 <li><input disabled="" type="checkbox"> 如何支持语音直接输入，而不是文件输入</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/11" rel="alternate"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2023-08-10T15:10:12.408285+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/11" rel="alternate"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2023-08-23T13:07:50.523253+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
 TAKEOWN /f &quot;%DIRECTORY_NAME%&quot; /r /d y
 ICACLS &quot;%DIRECTORY_NAME%&quot; /grant administrators:F /t
 ICACLS &quot;%DIRECTORY_NAME%&quot; /reset /T
@@ -2277,13 +2317,13 @@ rd/s/q &quot;%DIRECTORY_NAME%&quot;
 
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/10" rel="alternate"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2023-08-10T15:10:12.549196+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/9" rel="alternate"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2023-08-10T15:10:12.666709+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/8" rel="alternate"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2023-08-10T15:10:12.777633+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/10" rel="alternate"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2023-08-23T13:07:50.622421+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/9" rel="alternate"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2023-08-23T13:07:50.704084+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/8" rel="alternate"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2023-08-23T13:07:50.784015+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
 <p>剩下这几个还没用过，但据说是开源免费的。如果有需要可以玩一下。
 keenpass</p>
 <p>Bitwarden</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/7" rel="alternate"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-08-10T15:10:12.920984+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/7" rel="alternate"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-08-23T13:07:50.872024+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
 <p>这是啥：一个基于llama微调后的模型</p>
 <p>如何本地运行？</p>
 <ul>
@@ -2312,17 +2352,17 @@ main: interactive mode on.
 sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2023-08-10T15:10:13.083150+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2023-08-23T13:07:50.966810+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
 就差一个openai账号了</p>
 <pre><code>set OPENAI_API_KEY=${your_api_key}
 xiaogpt --hardware L15A --use_chatgpt_api
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-08-10T15:10:13.203784+00:00</updated><content type="html"><![CDATA[<p>免費認證
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-08-23T13:07:51.057023+00:00</updated><content type="html"><![CDATA[<p>免費認證
 freecodecamp.org/chinese/</p>
 <p>免費看，但沒有免費認證
 <a href="https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science">https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science</a></p>
 <p><a href="https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp">https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-08-10T15:10:13.385054+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-08-23T13:07:51.202848+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
 <p>Many years software development working experience, strong C/C++ develop and debug skills, understanding of software design, generic programming, multi-threaded programming</p>
 <p>Semiconductor industry vision inspection application background</p>
 <p>Highly self-motivated, sincere, good team work, high analytical skills, curious at new knowledge, hard working</p>
@@ -2349,7 +2389,7 @@ freecodecamp.org/chinese/</p>
 <li>语言：C++</li>
 <li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-08-10T15:10:13.519504+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-08-23T13:07:51.297800+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -2369,7 +2409,7 @@ freecodecamp.org/chinese/</p>
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-08-10T15:10:13.644364+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-08-23T13:07:51.390600+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
