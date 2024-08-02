@@ -9,8 +9,8 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Gitblog](https://yihong0618.github.io/gitblog/)
-My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
+MD_HEAD = """## Gitblog
+My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
@@ -92,8 +92,8 @@ def get_repo(user: Github, repo: str):
 
 def parse_TODO(issue):
     body = issue.body.splitlines()
-    todo_undone = [l for l in body if l.startswith("- [ ] ")]
-    todo_done = [l for l in body if l.startswith("- [x] ")]
+    todo_undone = [l for l in body if l.startswith("- [ ] ") or l.startswith("* [ ] ")]
+    todo_done = [l for l in body if l.startswith("- [x] ") or l.startswith("* [x] ")]
     # just add info all done
     if not todo_undone:
         return f"[{issue.title}]({issue.html_url}) all done", []
@@ -299,8 +299,9 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
+    title = '.'.join(x for x in issue.title if x not in '/ :?')
     md_name = os.path.join(
-        dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
+        dir_name, f"{issue.number}_{title}.md"
     )
     with open(md_name, "w") as f:
         f.write(f"# [{issue.title}]({issue.html_url})\n\n")
