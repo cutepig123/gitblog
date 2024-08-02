@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml)
 
 ## 最近更新
+- [CDiagramEditor](https://github.com/cutepig123/gitblog/issues/76)--2024-08-02
 - [簡化編程](https://github.com/cutepig123/gitblog/issues/75)--2024-08-02
 - [言論0802](https://github.com/cutepig123/gitblog/issues/74)--2024-08-02
 - [言论20240514](https://github.com/cutepig123/gitblog/issues/73)--2024-05-12
