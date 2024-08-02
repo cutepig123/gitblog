@@ -1,5 +1,1350 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2023-08-23T13:07:46.791854+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/46</id><title>再谈代理</title><updated>2023-08-23T13:07:47.078440+00:00</updated><content type="html"><![CDATA[<p>再谈代理</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/cutepig123/gitblog</id><title>RSS feed of cutepig123's gitblog</title><updated>2024-08-02T14:33:51.542945+00:00</updated><author><name>cutepig123</name><email>jinshouhe@gmail.com</email></author><link href="https://github.com/cutepig123/gitblog"/><link href="https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/cutepig123/gitblog/issues/75</id><title>簡化編程</title><updated>2024-08-02T14:33:51.782704+00:00</updated><content type="html"><![CDATA[<p>簡化編程</p>
+<p>TODO</p>
+<p>流程圖實現</p>
+<ul>
+<li><input disabled="" type="checkbox"> 包一层thin的layer，包一层cpp接口</li>
+<li><input disabled="" type="checkbox"> 包一层python接口</li>
+<li><input disabled="" type="checkbox"> 寫一個流程圖引擎（參考啥？）</li>
+</ul>
+<p>gui功能</p>
+<ul>
+<li><input disabled="" type="checkbox"> 看图控件，maskeditor，learn, insp,lighting setting， image tools with etw，intensity et</li>
+<li><input disabled="" type="checkbox"> 图像显示，放大缩小，画graphics，选择之后设置graphics属性，算法输入类似于idi</li>
+</ul>
+<p>gui實現</p>
+<ul>
+<li><input disabled="" type="checkbox"> 对常用功能用mfc编写gui</li>
+<li><input disabled="" type="checkbox"> 用opencv的gui</li>
+<li><input disabled="" type="checkbox"> 控件？</li>
+<li><input disabled="" type="checkbox"> mfc view</li>
+<li><input disabled="" type="checkbox"> mfc dialog</li>
+<li><input disabled="" type="checkbox"> mfc activex，放入c#测试</li>
+<li><input disabled="" type="checkbox"> qt</li>
+<li><input disabled="" type="checkbox"> wpf</li>
+<li><input disabled="" type="checkbox"> flutter</li>
+<li><input disabled="" type="checkbox"> electron之类</li>
+<li><input disabled="" type="checkbox"> gaclib</li>
+</ul>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/75"/><category term="TODO"/><published>2024-08-02T14:12:14+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/74</id><title>言論0802</title><updated>2024-08-02T14:33:51.889661+00:00</updated><content type="html"><![CDATA[<p>和我们公司一样，小leader都不写代码，不看算法，只跑产品和做汇报，我们的大leader很鄙视我们这些写码的，认为深度学习是随便一个高中生都能做的。多次暗示我他曾经带的名校高才生主动要求做产品经理。。。让我自己看着办。。。当然这种领导风格我们也没啥算法就是了。。算法就是基础模型加数据标注
+说真的，很多项目leader都不懂技术，他们要么是很久以前搞技术的，知识已经老化，要么就一直在搞项目管理，对技术不懂很正常。他们主要是给下面的人分活，给上面的人做报告，和其他部门扯皮，和业务人员套近乎，和测试人员干架。</p>
+<p>新农合。上限12W。必须住院。门诊急诊ICU不报。进口器材进口药不报。必须指定国产药国产器材。血液制品不报。县级乡村去省三甲看大病报销有的不到10%。</p>
+<p>发信人: CanonFans (00:00:01), 信区: WorkingLife
+标  题: 最近面的一个大龄码农
+发信站: 水木社区 (Tue May 14 17:17:42 2024), 站内</p>
+<p>年龄43，985本普通硕，之前在大厂做后端开发。
+去年11月被裁，中间找了一个小公司过度，但因为拖欠工资又辞职出来找工作了
+面试的技术经理职位，薪资要求50k。问低于50能不能接受说可以，最低30k。这就让我很为难了，跨度这么大，关键hr在场记录了</p>
+<p>问了问以往经历，家庭情况。两娃，大的15小的7岁，一套北京郊区房一套天津房，老婆没工作。现在老婆带着大娃在天津陪读，他自己带小的在北京。不能接受出差，要按时接送娃，周末要去天津团聚不能加班。基本躺平状态。</p>
+<p>当场给了结论，不适合该职位。事后hr暗示以后这种就不要约面试了。后面再推的简历基本都是30以下，或者大龄未婚的</p>
+<p>发信人: AK123 (AK), 信区: WorkingLife
+标  题: Re: 38岁了，是躺平还是再闯一闯？
+发信站: 水木社区 (Wed May 15 09:57:43 2024), 站内</p>
+<p>到一定程度和年纪，要不就自己做老板拉合伙人，要不就大厂呆着待变。去小厂，人家
+是要你干出来，你都这行业专家级别，行业啥情况你还不清楚.小行业没出来做死路，做出来也会被人摘桃子，因为你没有股权，就算有也不是老板。老板有动力发展更大，最终你肯定能力不配了，还是走上在大厂的路子。 </p>
+<p>: 如果你和要去老板之前熟识 了解<br />
+: 我觉得可以去<br />
+: 或者你就报定创业的心态 成功了财富自由 失败了也认了 也能去 </p>
+<p>发信人: CanonFans (00:00:01), 信区: WorkingLife
+标  题: Re: 最近面的一个大龄码农
+发信站: 水木社区 (Thu May 16 12:15:44 2024), 站内</p>
+<p>没有那么多。国企薪资很固定，调薪靠晋升。
+一般开发人员2.5-3.5，高级开发3.5-4.5，技术经理4.5-5.5，总监6-7
+绩效、奖金另算。总经理年薪50-90w，包含奖金绩效。</p>
+<p>你说的20w那种是互联网公司，那就随意给价了，反正钱不发给员工也是要交税给GJ</p>
+<p>【 在 ds1king 的大作中提到: 】
+: 你们技术经理大概在什么层级，每个月5w是挺高的了。我感觉怎么至少是个技术总监或者技术部门的负责人才能拿5w.
+: 我可能远离职场太久了，你们给技术经理5w, 那CTO不得每个月拿20w. 现在大家薪水都这么高了吗？</p>
+<p>3、Vnt
+一个开源工具，将不同网络下的多个设备虚拟到一个局域网下，类似与 tailscale、zerotier、n2n。（@lbl8603 投稿）</p>
+<p><a href="https://www.zhihu.com/question/650276476/answer/3452325412?utm_psn=1775146563427504128">https://www.zhihu.com/question/650276476/answer/3452325412?utm_psn=1775146563427504128</a></p>
+<p>深入研究日本生活的行家「Tony's YamaTrips 」，日前透過影片分享，日本旅館、飯店訂購確實有著「觀光客價格」的證據，他先以東京的飯店作為案例，選擇同一天同時段的同個飯店房型，結果使用全球旅客都可使用的「Booking網站」訂兩人房，要價766美元（約新台幣24826元），但若使用日本版的樂天旅遊網站訂同一間房，結果只要660美元（約新台幣21390元），一來一往價差就超過3千元。</p>
+<p>因此Tony也建議，外國觀光客可以選擇用日本當地的訂房網站，省下住宿費，如果看不懂日文，也可以使用Google翻譯作輔助。日本飯店設定「在地人」、「觀光客」價差</p>
+<p>如果你胆子大非要玩，搜索 “个人免签约支付接口 ”，很多这样的第三方接口，属于半灰产
+易支付</p>
+<p>面包多 爱发电 小商店 支付宝口令红包
+微信支付宝好友转账</p>
+<p>淘宝咸鱼如果封号, 一般支付宝号顺带封</p>
+<p>支付宝网上收款规定：需要公司，网站需备案。
+但实际：个人开通当面付，可以调 API ，单日小于 20000 就行。有个体执照没限额。
+个体核定征收哪有涉税问题。个人自主申报更没人管。</p>
+<p>现实中如你所说的那种，需求分析/设计/编码完全分离的场景不多，但是确实有很多人在上述各个环节的上通下达方面出了问题，根本原因一方面是太多太多人在一线经验还不足的时候升到了管理岗位，并从此之后不再接触一线，但他们同时还坐上了架构师的岗位，负责总领企业的架构问题，这样各种问题就会暴露出来。另外一方面则是公司文化，一些公司里面技术人员地位低下，很难做到高位，居高位者往往脱离一线已久。这些情况在一线大厂和成熟外企都还好，但传统企业里面的IT或者类似银行电信金融这样吃资源的比较糟。</p>
+<p>我觉得可能是把工作分的太细了，有需求设计人员，有的时候开发就不参与了，直接等着设计人员弄完需求设计 ，对着需求写就行。 但是不知道这个需求实际要解决实际问题，你开发的东西，能不能解决这个问题，导致很多人，在看到问题，分析问题，提出问题点，并设计解决方案，然后完成程序设计，其中的某一环，无法从全局的视角看问题。我遇到过的就是出现开发出功能，并不能完全的解决问题，开发推设计 ，设计推需求，大量时间与精力耗费在扯皮上。我希望的很多时候都参与问题的分析，发现需求并设计这一环，但是实际上很难，因为领导会觉得专人干专事更好</p>
+<p>所以你们公司还是非常不错的了。</p>
+<p>大厂里面大面积的能力断层，很多时候靠着卷，职位升到了一定高度，但是能力并不能匹配（大家应该可以认同大部分普通人的能力有天花板），就出现了一个奇怪的现象，平时怼人没商量的大佬，碰到平时没见过的需求或者设计，就开始不耻下问了：这个xx问题，你有啥好主意没？公司对此现象，美其名曰，为领导提供子弹[捂脸][捂脸][捂脸]
+其实吧，这个也真不是什么新鲜事，太普遍了</p>
+<p>我一直在国内，遇到的情况不太一样，开发是无权擅自定夺的。稍微复杂一点的需求，几乎都会发现需求问题，甚至一个白天都在给产品经理的逻辑修Bug，产品经理都不得不服我提出的Bug，最后只有晚上有时间写代码。
+不仅如此，还时长因为同事的代码不够完善而多花些时间。
+领导的领导只认为我效率太低。</p>
+<p>,在你表達意見之前,先問三個問 題,再發表自己的意見。這三個問題是：你對這個問題是怎麼想的?為什麼這樣想?有沒有其他解決方案?當然這三個問題可以有各種各樣的變化,可以是五個問題,甚至是十個問題。</p>
+<p>牙尖上的韭菜</p>
+<p>身份
+版主
+文章
+9032
+星座
+双子座
+积分
+31627
+等级
+云杉(7)</p>
+<p>发信人: Nay (牙尖上的韭菜), 信区: WorkingLife
+标  题: Re: 中年人提高英语最佳途径是什么？
+发信站: 水木社区 (Fri May 31 16:32:30 2024), 站内</p>
+<p>我给你支个招，首先要做的是提高听力水平，如果听不懂那么表达的时候会更慌，本来会表达的也不会了，具体方法可以每天坚持听英语广播，我以前听的是roundtable摩天轮，中外主持人讨论中国发生的新闻，每集一个小时，podcast还有回放。有故事背景的话比较容易听懂。第二是增加词汇量，拿本托福红宝书背几遍。做完这两点也就差不多了，口语这个事情可以放在最后练 </p>
+<p>发信人: brokenwing (菜鸟), 信区: WorkingLife
+标  题: Re: 中年人提高英语最佳途径是什么？
+发信站: 水木社区 (Fri May 31 13:38:23 2024), 站内</p>
+<p>把娃的英语外教抢过来
+话说陪娃上外教课那么多年，我的英语听力好像提升了。虽然老师讲课的用语都比较简单不难，但是我对口音的敏感性提高了</p>
+<p>发信人: webee (风起于青萍之末), 信区: WorkingLife
+标  题: Re: 中年人提高英语最佳途径是什么？
+发信站: 水木社区 (Fri May 31 13:47:46 2024), 站内</p>
+<p>喜马拉雅，走遍美国反复听，听新概念，englishcentral网站</p>
+<p>还有一个 duolingo app </p>
+<p>《40年40人》牟其中——前南德集團董事長 中國改革開放40年人物特輯(5) 20181109</p>
+<p>男女相处的过程中，其实默默遵循着“二八定律”。</p>
+<p>具体怎样来理解呢？</p>
+<p>比如说，两个人之所以相遇。</p>
+<p>这是20%的运气和磁场力，在起着作用。</p>
+<p>如果彼此，想要成全爱情，那么就要把握住80%的主动经营了。</p>
+<p>《你的善良必須有點鋒芒》也提到，如果習慣沉默、習慣委屈自己，就會離想要的生活愈來愈遠。因此，屬於自己的，就要積極爭取。</p>
+<p>如同羅德里格觀察，太謙虛、不懂表現自我的人，很容易錯過升遷機會，甚至淡出舞台。她說：「我以前也相信讓工作表現證明一切，無須多說什麼。但我現在認為，如果連你自己都不站出來替自己爭取機會，那其他人更不會這樣做。」
+來源：<a href="https://www.managertoday.com.tw/articles/view/68682??utm_source=copyshare">https://www.managertoday.com.tw/articles/view/68682??utm_source=copyshare</a>
+©經理人</p>
+<p>事實上，不只是一般工作者，主管如果謙虛過頭，也可能會被認為是優柔寡斷，缺乏領導力。《哈佛商業評論》（Harvard Business Review）指出，過度謙虛的領導者做決定時，會先詢問團隊每個成員的意見，雖然立意良善，想讓決策過程更民主，但很容易被誤解是不願意表達立場，或是做不了決定。因此，最好能建立決策機制，同時做到徵詢團隊意見，以及明確的決策時間點
+來源：<a href="https://www.managertoday.com.tw/articles/view/68682??utm_source=copyshare">https://www.managertoday.com.tw/articles/view/68682??utm_source=copyshare</a>
+©經理人</p>
+<p>有人的地方就有江湖。
+<a href="https://www.zhihu.com/question/548067056/answer/2682764667?utm_psn=1783090025166954496">https://www.zhihu.com/question/548067056/answer/2682764667?utm_psn=1783090025166954496</a></p>
+<p>估值一度高達人民幣435億元的獨角獸─柔宇科技傳出破產清算。（取自澎湃新聞）</p>
+<p>低代码平台能让你用 5%的时间完成 40%低代码平台提供的功能
+然后用 195%-395%的时间去完成省下的 60%
+发信人: hgoldfish (老鱼), 信区: CPlusPlus
+标  题: Re: boost/asio的协程调试非常麻烦，有没什么法子
+发信站: 水木社区 (Fri Jun 28 13:18:43 2024), 站内</p>
+<p>协程这东东就是操作系统的 CPU 调度部分的代码。可以从操作系统内核那边抄不少理念和代码。</p>
+<p>现在业界的走向有点意思，嫌弃:</p>
+<ol>
+<li>TCP 实现太弱鸡了，我自己干—— QUIC</li>
+<li>网络协议栈实现太弱鸡了，我自己干—— DPDK</li>
+<li>文件系统实在太一般了，我自己干—— FUSE</li>
+<li>资源管理我自己干—— docker</li>
+<li>CPU 调度我也自己来—— 协程。</li>
+</ol>
+<p>【 在 ylh0315 的大作中提到: 】
+: 没办法，这种事情全靠烧脑。
+: 我自己写协程，不到1000行代码，调了4个月。晚上睡不着都在想问题在哪儿。自己写的，细节都非常清楚，还这样。
+: 靠日志，追踪每个线程和协程的踪迹。日志要说明，哪个线程哪个协程。</p>
+<p>标  题: 看了姜萍月考卷子能感受她老师的痛苦
+发信站: 水木社区 (Fri Jun 28 19:53:05 2024), 站内</p>
+<p>题目非常非常简单，但看成绩表，大部分学生得分很低</p>
+<p>姜萍的老师王闰秋参加过几次比赛都进决赛了，而且还是江苏大学数学系研究生，还是优秀毕业生，水平毋庸置疑</p>
+<p>现在就能感受他的痛苦了，和这样一群ruozhi学生在一起是多么痛苦啊</p>
+<p>标  题: Re: 被领导、老板评价“太老实”是什么感觉？
+发信站: 水木社区 (Mon Jul  1 12:15:15 2024), 站内</p>
+<p>咱们社会的职场，这是负面评价吧。
+内核原因：心地善良，胆子小，不忍心通过变通的方法“欺骗”别人。感觉是还没有理解社会运行的规则，我们以自己内心的道德感去评判和理解这个世界，从行为上可能就会体现出老实的感觉。
+我也曾接到过这个评价，曾经试着改变，一切从利益出发，但后来放弃了，于我而言，太难，心理这关过不去，再加上从小到大接收的教育，想改变，不容易。现在就是做自己，怎么高兴怎么来，随便别人怎么评价。当然了，没什么大出息，就这样吧。哈哈</p>
+<p>【 在 ssteym (留下来陪我) 的大作中提到: 】
+:  我的直属领导（公司副总）好几次说过我“太老实”，我也不知道是褒是贬，难不成我<br />
+:  还辩解说我不老实。然后晚上和他电话会议的时候，他引用了老板的话，“你太老实”<br />
+:  。我一开始还以为是说我领导，说了一句“那不是你对我的评价嘛。”然后他再说了一<br />
+:  遍，我才明白，原来老板是在跟他说我。 </p>
+<p>标  题: Re: R7 8845的办公本有什么推荐吗？
+发信站: 水木社区 (Thu Jun 27 22:48:57 2024), 站内</p>
+<p>这不多的是，acer的，asus的，a豆的
+【 在 Siegelion 的大作中提到: 】
+: 现在只看到thinkbook 14+
+: 战99太重，战66最多到七代，还是R7 7735
+: 其他还有性价比高的机型吗？</p>
+<p>发信人: isxb2 (小兔2号), 信区: Notebook
+标  题: Re: R7 8845的办公本有什么推荐吗？
+发信站: 水木社区 (Sun Jun 30 22:21:57 2024), 站内</p>
+<p>还有tb14，不带加号，能加内存，cpu功耗低性能低一点。其他缩水的你自己看看。便宜几百块。</p>
+<p>我向来不惮以最坏的恶意揣测中国人”，先辈已经给总结好了。
+【 在 TDK1 的大作中提到: 】
+: 以前买炒菜油 偶尔换牌子 会遇到煤油味的 再就不敢买了，
+: 一直不知道怎么回事， 现在终于清楚了
+: [u</p>
+<p>超過20分鐘但少於150分鐘於同一車站閘機出入：[1]
+持有樂悠咭之60至64歲長者、成人八達通、成人車票二維碼及成人單程票：$10.0</p>
+<p>千瓦时，库仑，毫安时，焦耳是什么关系</p>
+<p>1焦耳可以定义为：</p>
+<p>施加1牛顿作用力经过1米距离所需的能量（或做的机械功）。
+移动1库仑电荷通过1伏特电压差所需做的功，或1库仑·伏特。这关系也可以逆反过来定义伏特。
+产生1瓦特功率1秒时间所需做的功，或1瓦特·秒。这关系也可以逆反过来定义瓦特。</p>
+<p>1库仑是 1安培电流在 1秒钟内传递的电荷</p>
+<p>1千瓦·时就是一个功率为1千瓦的耗能设备在1小时内所消耗的能量，等于360万焦耳（3.6MJ）。</p>
+<p>读书
+成为技术领导者
+/理解专业程序员.pdf
+薛兆丰经济学讲义
+冯唐成事心法</p>
+<p>笔记
+引用: x9901 发表于 2023-8-2 22:16
+一个问题是打不动，另一个问题是用力压钻，小钻头打穿的时候断钻头可能性非常大。
+3.5mm的镶合金钻头没什 ...</p>
+<p>手电钻打这个就是这样 要不要小台钻干啥</p>
+<p>只能小心  断钻头难免 反正就是别蛮干
+压不动根源还是钻头打不动 或者钻头钝了  工欲善其事必先利其器 好钻头肯定好打<br />
+保持垂直手稳就是经验问题了  你让一个经验丰富的用钝钻头照样压不动..断钻头</p>
+<p>我给家里不锈钢菜罩开孔，几百个。3mm钻头，幸好不锈钢薄，用钉子敲个凹槽再钻，一边加点水</p>
+<p><a href="https://mp.weixin.qq.com/s/lnrStYTfr0ggRp3JbVpVTw">https://mp.weixin.qq.com/s/lnrStYTfr0ggRp3JbVpVTw</a>
+DeepMind 文章连接：<a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/">https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/</a></p>
+<p>常用 AI 辅助证明的数学家陶哲轩近期正处在出差的忙碌中，对问题求解引擎 AlphaProof 和 AlphaGeometry2 还未完全消化。但他在自己的博客上对 DeepMind 的 AI 系统参加 IMO 竞赛这件事表达了自己的看法。</p>
+<p>发信人: duke2015 (welllog), 信区: MyFamily
+标  题: Re: 北美的亚男真是太惨了
+发信站: 水木社区 (Wed Jun 12 16:18:15 2024), 站内</p>
+<p>你才知道，出国前两件事，学车，找老婆。出国前问问老生都会提醒你的
+【 在 Dhyanacap 的大作中提到: 】
+: 这次端午节碰到一个小时候的学霸，复旦本硕，在微软当码农，可是当年学校的风云人物
+: 他说自己在西雅图找不到老婆，后来去了加拿大还是找不到老婆，这次回国搬运老婆回去
+cpp draw on electron canvas
+<a href="https://stackoverflow.com/questions/40166912/hook-up-c-code-to-an-html-canvas-in-an-electron-app">https://stackoverflow.com/questions/40166912/hook-up-c-code-to-an-html-canvas-in-an-electron-app</a></p>
+<p>Electron 所基于的 Chromium API 未向原生 Node 插件公开，因此我认为您无法从原生 Node 插件直接渲染到画布。但 Electron 确实支持 Chromium 的 Pepper 插件，该插件应该能够渲染 GPU 加速内容，因此这可能是您最好的选择。不幸的是，我从未找到任何概述 Pepper 插件全部功能的文档，但至少有一些示例插件可供您查看。</p>
+<p><a href="https://github.com/electron/electron/issues/10547">https://github.com/electron/electron/issues/10547</a></p>
+<p><a href="https://groups.google.com/g/dart-ffi/c/Z13mBC4Bv9U?pli=1&amp;authuser=0">https://groups.google.com/g/dart-ffi/c/Z13mBC4Bv9U?pli=1</a></p>
+<p>假设您正在谈论 Flutter 中的 Dart API Canvas：您可以使用从 C 回调到 Dart 来调用 Canvas 上的相关 Dart 函数。</p>
+<p>如果您想从任意线程（而不是主 Dart 线程）执行回调，则需要使用本机端口。这两个示例中记录了其工作原理。</p>
+<p>相关问题
+What is the alternative to NumPy in C#?
+NumSharp is a C# library akin to Python's NumPy, offering a suite of numerical computing tools. It simplifies complex math and data tasks, supports multi-dimensional arrays, linear algebra, and statistics, and integrates with ML.NET for data science and machine learning</p>
+<p>如何暴露cpp的连续内存给numpy
+<a href="https://pybind11.readthedocs.io/en/stable/advanced/pycpp/numpy.html">https://pybind11.readthedocs.io/en/stable/advanced/pycpp/numpy.html</a></p>
+<p>Buffer protocol</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/74"/><published>2024-08-02T13:36:37+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/73</id><title>言论20240514</title><updated>2024-08-02T14:33:52.030544+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>标  题: Re: 一孩，送出国，断绝关系
+发信站: 水木社区 (Sat Apr 27 16:12:33 2024), 站内</p>
+<p>所以早就说了，养娃不如找保姆，把养娃的钱用来找保姆，可以找6个保姆，每天24小时全天候伺候，爽歪歪</p>
+<p>【 在 basil0907 的大作中提到: 】
+: 如果是我，白天还要上班，一晚起夜两次，持续一个月，我就自己垮掉了。</p>
+<p>根據我的觀察，c++一般的人寫的代碼效率比c要差很多，那些搞不懂傳值，傳引用的人，一不小心就把一個很重的對象複製了n次而不自知</p>
+<p>我倒是巴不得有什么神奇的低代码可以让产品或者业务人员搞开发，让他们看看自己的需求到底是什么玩意</p>
+<p><a href="https://m.douban.com/subject_collection/ECQU5U7HQ">https://m.douban.com/subject_collection/ECQU5U7HQ</a>
+社會紀實圖書排行</p>
+<p>getting real
+<a href="https://basecamp.com/gettingreal/01.1-what-is-getting-real">https://basecamp.com/gettingreal/01.1-what-is-getting-real</a></p>
+<p>一個成功獨立工作者的故事
+<a href="https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo">https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo</a></p>
+<p>马斯克小时候特别喜欢纠错，把同学错误毫不留情全骂一遍，烦得同学们集体揍他，马斯克被揍得从楼梯滚下去，回家休息了一星期。</p>
+<p>当然阿斯伯格的成年人也这样，只不过可能隐藏得更深、或者控制得更好。马斯克的前妻说，马斯克刚认识她，就邀请她去自己房间看“他的大火箭”。前妻以为马斯克是在开车，没想到真的是看火箭。正常人谁有这个思路......</p>
+<p>阿斯伯格症的儿童通常运动方面发育落后，例如拍球或跳绳学得比别人慢。他们基本上都看起来比较笨拙不协调，也不爱运动。马斯克小时候上的私立学校很重视体育，但是他一点都不喜欢运动，一天到晚窝起来在读书。</p>
+<p>我有几个阿斯伯格的学生，都是肢体软塌塌的，不肯好好端坐，总要靠墙扶墙的 。并且才小学就有点头前伸，后脖梗都长富贵包了。</p>
+<p>除了霍夫曼的精彩表演之外，影片的两首歌曲《寂静之声》与《斯卡布罗市》非常动听。乡村民谣的曲风带着淡淡的忧伤与迷茫曾经让我沉醉其中很久。每次听到这两首歌曲，就会想到班，想到自己毕业的时候</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/73"/><published>2024-05-12T15:06:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/72</id><title>gpu测试卷积</title><updated>2024-08-02T14:33:52.155563+00:00</updated><content type="html"><![CDATA[<p>卷积的用途
+魔板匹配</p>
+<p>pytorch測試</p>
+<p>平台
+googlecolab
+<a href="https://colab.research.google.com/github/pytorch/audio/blob/gh-pages/main/_downloads/bd34dff0656a1aa627d444a8d1a5957f/online_asr_tutorial.ipynb#scrollTo=xfekQLywStzJ">https://colab.research.google.com/github/pytorch/audio/blob/gh-pages/main/_downloads/bd34dff0656a1aa627d444a8d1a5957f/online_asr_tutorial.ipynb#scrollTo=xfekQLywStzJ</a></p>
+<p>工具
+poe assistant輔助生產代碼</p>
+<p>卷積測試
+import torch
+import torch.nn as nn</p>
+<h1>创建一个3x3的全为1的卷积核</h1>
+<p>kernel_size = (3, 3)
+weights = torch.ones(1, 1, *kernel_size)  # 输入通道数为1，输出通道数为1</p>
+<h1>使用全为1的卷积核创建卷积层</h1>
+<p>conv_layer = nn.Conv2d(in_channels=1, out_channels=1, kernel_size=kernel_size, bias=False)
+conv_layer.weight.data = weights  # 将权重参数设置为全为1的卷积核</p>
+<h1>执行卷积操作</h1>
+<p>input_tensor = torch.ones(1, 1, 5, 5)  # 输入张量大小为(batch_size, channels, height, width)
+output_tensor = conv_layer(input_tensor)</p>
+<h1>打印输出张量的值</h1>
+<p>print(output_tensor)</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/72"/><published>2024-05-12T15:03:43+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/71</id><title>llama3测试</title><updated>2024-08-02T14:33:52.253435+00:00</updated><content type="html"><![CDATA[<p>llama3测试</p>
+<p>安装软件
+ollama for windows
+docker for windows</p>
+<p>启动ollama服务器 windows
+set OLLAMA_HOST=0.0.0.0:8080
+ollama serve</p>
+<p>调用ollama</p>
+<ol>
+<li>
+<p>直接调用ollama
+curl <a href="http://192.168.1.138:8080/api/generate">http://192.168.1.138:8080/api/generate</a> -d '{
+&quot;model&quot;: &quot;llama3&quot;,
+&quot;prompt&quot;:&quot;Why is the sky blue?&quot;
+}'</p>
+</li>
+<li>
+<p>通过chatollama掉用
+d:<br />
+cd code\chatollama
+docker compose up</p>
+</li>
+</ol>
+<p>本地数据索引
+下载nomic-embed-text:latest，然后在本地数据库的embedding里面敲进去nomic-embed-text:latest</p>
+<p><a href="https://github.com/ollama/ollama/issues/703">https://github.com/ollama/ollama/issues/703</a>
+<a href="https://docs.docker.com/desktop/wsl/">https://docs.docker.com/desktop/wsl/</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/71"/><published>2024-04-30T16:19:32+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/70</id><title>言论0430</title><updated>2024-08-02T14:33:52.352336+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>你其实还是把集体主义的思路带到美国去了，这就导致你主观上认为政府关心人民，为人民谋福利就是民主，同样的，人民生活的改善，社会的进步也依赖于政府合理的规划。注意，美国的核心逻辑就不同于集体主义，王沪宁概括的很好，中国是先有中央再有地方，美国是先有地方再有中央，两个国家底层逻辑不同。</p>
+<p>摩登时代，资本主义对人的物化</p>
+<p>逆淘汰</p>
+<p>飞书为什么大幅裁员？
+软件工程学的灾难。
+当年微软开发windows95也没有用8000人。
+我认为主要原因是包括字节在内的产品经理为主导的开发模式导致的。中国的这个产品经理导向的产品经理是策划导向的，而不是技术导向的。大多数所谓产品经理对软件工程根本不了解。导致了软件开发的灾难。
+软件工程是一门技术，也是一门艺术，并不是堆人就能出成果的。而且很多时候人越多效率越低。</p>
+<p>计软科班出身，学过软件工程的，可能还知道人月神话。现在大部分产品经理，连《人人都是产品经理》这本书还没看完就上岗了</p>
+<p>大厂的产品其实不是考虑产品发展，而是考虑如何迎合老板的口味。这帮产品能力还是可以的，但更多花心思在老板年度战略上，一切以老板战略为主，至于对产品是不是真的好，这个是次要的。我遇到的产品经理主要分三档：第一档是将产品视为己出，一切以产品出发的，这种人不但产品做得好，和老板的关系也很融洽，但是少之又少，遇到的没有几个。第二档有不错的产品设计能力，清楚业务了解技术，能够推进落实需求，但主要精力只关注自己的晋升不在乎产品的发展。其实这也是大厂中最多的人，运用、产品，市场、技术都是这样，相对这样的技术会少一些。第三档或不懂业务、或不了解技术，纯粹的传话筒，也是技术最讨厌的类型。不过这种一般都在大厂都安排做边角料了，中小公司的产品质量普遍都是这样。
+再说一个情况：有一段时间我们对接的产品都是实习生，但是这些实习生能力还是很强的，虽然不太理解业务，但是软技能没得挑，后来才知道人家都是清华、北大这些学校的，好像很少见到c9之外的小朋友[捂脸]这种情况下，产品其实很难做好，但是老板的意志推进很不错</p>
+<p>在《遗失的访谈》里，乔布斯说完微软做的都是三流的产品后，主持人问他，你打算改变这个局面吗？NeXT 有什么计划？
+乔布斯回答说：“我什么也做不了，NeXT 只是一家小公司，我只能眼睁睁地看着，我什么也做不了。”
+乔布斯在刚回归苹果的时候曾说过，他回苹果当然是有感情方面原因，因为苹果公司本来就是他创办的。但是还有一个原因，就是苹果有雄厚的资金</p>
+<p>黑格尔在《历史哲学》中评价中国道：造成中国的落后的原因是中国人内在精神的黑暗，中国是一片还没有被人类精神之光照亮的土地，在那里， 理性与自由 的太阳还没有升起，人还没有摆脱原始的、自然的愚昧状态。中国人没有独立人格，对内顺从宗族长者，对外在官府面前逆来顺受。中国的历史从本质上看是没有历史的，它只是君主覆灭的一再重复而已。<br>古代中国就像一个牢笼，以封死自己几乎所有出口为代价，带来了对资源的高度调动效率，一代又一代人反复走在同一条上不断循环，被锁死的中国历史，在很长一段时间里都不在滚动，直到某种外力的出现。</p>
+<p>TockOS是一款较新近的专用于无线传感器网络节点的一款开源实时操作系统。和其他实时操作系统不同，它使用类型安全而性能接近于C语言的Rust语言编写内核</p>
+<p>我目前实践海外独立开发产品最快，成本最低的一套方案是：前端直接github
+推送vercel部署，tailwind写样式，后端通过购买海外服务器 例如：RackNerd
+（一年100元）部署Node.js API数据库用planetscale云数据库，无需自己部署，免费额度够用，鉴权用supabase，每月5万免费用户额度
+基本就差不多了。上线贼快，如果用户上来了再考虑拓展。（PS 大部分情况下如果你使用超过免费额度，说明网站已经给你带来相当大一个收入了）
+这个地址把独立开发技术栈列得很全了：
+<a href="https://oversaas.club/techstack%E2%80%8B">https://oversaas.club/techstack​</a>
+<a href="http://oversaas.club/techstack">oversaas.club/techstack</a></p>
+<p><a href="https://ntce.neea.edu.cn/html1/folder/16013/15-1.htm">https://ntce.neea.edu.cn/html1/folder/16013/15-1.htm</a> 广东中小学教师资格考试网上报名流程
+广东省2024年上半年中小学教师资格考试笔试报名时间为2024年1月12日9:30至15日16:00
+2024年上半年广东省中小学教师资格考试笔试将于3月9日举行</p>
+<p>线上兼职少儿编程教师 <a href="https://www.zhipin.com/zhaopin/b6d44fa9ba74070b1nNy0tW5Ew~~/">https://www.zhipin.com/zhaopin/b6d44fa9ba74070b1nNy0tW5Ew~~/</a> </p>
+<p><a href="https://www.zhipin.com/job_detail/034c2b1d71f3eda21XN-2tS1FlpT.html?ka=seo-search-word-job0">https://www.zhipin.com/job_detail/034c2b1d71f3eda21XN-2tS1FlpT.html?ka=seo-search-word-job0</a>
+招聘截止时间：2023-05-31
+岗位名称：
+小学、初中数学—兼职录题老师
+工作方式：
+时间自由，平均一个小时能录8-10题，无需露脸，利用平板/电脑录屏—讲解题目，注意是录题老师，并不是上课老师
+资质要求（二选一）：
+1、在读大学生或研究生需提供学信网在籍信息截图，23届应届生也可；
+2、已毕业非在籍人员，需提供教师资格证、教资笔试全科成绩通过截图、教资合格证、相关教学工作证明。
+以上资质提供其一即可；（资格证仅限学科，艺术类不行）
+岗位要求：
+1、具备小数或初数夯实的数学学科知识体系；
+2、普通话标准，录制环境安静，板书工整美观；</p>
+<p><a href="https://www.zhipin.com/job_detail/4da46933a8d116a91HZ-3960EVtW.html?ka=seo-search-word-job1_blank&amp;lid=&amp;securityId=">https://www.zhipin.com/job_detail/4da46933a8d116a91HZ-3960EVtW.html?ka=seo-search-word-job1_blank&amp;lid=&amp;securityId=</a>
+线上授课、无需坐班、地点不限、时间自由
+1、主讲授课、课后作业批改（公司提供大部分课件）
+2、设备支持有平板+电容笔或笔记本+数位板即可;
+3、排课时间集中在周六晚上和周日全天（排课时间根据老师和学生的时间双向匹配）
+4、课时费月结（每月15日结算上个月课时费）
+要求:
+1、统招本科学历，2年以上高中教学经验;
+2、有线上授课设备
+3、具备基本电脑操作能力;
+4、能每周固定时间排课且长期合作
+考核流程：
+①笔试②面试③签订协议④排课接课</p>
+<p>python接单 </p>
+<p>后来想起来，行业内一个比较资深的CTO曾经说过：“对于CTO来讲，最重要的事情就是跟CEO搞好关系。”</p>
+<p>你有没发现，现在去理发，我只敢去老的旧的，中老年人的理发店，装修好一点的，逼格高点都不敢去了，一进去就问你有预约吗？预什么约啊，我就是剪个头发而已，还有问，你找那个老师？现在什么人都称老师了吗？剪个头发个个取英文名，各种头衔，首席，总监，特级，高级，中级，初级，助理，，就是剪个头发而已，有必要吗？40平米的店，还带个耳麦，就隔着4米远，有必要用耳麦吗？就不能喊一句？</p>
+<p>作者：斜杆
+链接：<a href="https://www.zhihu.com/question/646883941/answer/3425427219">https://www.zhihu.com/question/646883941/answer/3425427219</a>
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>回复 @PM网事 :你神奇地把问题变成了 「项目经理什么技术都要懂吗？』，可你自己的标题却是「一个不懂技术的项目经理凭什么管理技术团队」。
+这完全是两个逻辑命题。符合后者的情况是:
+让不懂计算机软件的人管理程序员技术团队，
+让不懂电路的人管理电子维修团队，
+让不懂土木的人管理建筑设计团队，
+让不懂爆破的人管理爆破团队，
+难道找一个具有相应技术能力的人，对「技术团队」进行管理，就这么难吗？
+管理，最起码的就是权责绑定，出了问题负得起责任吗？你不懂爆破，你敢不敢当爆破技术团队的项目管理？
+退一万步，就算只要对进度负责，可出了问题扯皮扯到过年你都无法决断，你效率很高？
+对不起，对于技术团队，不懂技术的人负不起这责任。
+因为缺乏技术知识，从而缺乏判断力。
+没有判断力的人怎么区分人员的优劣，活计的好坏？怎么预见可能的坑，你自己都两眼一抹黑，怎么让人跟着你节奏？人心涣散是必然。
+你说的就是人形自走PPT，空口白话撒了比。</p>
+<p>当项目经理的痛苦在于——你并不参与任何执行，但你需要对成果负责。如何使用沟通、会议手段管理上司、重要领导，如何使用激励、惩罚来管控交付进度，遇到资源冲突的时候如何争夺资源把控进度，遇到重要成员请假如何合理规划交付里程碑等等，每天光是应对这些问题，头发就能一抓一大把。</p>
+<p>很多时候，我们觉得某样东西非常糟糕，但是其他人却很欣赏。
+与其怀疑别人，不妨换个角度，假定那确实是很好的东西，然后尝试去理解它。有了这种态度，更容易学到新东西，并会为你省去很多挫折、误解和与他人的冲突。
+-- 《你无法欣赏你不理解的东西</p>
+<p>GOOGLE chrom 插件</p>
+<p>ChatGPT Sidebar</p>
+<p>GPT-4无限用</p>
+<p>云泥之别</p>
+<p>3.5不用花钱随便用</p>
+<p>在 StackBlitz 上尝试完整的示例。按钮现在可以交互了</p>
+<p>况且让中国人喝汤养生无需任何市场教育成本，虽然一些医生早就科普：汤头里多是油脂，不如肉有营养，但仍难敌中国人千年喝汤养生的习惯。</p>
+<p>水平差的程序员写什么编程语言好？
+大项目，不能用差程序员
+小项目，python，cs，web都行</p>
+<p>而编写优秀的代码逐渐成了大团队的工作。然而这样的团队经常会沦为平庸, 因为单就其大小就足以滋生官僚主义和缺乏创新。每个大的团队都将面临这样的挑 战:在组织好那些才华横溢的成员的同时,又要鼓励领导能力和灵活性。</p>
+<p>卡特勒在这种平衡术上表现杰出;他是能够让盖茨梦想成真的唯一合适人选。 他既是明星球员,又是明星教练;他设定优先级,亲自编写关键代码,评审其他人 的工作。但是他的领导也是有代价的。大多数他的跟随者们过着一维的生活;工作 就是他们的全部。朋友退居幕后;婚姻紧张甚至破裂;孩子们被忽视,或者推迟生 孩子的计划;业余爱好也没有了。计算机代码意味着一切。如果还能照顾到什么个 人的梦想,那也只是为了减轻创造 NT 的痛认证新题库</p>
+<p>“我们的工作非常非常艰苦,” 卡特勒说,“若干年以后,这个团队的人回过头来看的时候将充满自豪。他们会说, 这是我有生以来最大的成就,我的生活从来没有如此简单。我不用担心自己的职业 生涯,不用担心自己的幸福,也不用担心能否处理好与老板和朋友的关系。我只有 一件事情需要关心———————那就是交付这个产品。并且尽己所能做到最好。”</p>
+<p>在20世纪60年代初期,IBM尝试在软件领域掀起一场革命,能让同一个程序在 任意数量的计算机上运行。IBM计划开发一系列机器,这些机器覆盖了大多数市场, 三们是由一个操作系统控制的。这个耗资五亿美元开发的System/360产品线取得了 巨大的成功。但是它的产生过程是很痛苦的,主要是因为创建软件的难度和成本被 二大低估了。第一台360硬件是在1964年问世的,直到五年后它的所有软件才能够 三好地运行。到那时,IBM在编写软件方面所花的钱已经差不多与设计硬件一样多。 使IBM公司的经理们非常吃惊,也非常生动地显示出了“影响计算机科技进步的 大障碍”和管理大型软件项目的问题。</p>
+<p>1977年10月,第一台Vax计算机问世了。它的巨大成功把卡特勒推到了一流软 件设计师的前列。举例来说,贝尔就毫不犹豫地称卡特勒是这个世界上操作系统的 最好编写者。财富和荣誉——————成就的体现——————都送到了卡特勒面前。但这些没有一 样能改变他的脾气。DEC中日益增涨的官僚作风令他讨厌。“我是一个实干家,但是 「做事情变得越来越艰难,”他说。令他最难以接受的是,他再不能以他习惯的管理方 式来指挥 VMS 项目。因为这个程序现在对公司的前途如此重要,所以一群经理都希 望来改进它。卡特勒发怒了:“这个项目给汤姆、迪克和哈里提供了机会,无论你要 做什么,他们都过来找茬,挡住项目的去路。当然,应当有一定数量的审查。那是 正常的。但是和这个项目根本不相干的人也会突然出现,询问为什么你在做这个, 为什么你在做那个?”</p>
+<p>虽然双重责 任带来了更多压力,但盖茨总想避免让没有编程经验或者只有过时知识的职业经理 人来管理公司。仅依靠管理专家来领导软件团队———————或者软件公司,这简直是破坏 【性的。他们既不能辨认出哪些是有前途的程序,也不能评估进度或产品的设计。在 管理专家经营的公司里,这些职业经理们到后来总是不相信他们的程序工程师,因 为他们不懂也不能进行任何控制。</p>
+<p>卡特勒加入微软之举导致了DEC大批员工离职。他并非要掠夺他以前的老板, 而仅仅是因为他的同事把他看作是一位高科技摩西,他也从同事对他的忠诚中受 益。不到一个星期,微软就从卡特勒原来的实验室中招聘了7位顶尖级编程工程师。</p>
+<p>这一年的经历使伍德对OS/2彻底失望,OS/2能同时运行多种程序(DOS则不可能),但只要任何应用程序出现问题,整个OS/2就不能运转了。伍德 像丢“一包垃圾”一样放弃了OS/2,还认为这是“好设计不可能出自委员会(译者 注:“委员会设计”指很多人同时进行设计,却没有统一的看法)”的最好例证</p>
+<p>如果你在为人际关系而烦恼，记住，你不要取悦别人，你要取悦自己。这是最重要的
+关于教育，你要发现他的兴趣，引导他</p>
+<p>屏幕标注软件 gink ppink</p>
+<p>obs录屏</p>
+<p>这不就是乔布斯说的喜欢和聪明人共事，不用顾忌他们的尊严吗
+乔布斯够聪明吧，可要是谁不顾忌他的尊严，乔布斯可以立马暴怒翻脸。这是一句典型的pua话语，潜台词就是生气就代表你愚笨。这个世界上的所有人，不论聪明还是愚笨，富有还是贫穷，有权势还是落寞，都需要尊重这个东西，这是人性。可能正是因为乔布斯的亲生父母在他出生时抛弃了他，给乔布斯带来了极大的羞耻感，所以乔布斯这辈子也总是不尊重他人，总是让他人难堪，让他人感到羞耻。</p>
+<p><a href="https://m.qtfm.cn/share/vchannels/422661?platform=direct_link">https://m.qtfm.cn/share/vchannels/422661?platform=direct_link</a></p>
+<p><a href="https://llama3.dev/">https://llama3.dev/</a></p>
+<p>特斯拉的市值高得离谱，达到4800亿美元，2022年总收入810亿美元，市盈率36倍。</p>
+<p>相比之下，美国最大的汽车公司----通用汽车的市值500亿美元，2022年总收入为1720亿美元，市盈率6倍。</p>
+<p>特斯拉的问题在于，市场把它当成 Meta 和谷歌那样的科技公司，但它实际上是一家汽车公司。一旦市场开始认清这一点，股价就不可避免地下跌了。
+胡泳在文章中说：“人生是从屎尿屁开始的，最后也归于屎尿屁。这是人生的基本常识，只不过我们用各种东西掩饰它。我们发明各种委婉语，巧妙地觉得它不存在。没有必要掩饰。这就是真相，人生的真相。我母亲现在在家里随处大小便，不是真的随处大小便，而是使用移动的坐便器，所以屋子内常年弥漫一股屎尿味。而这就是人生真实的味道。”</p>
+<p>香港大学经管学院金融学教授陈志武对路透社表示，今年广交会的关键词将是“低价”。“由于中国国内对商品的需求远低于往常，而且大多数行业产能过剩严重，因此制造商必须降价以实现更多出口。”他说。</p>
+<p>不要跟这些经济学家玩文字游戏了，投资消费都可以拉动经济，关键是分配比例，他们从来不敢谈这个。林毅夫口口声声说生产力和效率提高，这个当然重要，但首先，大部分所谓投资是投到研发领域了吗？没有吧，大部分去了基建，所以以前房地产那么火。其次，真的能投入到制造研发里面去，大幅度提高生产力水平和效率了，但税负，五险一金还是那么高，工人收入也得不到提升，还是没钱消费，这些问题他们敢触及吗</p>
+<p>开会最怕的是目的和资源错配。</p>
+<p>比如很多业务问题，必须要通过开好几个小会先把问题、责任捋清楚了，再开中会、开大会宣贯。但业务能力比较拉胯的领导不清楚业务的内在逻辑，他找不到关键的人开小会，那就索性把利益相关方都拉来开会。</p>
+<p>标  题: 梳理了一下，人类在工程上的理论技巧已经被AI打得找不着北了
+发信站: 水木社区 (Fri Apr 19 16:33:11 2024), 站内</p>
+<p>陶泽轩很火的压缩感知，现在MRI都不用了，全面拥抱CNN卷积神经网络
+高深难调的逆动力学，现在很多人形机器人企业为了省事都放弃了，直接在DRL虚拟环境试炼，然后sim2real
+高阶偏微分行列式，需要申请的超算算力让天气预报都躲着走，还不如将历史气象数据end2end，拟合出一个神经网络，单块4090都可以做预测
+还有用Transformer在数据和时序分析中打败传统数据扩增+xgboost的</p>
+<p>人类优雅的理论和技巧在现实工程中，已经逐渐输给各类神经网络了。。。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/70"/><published>2024-04-28T03:26:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/69</id><title>言论0410</title><updated>2024-08-02T14:33:52.473845+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>致富方法4 决定人生的四种工作方式</p>
+<p>这个世界上存在着四种不同的工作方式。</p>
+<p>罗伯特·清崎在《富爸爸穷爸爸》的“富爸爸的现金流象限”一 节中写道,人们得到金钱(现金流)的方式主要有四种。据此可以 把人们分在四个不同的象限。</p>
+<p>E象限:Employee(工薪族)</p>
+<p>S象限:Self-Employed (自营业者)</p>
+<p>B象限:Business Owner (企业主)</p>
+<p>I象限:Investor(投资家)</p>
+<p>E</p>
+<p>Employee 工薪族</p>
+<p>S</p>
+<p>Self-Employed 自营业者</p>
+<p>B</p>
+<p>Business Owner 企业主</p>
+<p>Investor 投资家</p>
+<p>一个人到底属于哪个象限,取决于他的钱从哪里来。</p>
+<p>python gui</p>
+<p><a href="https://www.gradio.app/guides/quickstart">https://www.gradio.app/guides/quickstart</a>
+网页界面，支持图像，比较适合ai算法可视化
+``python
+import gradio as gr</p>
+<p>def greet(name, intensity):
+return &quot;Hello, &quot; + name + &quot;!&quot; * int(intensity)</p>
+<p>demo = gr.Interface(
+fn=greet,
+inputs=[&quot;text&quot;, &quot;slider&quot;],
+outputs=[&quot;text&quot;],
+)</p>
+<p>demo.launch()</p>
+<pre><code>
+https://pyecharts.org/#/zh-cn/quickstart
+主要是图表可视化
+```python
+from pyecharts.charts import Bar
+
+bar = (
+    Bar()
+    .add_xaxis([&quot;衬衫&quot;, &quot;羊毛衫&quot;, &quot;雪纺衫&quot;, &quot;裤子&quot;, &quot;高跟鞋&quot;, &quot;袜子&quot;])
+    .add_yaxis(&quot;商家A&quot;, [5, 20, 36, 10, 75, 90])
+)
+bar.render()
+</code></pre>
+<p><a href="https://dash.plotly.com/minimal-app">https://dash.plotly.com/minimal-app</a>
+<a href="https://www.cnblogs.com/feffery/p/14258438.html">https://www.cnblogs.com/feffery/p/14258438.html</a>
+交互式，图表可视化</p>
+<pre><code>from dash import Dash, html, dcc, callback, Output, Input
+import plotly.express as px
+import pandas as pd
+
+df = pd.read_csv(&#x27;https://raw.githubusercontent.com/plotly/datasets/master/gapminder_unfiltered.csv&#x27;)
+
+app = Dash(__name__)
+
+app.layout = html.Div([
+    html.H1(children=&#x27;Title of Dash App&#x27;, style={&#x27;textAlign&#x27;:&#x27;center&#x27;}),
+    dcc.Dropdown(df.country.unique(), &#x27;Canada&#x27;, id=&#x27;dropdown-selection&#x27;),
+    dcc.Graph(id=&#x27;graph-content&#x27;)
+])
+
+@callback(
+    Output(&#x27;graph-content&#x27;, &#x27;figure&#x27;),
+    Input(&#x27;dropdown-selection&#x27;, &#x27;value&#x27;)
+)
+def update_graph(value):
+    dff = df[df.country==value]
+    return px.line(dff, x=&#x27;year&#x27;, y=&#x27;pop&#x27;)
+
+if __name__ == &#x27;__main__&#x27;:
+    app.run(debug=True)
+
+
+</code></pre>
+<p>严格按照软件工程的过程去做设计，是省时间的，也避免扯皮，最重要的是产品质量有保证。</p>
+<p>但是，甲方， 产品经理都没那意识与能力。 而写程序的一般也没有设计能力（有着能力的，都的35岁之后了，20几岁刚毕业， 坑都没踩完）。</p>
+<p>而你说的企业不给修改时间， 不给测试时间， 不给写文档时间， 那正说明了 企业的管理者不懂，没能力。</p>
+<p>同学聚会最悲哀的是，曾经那些意气风发、才华横溢之人，如今却各奔东西，生活窘迫。</p>
+<p>作为一个小leader我可以很明确的告诉你, 提拔一个人99%是因为组织上觉得不给他晋升他就要润了,而他润了给公司带来的损失大于直接给他晋升带来的损失. 别听什么个人成长那套画大饼的话术, 资本是很冷血的.1%是因为可能他老板要晋升了, 所以需要提一个人来填充序列.</p>
+<p>作者：知乎用户
+链接：<a href="https://www.zhihu.com/question/615660461/answer/3212993699">https://www.zhihu.com/question/615660461/answer/3212993699</a>
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p><a href="https://www.zhihu.com/question/615660461/answer/3212570808?utm_psn=1761015083617083392">https://www.zhihu.com/question/615660461/answer/3212570808?utm_psn=1761015083617083392</a>
+当领导，要么就奸一点，学会欺下媚上。要么就狠一点，学会杀伐果断。要么就坏一点，学会排除异己……</p>
+<p>，腾讯科技《撤换高管，重整供应链，小米如何在一年内完成逆转？》一文揭秘了周光平被撤换的内幕。他很有个性，处事不够圆滑，很难在内部和谐相处。“周光平是一个居功自傲的人，喜欢用赌气威胁的态度讨论问题，这点在摩托罗拉时就曾多次发生。”一个曾与他共事的人评价道</p>
+<p>周光平本人是一个居功自傲喜欢亮出威胁赌气的语气的人，有一次雷军问为什么OPPO和vivo为什么能在供应链做得那么好小米却不行，不料周光平直接回怼雷军道：“那你去找OV的人吧” 导致场面十分尴尬。</p>
+<p>甚至在一次小米举办的供应商大会上，有供应商的高管在现场没穿小米发的衣服，到了大会合影环节，郭俊看到后很气愤，直接把这几个人轰下去了，从此这些供应商拒绝再与郭俊见面</p>
+<p>在供应链方面，相比郭俊，张峰也更懂得双赢的重要性。一位小米资深员工向腾讯深网透露，张峰有一次在小米内部的闭门会上说，他曾赔钱帮日本京瓷公司生产手机，惹得自己老板很不爽，后来京瓷知道了不但把所有代工业务交给英华达，在行业成本大幅下降时也不提降价的事，让英华达在此前赔本的基础上还多赚了回来。后来张峰离职，双方的代工合作也停止了。</p>
+<p>，说出了老实人的关键，当时我22岁，我很庆幸啊，在他的指导下，我改了老实的特点，就是心软导致你面薄心软，别人欺负你了，你第2天还笑脸相迎，不是你放下了，其实你还是气不过的，你的情绪还是在别人的节奏里的，被人精神完全压制的，你的生气啊高兴啊，完全取决于别人，还有一个就是没有底线，被人恶语相向，你不敢不会或者不好意思反击，但是我告诉你啊，只要有一个人说了你不爱听的，你逮住他骂死他，有多难听说多难听，管他什么素质啊，清高啊去他妈的，在职场上被一群人排挤，为什么大家都不害怕你，就是你面子薄不敢翻脸，你不是老实，也不是胆小，更不是骂不过，你就是应急能力差，犹豫，面子薄，你见过几个刺头被人欺负排挤的。</p>
+<p>张居正总结说：人们怕那些吏，一定要贿赂那些吏，并不是指望从他们手里捞点好处，而是怕他们祸害自己。
+合法地祸害别人的能力，乃是官吏们的看家本领。这是一门真正的艺术，种种资源和财富正要据此分肥并重新调整。
+-潜规则</p>
+<p>吏胥们对自己立的法——“刑狱潜规则”显然是一丝不苟的。与方苞同时被捕上刑的有三个人，一个人以三十两银子行贿，骨头受了一点伤，养了一个月才好。另外一个人贿赂的银子比前者多一倍，皮肉受了点伤，十来天就好了。第三个人掏的银子还要多一倍，当天晚上就可以像平常一样走路了。曾有人问过这样一个问题：罪人贫富不均，都掏钱就行了，何必再制造多寡的差别呢？回答说：没有差别，谁肯多掏钱[4]？</p>
+<p><a href="https://m.36kr.com/p/1722247266305">https://m.36kr.com/p/1722247266305</a>
+自我管理类的书有分两种，一种是老板买来发给员工看的，从书名中就可以看出来：《没有任何借口》、《卓有成效的管理者》、《高效能人士的七个习惯》……，至于他们自己，顺便翻几页，打个了哈欠，就放到书架当展览品了。</p>
+<p>这些当然是好书，但老板发这些书给你，决不是让你好好读书那么简单。</p>
+<p>另一种是给自己看的，书名也能听得出一些端倪，《FBI测谎术》、《潜规则》、《厚黑学》、《我不是教你诈》……</p>
+<p>这类书有优秀的（比如《潜规则》），有扯蛋的，这不是重点，关键是它们不但不能推荐，连让员工看到都很危险，否则你的员工中的形象（你自以为的）会立刻变成一个“周扒皮”。</p>
+<p>大凡在职场混过几年的人都能发现这样一条规律：好消息由领导宣布，坏事件让下面的人干。</p>
+<p>家贫走四方，君不见拖着儿子买菜排队烈日下等巴士
+这很像是狼和羊在一起。一个长着利齿，而且不吃素。另一个吃素，偏巧还长了一身好肉。虽然头上也有一对犄角，但那是用于公羊之间打架的，在异性面前自我显示的时候还管用，见到那个大嘴尖牙的灰家伙就只有哆嗦的份了。只要是狼和羊在一起，他们之间的关系就定局了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/69"/><published>2024-04-14T09:24:37+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/68</id><title>言论20240401</title><updated>2024-08-02T14:33:52.566722+00:00</updated><content type="html"><![CDATA[<p>言论20240401</p>
+<p>标  题: Re: 经济在恢没灰复，我觉得从这就可以看出
+发信站: 水木社区 (Sun Mar 31 09:08:38 2024), 站内</p>
+<p>昨天去天通苑文化中心，惊呆了。4层大楼，1、2层是图书馆和咖啡厅。3层和地下一层是培训中心，4层是剧院和练功房。
+难怪这么多人考街道办编制，特别高大上。 </p>
+<p>标  题: 转: xz事件来龙去脉，这个人是个天才
+发信站: 水木社区 (Sat Mar 30 21:47:47 2024), 站内</p>
+<p>在开源项目中，把shellcode隐藏在测试用例并且条件注入到编译二进制中去在运行时hook攻击，天才般的想法。
+知名脱口秀演员呼兰也曾用段子吐槽过中国式OKR。</p>
+<p>很多人可能不知道 OKR 是啥，其实就类似于 KPI。KPI 是指标，OKR 是目标。</p>
+<p>那有啥区别？你们看过赵本山的卖拐吗？你要把轮椅直接卖给范伟，他是很难接受的。你要跟他说，你的目标是双脚离地，他琢磨琢磨自己就坐到轮椅上去了。</p>
+<p>我们公司就是这样的。</p>
+<p>本来（公司）说：呼兰你今年争取每天写一个新段子。</p>
+<p>我说：这怎么可能呢！</p>
+<p>过段时间（公司）说：今年你要争取拿冠军。</p>
+<p>我说：哎呀这个好啊。</p>
+<p>公司说：要拿冠军你应该怎么做？</p>
+<p>我说：每天写个新段子！</p>
+<p>小米手握1363亿元现金储备，雷军做好了五年不赚钱的准备。市场乐观派的预测则是至少亏损两年。
+评论。做业务出身，有能力的老板就是有魄力</p>
+<p>size比较小的linux，xubuntu 3gb, peppermintod debisn 64, 1.56gb. 挺好用的</p>
+<p>bt下载工具，uTorrentPortable</p>
+<p>[转载][C#][WinForms]基于Winforms的监控看板桌面应用：
+感想：做界面需要的技术其实不多，用winforms就能做出好漂亮的展示界面 <a href="https://www.bilibili.com/video/BV1gy421i7kG/?spm_id_from=333.788.recommend_more_video.-1&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1gy421i7kG/?spm_id_from=333.788.recommend_more_video.-1&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a></p>
+<p>（但是她用了一个收费的Bunifu）</p>
+<p>windows如何语音输入？
+若要开始听写，请选择一个文本字段，然后按 Windows 徽标键 + H 打开听写工具栏
+<a href="https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8%E8%AF%AD%E9%9F%B3%E9%94%AE%E5%85%A5%E6%9D%A5%E8%AF%B4%E8%AF%9D-%E8%80%8C%E4%B8%8D%E6%98%AF%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E9%94%AE%E5%85%A5-fec94565-c4bd-329d-e59a-af033fa5689f">https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8%E8%AF%AD%E9%9F%B3%E9%94%AE%E5%85%A5%E6%9D%A5%E8%AF%B4%E8%AF%9D-%E8%80%8C%E4%B8%8D%E6%98%AF%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E9%94%AE%E5%85%A5-fec94565-c4bd-329d-e59a-af033fa5689f</a></p>
+<p>WPF教学｜WPF做出这样丝滑的动画尽然如此简单？｜Magic Navigation Bar ｜导航栏
+<a href="https://www.bilibili.com/video/BV1Ui4y1a717/?spm_id_from=333.337.search-card.all.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1Ui4y1a717/?spm_id_from=333.337.search-card.all.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想：但居然全是代码，</p>
+<p>WPF音乐软件炫酷界面开发
+<a href="https://www.bilibili.com/video/BV1P3411U734/?spm_id_from=333.788.recommend_more_video.-1&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1P3411U734/?spm_id_from=333.788.recommend_more_video.-1&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+居然全是代码，</p>
+<p>基于Material Design XAML的 C# WPF的快速设计
+<a href="https://www.bilibili.com/video/BV1vv411e7M1/?spm_id_from=333.788.recommend_more_video.6&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1vv411e7M1/?spm_id_from=333.788.recommend_more_video.6&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想：但居然全是代码，</p>
+<p>WPF XAML 使用Visual studio blend 2019 设计界面
+<a href="https://www.bilibili.com/video/BV1jv4y1E7nv/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1jv4y1E7nv/?spm_id_from=333.788.recommend_more_video.10&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想：终于有个拖放式的例子了！</p>
+<p>WPF界面设计教程之【网易云音乐】
+<a href="https://www.bilibili.com/video/BV1aE411v7F5/?spm_id_from=333.788.recommend_more_video.4&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1aE411v7F5/?spm_id_from=333.788.recommend_more_video.4&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想：但居然全是代码，看来熟了之后都直接敲代码了。但问题是这些控件的参数这么多没咋记得住呢？</p>
+<p>[源码]实现响应式登录页面
+<a href="https://www.bilibili.com/video/BV1je4y1s7WT/?spm_id_from=333.788.recommend_more_video.3&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1je4y1s7WT/?spm_id_from=333.788.recommend_more_video.3&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想：但居然全是代码??</p>
+<p>一个视频帮你搞定如何用uniapp开发一个套壳App
+<a href="https://www.bilibili.com/video/BV1Bq4y1t7xf/?spm_id_from=333.337.search-card.all.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1Bq4y1t7xf/?spm_id_from=333.337.search-card.all.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a></p>
+<p>Node.js 纪录片 | 起源故事
+<a href="https://www.bilibili.com/video/BV1Mj42197E4/?spm_id_from=333.1007.tianma.5-1-15.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1Mj42197E4/?spm_id_from=333.1007.tianma.5-1-15.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a></p>
+<p>应该是目前第一部以 Node.js 为主题的纪录片了，通过该纪录片深入了解 Node.js 的起源，认识一些最早的贡献者，主要包括 Ryan Dahl（Node.js 的创始人）、Isaac Schlueter（NPM 的创始人）等。</p>
+<p>原视频：<a href="https://www.youtube.com/watch?v=LB8KwiiUGy0&amp;t=599s%EF%BC%8C%E8%8B%B1%E8%AF%AD%E5%A5%BD%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8E%BB%E8%A7%82%E7%9C%8B%E5%8E%9F%E8%A7%86%E9%A2%91%EF%BC%88%E4%B8%8D%E8%BF%87%E6%B2%A1%E6%9C%89%E8%8B%B1%E6%96%87%E5%AD%97%E5%B9%95%E7%9A%84%EF%BC%8C%E6%8C%BA%E9%94%BB%E7%82%BC%E5%90%AC%E5%8A%9B%EF%BC%81%EF%BC%89">https://www.youtube.com/watch?v=LB8KwiiUGy0&amp;t=599s，英语好的可以去观看原视频（不过没有英文字幕的，挺锻炼听力！）</a></p>
+<p>本视频是对原视频的剪辑，制作了中文字幕，便于大家观看！谢谢！</p>
+<p>工作中要懂得给自己提前下班
+<a href="https://www.bilibili.com/video/BV1dr421b7y6/?spm_id_from=pageDriver&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1dr421b7y6/?spm_id_from=pageDriver&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想: 8小时-&gt;两三小时搞定?(老板盯着呢,你摸鱼都得小心)</p>
+<p>那些“浪费时间”的事情，可能是一个人最好的职业发展方向
+<a href="https://www.bilibili.com/video/BV176421c7wy/?spm_id_from=333.1007.tianma.4-4-14.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV176421c7wy/?spm_id_from=333.1007.tianma.4-4-14.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想: 认同,但是从兴趣到职业,要好好谋划</p>
+<p>没有程序员的软件开发公司咋接软件开发项目的？10万的软件开发订单2万找我做真无语
+<a href="https://www.bilibili.com/video/BV13Z421h7nY/?spm_id_from=333.1007.tianma.5-2-16.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV13Z421h7nY/?spm_id_from=333.1007.tianma.5-2-16.click&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想: 做销售的老油条会接活,发单给程序员就得了.真轻松啊</p>
+<p>程序员创业大忌就是跟销售合伙，程序员写代码做软件开发是专业，容易被销售坑</p>
+<p>Node.js: The Documentary | An origin story
+<a href="https://www.youtube.com/watch?v=LB8KwiiUGy0">https://www.youtube.com/watch?v=LB8KwiiUGy0</a>
+感想: 世界上这么多人这么有毅力啊。 为什么自己却没有这种毅力呢？ 难道是人比人气死人吗？ </p>
+<p>How A Small Team of Developers Created React at Facebook | React.js: The Documentary</p>
+<p>Vue.js：纪录片</p>
+<p>react如何解决不同component共享style</p>
+<p>react代码转义之后出问题如何debug</p>
+<p>div的class包含多个空格隔开开的单词是啥意思
+当一个div元素的class属性包含多个空格隔开的单词时，意味着这个div元素同时具有多个类。</p>
+<div class="class1 class2 class3">, 通过这些类名来进行样式定义有冲突如何处理
+在处理这种冲突时，CSS的层叠规则（Cascading Rules）会生效，用于确定最终应用在元素上的样式。
+<p>根据层叠规则，以下是一些解决冲突的方式：</p>
+<pre><code>优先级（Specificity）：CSS选择器的优先级决定了样式的权重。如果两个类名具有不同的选择器优先级，则具有较高优先级的样式将被应用。例如，使用ID选择器的样式具有比类选择器更高的优先级。
+
+后来者优先（Last Rule Wins）：当存在多个具有相同优先级的样式规则时，后面定义的样式规则将覆盖先前的规则。因此，后面定义的类名中的样式将优先生效。
+
+继承（Inheritance）：某些样式属性具有继承性，即它们会从父元素继承样式。如果多个类名中的样式定义具有相同的继承属性，那么最终应用的样式将取决于祖先元素上的样式。
+</code></pre>
+<p>【2024最新版】Vue3
+<a href="https://www.bilibili.com/video/BV1Gt421L7Fx?p=26&amp;spm_id_from=pageDriver&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b">https://www.bilibili.com/video/BV1Gt421L7Fx?p=26&amp;spm_id_from=pageDriver&amp;vd_source=7e163755283ac1dfbc6ca30b7cccd34b</a>
+感想： 这个老师的水平非常不错呀。不过我更想看的不是这些语法，而是怎么做漂亮的界面。 </p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/68"/><published>2024-04-04T10:09:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/67</id><title>在某些情形不同语言的不同很微妙啊</title><updated>2024-08-02T14:33:52.672515+00:00</updated><content type="html"><![CDATA[<p>在某些情形不同语言的不同很微妙啊
+咋解释？</p>
+<p>python</p>
+<pre><code class="language-python">fs={}
+
+for i in range(3):
+	def f  ():
+		print(i)
+	
+	fs[i] = f
+
+
+for f in fs.values():
+	f()
+</code></pre>
+<p>输出2，2，2</p>
+<p>lua</p>
+<pre><code class="language-lua">fs={}
+
+for i=1,3 do
+	local f = function ()
+		print(i)
+	end
+	
+	fs[i] = f
+end
+
+for k, f in pairs(fs) do
+	f()
+end
+</code></pre>
+<p>输出1，2，3</p>
+<pre><code class="language-lua">
+fs={}
+
+for i=1,3 do
+	local ai = i
+	local f = function ()
+		print(ai)
+	end
+	
+	fs[i] = f
+end
+
+for k, f in pairs(fs) do
+	f()
+end
+</code></pre>
+<p>输出1，2，3</p>
+<pre><code class="language-lua">
+fs={}
+
+for i=1,3 do
+	ai = i
+	local f = function ()
+		print(ai)
+	end
+	
+	fs[i] = f
+end
+
+for k, f in pairs(fs) do
+	f()
+end
+</code></pre>
+<p>输出3,3,3</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/67"/><published>2024-03-30T06:30:46+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/66</id><title>言論20240401</title><updated>2024-08-02T14:33:52.772442+00:00</updated><content type="html"><![CDATA[<p>言論</p>
+<p>说回来，发现好多家里，当妈的是虎妈，当爸的平和好多</p>
+<p>大到一个国家，你没有自己的科技你就会被卡脖子，小到每一个打工人，你不能自己创造收入你就永远被给你发工资的人卡脖子。所以，去一家公司上班打工不能被叫做自己的主业。去公司上班，是为了让你有一定的经济能力和短期来看相对稳定的现金流，进而让自己有相对稳定的心态去为自己应有的主业去尝试、摸索、实践、迭代</p>
+<p>标  题: Re: 整天体制内，体制外，我们是社会主义国家，一条船
+发信站: 水木社区 (Wed Mar 13 13:56:05 2024), 站内</p>
+<p>一条船也分船舱甲板啊
+【 在 henceman 的大作中提到: 】
+: 沉了，都跑不了</p>
+<p>在前几节登场的川越和臣今年四十三岁，仍旧活跃在这个三十五岁退休的行业的第一线。
+“也许跟计算机打交道时间长了，我们的思考方法和感性就都会变得像模子里铸出来的一样僵化。本来我就很少和妻子说话。一旦变成技术应激，就更懒得和她纠缠不清。特别是年轻工程师，他们在这一方面更加明显，都不喜欢在情绪上产生波动，更不会真正发怒。无悲无喜对他们来说才是最舒服的状态。”</p>
+<p>将浪费压缩到最低，不断寻求到达目标的捷径。越是陷入这种思考模式，和计算机的对话就越是顺利。但是，这样却会导致和人的交往越发空虚、冷漠。川越对这点似乎很有切身体会。</p>
+<p>“这样下去的话，和其他人的交往就会越来越少，视野也会越来越窄。大家的脑子有九成都被电脑占领了，对于政治、社会之类的越发淡漠，至于文学、戏剧什么的就更是像火星人的活动，连都不会去想。我感觉，这样每天都面对计算机，虽然技术会有所提高，但作为一个人是没有成长的。”</p>
+<p>标  题: Re: 喔叉，冷不丁发现人民币暴跌，肯定发生大事件了！！！！！
+发信站: 水木社区 (Sat Mar 23 10:32:04 2024), 站内</p>
+<p>确实加速了</p>
+<p>【 在 HakenHok 的大作中提到: 】
+: 我是结合最近鹰将出手越来越狠，越来越密集，包括金门那事，还有外资持续撤出，这种在往年年后是反常的，年后都是用工旺季。感觉有票大的要干了</p>
+<p>题: 看过《芯片简史》才知道我们啥都发明不了
+发信站: 水木社区 (Sun Mar 24 12:13:51 2024), 站内</p>
+<p>从真空管到晶体管，集成电路，cpu</p>
+<p>原创需要在足够坚实的积累下，宽松环境又略有竞争，人少但学科多，宽裕经费，管理和技术区分，原创和经济回报挂钩，这样的条件我们一条也不满足。所以我们现在还啥都发明不了。</p>
+<p>不知道规划芯片产业的领导们看不看这本书。</p>
+<p>标  题: 雷总真的太拼了，1月初自己开SU7跑了京沪全程
+发信站: 水木社区 (Sat Mar 23 17:36:44 2024), 站内</p>
+<p>将近1300公里，实干家！</p>
+<p>新质生产力，这是更注重生产而不是消费，而与此同时，许多经济学家认为，为了重振中国的经济，应该更多地支持消费。而且，中国生产的增加已经成为贸易冲突的根源</p>
+<p>标  题: 马克思其实就是一个书呆子
+发信站: 水木社区 (Sat Mar 30 00:09:47 2024), 站内</p>
+<p>不懂人性的书呆子，看了点书，归纳总结出了一套所谓的XX主义。让人类误入歧途近百年</p>
+<p>wunan:嗯，中国只是借他的思想打天下，其实早已回归秦制(2024-03-30 06:52)
+[  ]wusanguibaby:理论不能被使用，但可以被利用(2024-03-30 06:57)
+[  ]whatswrong:大胆(2024-03-30 07:05)</p>
+<p>他有他的贡献，但问题确实也很大。
+把矛盾问题扩大化，提出一个乌托邦式的解决方案</p>
+<p>【 在 crabberzgz 的大作中提到: 】
+: 不懂人性的书呆子，看了点书，归纳总结出了一套所谓的XX主义。让人类误入歧途近百年。</p>
+<p>余初晖这种角色就是凡事都要分个利弊，咋么做有益于自己，怎么做自己得好处，何悯鸿就是凡事要分对错，哪怕伤害自己或者身边的人她还是要分对错，背后反映出来的是原生家庭的幸福和不幸，何悯鸿的家庭是幸福的随意她思想很正，但是在当今社会就容易被背叛或出卖，余初晖就是家庭不幸看惯了社会的恶才会给人处处精明算计的感觉</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/66"/><published>2024-03-30T06:27:14+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/65</id><title>言論20240310</title><updated>2024-08-02T14:33:52.876668+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>标  题: Re: 为什么职业生涯板没有了
+发信站: 水木社区 (Wed Feb 21 11:39:01 2024), 站内</p>
+<p>套路，如果你提的问题是我认为的正能量，就大力提倡，如果不是，就解决提问题的人，或才通过其它办法，如封禁，关版啥的。
+【 在 stoneyang 的大作中提到: 】
+: 失业太多，讨论的都在泄愤，不和谐
+: 解决提问题或者抱怨问题的人的一种方法</p>
+<p>毕竟施耐庵那句“族望留原籍，家贫走他乡”，到今天还算至理名言。</p>
+<p>美媒彭博的报告指出，曾在多方面领先区内竞争对手新加报的香港，现时只能保住亚洲区金融中心桂冠的地位，但在跨国贸易丶财富管理丶人才国际化和地产市场等方面均正被新加坡抛离，以跨国企业的亚洲总部数目为例，香港去年只有1336家，仅及新加坡的31.8%</p>
+<p>工程师对各种苛刻的管理怨声载道。他们只想构建软件，结果却不得不疲于应付大量文书工作。Douglas Coupland 的小说《Microserfs》（微农）以及Mike Judge的电影《上班一条虫》（Office Space）中描绘的绝望的开发人员就是那个时代的写照。</p>
+<p>封裝泄露</p>
+<p>今天看到這個名詞深有同感。這個說法乍一看很驚人慫聽，但仔細一想又非常有道理
+<a href="https://segmentfault.com/a/1190000039181981">https://segmentfault.com/a/1190000039181981</a></p>
+<p><a href="https://www.google.com/search?q=%E5%B0%81%E8%A3%9D%E6%B3%84%E9%9C%B2&amp;oq=%E5%B0%81%E8%A3%9D%E6%B3%84%E9%9C%B2&amp;aqs=chrome..69i57.151j0j1&amp;sourceid=chrome-mobile&amp;ie=UTF-8">https://www.google.com/search?q=%E5%B0%81%E8%A3%9D%E6%B3%84%E9%9C%B2&amp;oq=%E5%B0%81%E8%A3%9D%E6%B3%84%E9%9C%B2&amp;aqs=chrome..69i57.151j0j1&amp;sourceid=chrome-mobile&amp;ie=UTF-8</a></p>
+<p>技术管理之巅。。讲国内的it公司技术管理的，写的其实不错。感觉作者对国内比较了解，听起来很真实。内容主要讲管理，而具体技术讲的比较少</p>
+<p>卓有成效的管理者。
+没想到这本书的豆瓣评分这么高，在管理类书籍里面排第一
+发现听书比较轻松一些直接搜书名就能在网上有好多那种语音资料来介绍的</p>
+<p>自己争取的那就是自己的实力，如果是先天有血缘关系的，那就不算，你就算通过自己的实力认识到部级关系背书那也是你的实力，你看马云马化腾任正非曹德旺哪个不是有血亲关系的？</p>
+<p>比较下来，东哥已经是最贴合白手起家这个人设的。</p>
+<p>标  题: Re: 宗庆后，是男人的楷模吧？
+发信站: 水木社区 (Thu Feb 29 22:46:59 2024), 站内</p>
+<p>【 在 snowfields 的大作中提到: 】
+: 一夫一妻，没有任何绯闻</p>
+<p>必须是。
+大节小节都堪称典范。
+成名致富很早但是没恶名，守住主业没有乱折腾，财富榜历来都是昙花一现的杀猪榜，但是老宗做到了常青树。
+对地青们议论的传宗接代问题上，也很开明，一心栽培女儿。</p>
+<p>其实，我对你是有一些失望的。当初给你定级p8，是高于你面试时的水平的。我是希望进来后，你能够拼一把，快速成长起来的。p8这个层级，不是把事情做好就可以的。 提醒一下，你的产出，和同层级比，是有些单薄的，马上要到年底了，加把劲儿。你看咱们团队的那个谁，人家去年晋升之前，可以一整年都在项目室打地铺的。成长，一定是伴随着痛苦的，当你最痛苦的时候其实才是你成长最快的时候。 [害羞]</p>
+<p>一帮杂碎，不敢碰触体制内任何大大小小的弊端和不是，揪着没权力的文人使劲欺负。
+莫言被告</p>
+<p>英伟达股票市值首次突破2兆美元，等于阿里巴巴加上腾讯再加上百度再加上美团的市值总和，再乘以二，说明全球资金规模的预期心理，不会随着时间发展而理性分配，中国人工智能链的建立策略也迫在眉睫。</p>
+<p>界的本质就是混沌和随机，“创新”这种事没有道理和规律可言，只能让各种各样想法的人调配资源去试错。</p>
+<p>英伟达成立之初，第一个重大决策就是确定3D图形技术将成为第一个“杀手级”应用。公司使命就是“构建特殊的计算机，解决普通计算机无法解决的问题”。</p>
+<p>英伟达三十年来的所有工作几乎围绕技术和市场展开，这也是英伟达的核心：在创造需求前，先创造技术。未来十年，英伟达最大的挑战来自技术和市场，其他的挑战还来自工业、地缘政治和社会层面</p>
+<p>／施耐庵老先生在七百年前总结出的一句话:母弱出商贾，父强做侍郎，族望留原籍，家贫走他乡。放在现代社会，也很有现实意义。</p>
+<p>这句话的意思是如果父母家族很弱，那就去经商，如果父母家族很强，那就去做官。如果你出生于名门望族，人脉强大，那你就尽量留在家族的所在地生活和工作。反过来，如果你的家庭很普通，那你就尽量远走他乡，不要留在原籍。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/65"/><published>2024-03-10T14:56:09+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/64</id><title>言论20240215</title><updated>2024-08-02T14:33:52.959750+00:00</updated><content type="html"><![CDATA[<p>言論</p>
+<p>一个人是否宽容，与他的学历、收入、理性思维、认知潜力都无关。高学历、高收入者，也可能是偏激和不宽容的人。
+真正决定一个人是否宽容，是下面三个因素。
+思维灵活
+个性不固执
+专注</p>
+<p>一个组织的真正价值取决于他 人想要为该组织做贡献,令其能够一直成功下去的意愿,而这 个“一直”不仅指他们自己任职期间,也包括他们卸任之后的 长远未来。有限思维的领导者努力从员工、客户和股东那里获 取,从而满足其自选的衡量标准;无限思维的领导者则努力激 励员工、客户和股东,让他们能主动且持续地为该组织的发展 做出贡献。无限思维的玩家希望让自己的组织变得比他们加入 时更好
+价格战让中国车企很头疼，大部分是硬着头皮在坚持。 特斯拉拉着大家跳进一个坑，原本以为是火坑，没想到是个泥潭，越陷越深。</p>
+<p>资本主义社会其实也是剥削人的社会，剥夺人的自由快乐的社会，他本质就是设计了有钱才能活，你要拼命努力才能有勉强够活的钱</p>
+<p>这就是给改革开放那一批富起来的人美化的缩影。
+重新解读下故事，就会发现其实更符合现实中的那批达官贵人。
+一个独断专行的村书记，一个倒插门厂婿，一个摸爬滚打做大的商人</p>
+<p>8 知道在面试中证明自己能力时，不能单纯靠自己做过什么，也不能靠自己学过什么，而是靠自己能靠说证明什么。比如能在面试中，通过说自己解决过的值钱技术方面的问题，能证明自己在这方面的能力，至于自己是否做过，面试官很难核实。</p>
+<p>第一次骗到了，过段时间中国人忘得差不多了，就再来骗一次。不握手不微笑不说话不碰球就能把钱赚了，还有一大堆被骗的人帮他找理由洗白，天下还有比这更爽的事情吗
+。。关于梅西在香港的行为</p>
+<p><a href="https://www.zhihu.com/question/511856781/answer/3391507048?utm_psn=1740045753647763456">https://www.zhihu.com/question/511856781/answer/3391507048?utm_psn=1740045753647763456</a>
+提问为什么程序员40岁了还在撸代码很奇怪，好像在质疑为什么医生40岁了还在接诊，为什么老师40岁了还在上课一样。</p>
+<p>一般的口腔溃疡即便不予以治疗依然会于七至十四天内自行痊愈而不留疤痕，但对症治疗可以舒缓患处疼痛或不适，并遏止溃疡再受细菌感染，这些治疗可以包括硝酸银药水、口内类固醇药膏、抗菌漱口水和止痛药等。如果超过三周而未痊愈，应寻求医师协助。</p>
+<p>年轻时，大家工资差个三五千一万的，还能一起玩。想着，没准以后他立起来了，还有点用。</p>
+<p>到中年，都不装了，你有没有用，结果都在眼前摆着，大结局了
+。。为什么中年人朋友越来越少</p>
+<p>股票和奖金的影响：社招的18级的员工，前四年收入最多35万。原华为老人18级，年收入最少百万。这个差距是股票和奖金造成的。</p>
+<p>华为薪酬体系主要包括工资+奖金+TUP分配+虚拟股分红，而其中年终奖发放日期一般是从4月正式开始，是整体薪酬中的大头。丰厚的年终奖经常被员工侃道“工资只是零花钱，收入靠年终奖”，因此往往也被同行业从业者所津津乐道</p>
+<p>17级的平均年薪为67W，月薪31K，全年奖金大概13W。</p>
+<p>18级的平均年薪为82W，月薪48K，全年奖金大概25W。</p>
+<p>实验发现，有两种反馈意见的方式对于黑人学生来说
+效果不佳。一种是以中立的口吻进行客观阐述，另一种则是在提出意见前先用一些积极的陈述作为开场白。与白人学生不同的是，黑人学生对以上两种表达方式并不买账，而既然他们无法接受，那么便不会对修改文章抱有积极态度。毕竟在他们看来，这两种形式的意见反馈可能就是在传递某些种族偏见。
+不过我们发现，有一种反馈方式是对黑人和白人学生</p>
+<p>都有效的。我将其称为“汤姆·奥斯特罗姆式策略”。具体而言，这种策略是首先让学生们明确，他们的文章接受的是和教学杂志正式发表的文章同样的“高标准严要求”的评价，并且评估人认为他们的文章具备了公开发表的潜质，而评估报告中所指出的批评意见则正是为了帮助学生们真正达到公开发表的严格要求。对于这种形式的反馈，黑人学生变得与白人学生一样乐于接受，而这种心悦诚服的态度</p>
+<p>那么，为什么汤姆·奥斯特罗姆式策略如此有效呢？这是因为它改变了学生们对于某些模棱两可的情况的解读方式。</p>
+<p>接触的洋人多了，发现他们人性上其实跟中国人是一模一样的，没有任何本质上的差别。中国人所谓的“民族性”在所有白人身上都能找到对应的</p>
+<p>因为背后的人性规则是一样的：人都是贪生怕死，都是厌恶劳动，都是任人唯亲，都是当面一套背后一套，都会掩饰自己的真实情感，等。</p>
+<p>进事情困难，卡在某个节点某人那里。在讨论的时候，把他地位抬高，给他一种幻觉或者愉悦感，也可以听听他的意见，如果是他，这件事情会用什么方案处理。最后再磨一磨，互相让个步，大概率就成了。</p>
+<p>一个很现实的问题是。
+一般来说，技术人才是不会搞管理的。
+搞管理的关键是交流，低情商说叫求人办事，拉关系，搞制衡。
+这些东西的源头其实是个人能力不足。
+因为我不会，所以我从小就需要别人帮忙。我不会做事但我的事依然可以完成的很好，这就是管理人才的能力。
+而反过来，搞技术的人，最可贵的品质就是万事不求人。
+因为我不想求人不会求人，所以我各方面都很强，能自己动手的事绝不BB，而且从小到大的习惯让我学习能力很强，这些都是一个技术大牛基本的能力和精神。
+这俩尽东西就是冲突的，一个技术大牛，搞个培训讲两遍下面听不懂，他就开始心烦然后自己上手了，留下面学员一地凌乱。这管个毛啊？
+技术大牛可以担任leader的顾问参谋
+但是，技术leader，不存在的</p>
+<p>作者：仲夏十四
+链接：<a href="https://www.zhihu.com/question/377457299/answer/2690542170">https://www.zhihu.com/question/377457299/answer/2690542170</a>
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>
+<p>落花踏游何处</p>
+<p>技术合伙人，在一开始加入项目的时候，就要考虑好退出机制，并与创始人协商后以合同形式确立下来，具体来说就是把工作的成果与股权的关系绑定好，再把退出时创始人的收购价格做好约定，再通过知识产权的方式把代码与公司做绑定（防止转移公司）。目的就是等到项目做起来之后，把股份按照协商好的价格卖给创始人或投资机构，然后抽身寻找下一个投资标的。
+有一种情况，技术合伙人可以留下来，就是技术</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/64"/><published>2024-02-15T13:11:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/63</id><title>How to KNOW what ATTRIBUTES a IDispatch provided in pytthon win32com package</title><updated>2024-08-02T14:33:53.074645+00:00</updated><content type="html"><![CDATA[<p>Refer code of DispatchBaseClass.<strong>get_attr</strong>(),it get attrs from a dict named self.<em>prop_map_get</em></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/63"/><published>2024-02-06T09:59:25+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/62</id><title>言論20240203</title><updated>2024-08-02T14:33:53.165962+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>老共忍了王20年，台湾两天就把他办了。真是一个暖心的民主故事。</p>
+<p>没法比。 代码可以随时推倒重来，局部大改。 楼房框架搭好了就不能动了。  </p>
+<p>代码可以持续长久开发，容易群策群力。 大楼得先设计好再严格按图纸施工，一次完工。</p>
+<p>大楼的工作量容易统计，一次性的工作。 成本变化范围不大。</p>
+<p>代码的工作量弹性空间无限大。 可以快猛糙出来个凑合着能用的，也可以精雕细琢集全世界聪明人旷日持久的开发。成本可以小到两三个人几个月搞出个demo，也可以几千上万人几十年不间断研发。</p>
+<p>【 在 numgao (难木刀) 的大作中提到: 】
+:  把编码工作和盖大楼比较<br />
+:  比如说一行代码比做盖大楼的罗一块砖，<br />
+:  那么写出来初版的linux 和 盖一座金茂大厦那样的楼<br />
+:  那个工作量大，如果不同 能差多少  </p>
+<p>编码是设计，程序设计，应该类比建筑设计和土木工程设计，但不是盖楼。软件的特点是设计即实现，不需要真的开推土机上吊车。
+看清楚这个就容易对比了。现存大型软件的规模和难度是远超建筑设计的。工作量用人年数计算就行。</p>
+<h2>金茂大厦是已经有了成熟的框架和模板，大家往里填内容。在代码界的类比不是Linux，而是Wordpress</h2>
+<p>你去了菊花，花的时间是实打实的，增加的一倍收入可是要交50%税的，实际到手才2w一个月，除非家里揭不开锅
+你这年纪去菊花跟跳楼有什么区别。
+我大龄朋友去菊花的无一干过两年：第一年榨干你的知识， 第二年让你滚蛋。。</p>
+<p>【 在 funnyworld 的大作中提到: 】
+: 本青45了，在小外企当了10多年大头兵，大部时间soho+出差，累是累点，时间比较灵活，家庭工作可以做到比较好的平衡。年入50w左右。基本没有上升空间，但不出意外可以混到退休。
+: 最近有个菊厂的机会，收入有可能是现在的double甚至更多，平台更高，发展前途更大。但是要base在外地，家里几乎一点管不着。而且菊厂工作强度和难度估计要大得多，不知道能干多久。
+: 年龄大了，这可能是职业生涯最后一次跳槽的机会了。很纠结该怎么选？
+: ..................</p>
+<p>要是这么简单就好了。</p>
+<p>实际上你可以认为这个5个分支是5套产品。部分代码差异极大，有些甚至是互相冲突的。简单的merge基本不可能。</p>
+<p>本质上是软件架构没有搭建好，共性部分和差异部分耦合在了一起。</p>
+<p>所以搭建平台化真是需要功底的。</p>
+<p>【 在 hany2017 的大作中提到: 】
+: 对外发布不是应该主干拉代码吗? 每次发布一个release分支，修bug用。
+: 5套代码没办法维护</p>
+<p>事实上，很少有组织能够支持充满激情的员工——即使他们声称需要他们。这是因为最初的工业革命是为了支持生产力而设计的。生产力意味着你生产。这就是你被衡量的方式。激情很难量化，但如果您曾经与开发过突破性产品和创新解决方案的团队交谈过，您就会知道激情就在那里。充满热情的员工相信比自己更重要的事情。他们对打卡不感兴趣，有时还会违反规则。There are actually few organizations that can support passionate employees—even if they say they want them. That’s because the original industrial revolution was designed to support productivity. Productivity means you produce. That’s how you’re measured.  Passion is difficult to quantify, and yet if you ever talk to teams who have produced break through products and innovative solutions—you know it was there. Passionate employees believe in something bigger than themselves. They’re not interested in punching the clock, and sometimes they bend the rules.</p>
+<p>而中国客户，往往付一笔钱就想要全部，最近有个头部公司给我们提的需求，涵盖了 OLAP、ETL、联邦查询、实时查询等，但问愿意付多少钱的时候，却表示没多少钱——就如极客公园创始人张鹏之前说的：“客户提的都是登月的需求，但愿意付的只是一个同城快递的钱”——这是现状，我们需要的是去适应，而不是去改变（我们当然想去改变，但教育成本非常大，需要一个渐进的过程），当然我们也不是去妥协，而是要找到平衡。</p>
+<p>直接调epoll，直接read write也并不需要多高的水平吧</p>
+<p>我用asio是为了跨平台，还为了方便post lamda到目的线程去</p>
+<p>其实用库本质上比调epoll还麻烦，每个库都有一些自己的臭脾气</p>
+<p>【 在 KnightZorro 的大作中提到: 】
+: 我在网上看到的是muduo作者说了，他不熟asio，用错了情有可原的，没必要太苛求
+:<br />
+: muduo作者网络编程水平极高的。至少比我高好多  </p>
+<p><a href="https://m.36kr.com/p/2630712625479936">https://m.36kr.com/p/2630712625479936</a>
+不仅仅是传统的封装企业，许多原本专注于代工的企业也开始进军该市场，从台积电的CoWoS，到英特尔的EMIB，再到三星的X-Cube，各类2.5D与3D封装陆续涌现并走向成熟，在封装这片蓝海中，掀起了犹如千帆竞逐的热潮。
+台积电在声明中表示，先进封测六厂将使公司能有更完备且具有弹性的 SoIC、InFO、CoWoS 等多种 3D Fabric 先进封装及硅堆叠技术产能，并对生产良率与产品性能带来更高综效。</p>
+<p>随着半导体行业进入在封装中使用多个“小芯片”的异构时代，Foveros 和 EMIB（嵌入式多芯片互连桥）等先进封装技术。。。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/62"/><published>2024-02-03T05:41:20+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/61</id><title>言論20240127</title><updated>2024-08-02T14:33:53.268920+00:00</updated><content type="html"><![CDATA[<p>言論</p>
+<p>45也没有很老啦，追寻未来，充满希望</p>
+<p>所以为什么余承东厉害，人家是清华学霸，技术出身干出成绩再去做销售，再回来搞管理运营。所以余承东搞无线通信，手机，汽车三个完全不同领域都成了。而董明珠只能在空调这个老本行搞。</p>
+<p>雷军没做过销售，所以雷军忽悠和吹牛的时候就让人觉得很假。做过销售的余承东，各种吹牛口嗨都让人觉得义正言辞。我是见过那种大学辩论赛冠军去当销售的，那口才简直跟希特勒有得一拼，听他介绍产品你简直就有一种不支持他都对不起人类的感觉。</p>
+<p>性格决定选择，选择决定命运</p>
+<p>为什么都喜欢吹捧医生鄙视码农？
+张雪峰的总结我觉得挺好的，软件开发工程师（一般说的码农基本指sde）的社会属性比医生差多了。收入可能软件开发能高很多，但你没任何社会属性，帮不了人什么忙。你知道的信息基本都不能往圈子外面说，相比之下运营岗的权利大多了。就连亲戚朋友想帮孩子找个工作你都帮不了，因为招聘你做不了主，亲戚孩子的学校不够好连简历都到不了你这。唯一能帮的可能就是依靠自己做题家
+背景来辅导孩子功课 </p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/61"/><published>2024-01-26T16:18:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/60</id><title>Stable diffusion </title><updated>2024-08-02T14:33:53.371576+00:00</updated><content type="html"><![CDATA[<p>Stable diffusion </p>
+<p><a href="https://zhuanlan.zhihu.com/p/578233719">https://zhuanlan.zhihu.com/p/578233719</a> </p>
+<p>能跑在cpu上,xuyao set COMMANDLINE_ARGS=--skip-torch-cuda-test --no-half </p>
+<p>超级慢 </p>
+<p><a href="https://zhuanlan.zhihu.com/p/609524290">Windows下Stable Diffusion WebUI使用AMD显卡指北 - 知乎 (zhihu.com)</a> </p>
+<p>WIP -》 Fial，怀疑是显存不够！mlgb，战99显存没办法改大 </p>
+<p>(stable-diffusion-webui) C:\Users\jinsh&gt;cd C:\Users\jinsh\stable-diff </p>
+<p>(stable-diffusion-webui) C:\Users\jinsh\stable-diff&gt;1 </p>
+<p>(stable-diffusion-webui) C:\Users\jinsh\stable-diff&gt;call conda activate directml </p>
+<p>(directml) C:\Users\jinsh\stable-diff&gt;cd stable-diffusion-webui-directml </p>
+<p>(directml) C:\Users\jinsh\stable-diff\stable-diffusion-webui-directml&gt;call webui-user.bat </p>
+<p>venv &quot;C:\Users\jinsh\stable-diff\stable-diffusion-webui-directml\venv\Scripts\Python.exe&quot; </p>
+<p>fatal: No names found, cannot describe anything. </p>
+<p>Python 3.10.6 | packaged by conda-forge | (main, Oct 24 2022, 16:02:16) [MSC v.1916 64 bit (AMD64)] </p>
+<p>Version: 1.6.0 </p>
+<p>Commit hash: 64e6b0687e182d5f17216755561c9c143d69c220 </p>
+<p>Launching Web UI with arguments: </p>
+<p>no module 'xformers'. Processing without... </p>
+<p>no module 'xformers'. Processing without... </p>
+<p>No module 'xformers'. Proceeding without it. </p>
+<p>Loading weights [6ce0161689] from C:\Users\jinsh\stable-diff\stable-diffusion-webui-directml\models\Stable-diffusion\v1-5-pruned-emaonly.safetensors </p>
+<p>Running on local URL:  <a href="http://127.0.0.1:7860/">http://127.0.0.1:7860/</a> </p>
+<p>To create a public link, set <code>share=True</code> in <code>launch()</code>. </p>
+<p>Creating model from config: C:\Users\jinsh\stable-diff\stable-diffusion-webui-directml\configs\v1-inference.yaml </p>
+<p>Startup time: 24.1s (prepare environment: 0.7s, import torch: 7.3s, import gradio: 3.1s, setup paths: 2.8s, initialize shared: 2.9s, other imports: 1.3s, setup codeformer: 0.4s, load scripts: 3.1s, create ui: 0.9s, gradio launch: 1.4s). </p>
+<p>Applying attention optimization: InvokeAI... done. </p>
+<p>Model loaded in 16.3s (load weights from disk: 1.6s, create model: 1.1s, apply weights to model: 11.2s, apply half(): 1.4s, move model to device: 0.1s, calculate empty prompt: 1.0s). </p>
+<p>25%|████████████████████▊                                                              | 5/20 [00:23&lt;01:01,  4.11s/it] </p>
+<p>Total progress:  25%|████████████████▊                                                  | 5/20 [00:18&lt;00:53,  3.56s/it]</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/60"/><published>2024-01-19T16:34:29+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/59</id><title>言论20240114</title><updated>2024-08-02T14:33:53.475956+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>除去开荒项目，大部分成熟的项目突然空降中层以上的高管，都是领导、老板、股东、公司 元老等人在玩博弈了。老板只要不是不学无术的富二代突然来接班，基本都知道外来的和尚进了本地的庙真的不好念经，之所以外来的好念经，只是更听招进来的领导的话而已。</p>
+<p>2012年，米哈游公司正式注册成立。[28]《FlyMe2theMoon》的团队成员靳志成在3月退出公司，入职思科系统 (中国) 研发有限公司，并将其股权转让给刘伟、罗宇皓。[29][30]靳志成主要负责程序开发，没有涉及团队管理。
+。。由2014年至2016年，米哈游营收分别为人民币1.03亿元、1.75亿元、4.24亿元，净利润分别为人民币6563万元、1.27亿元、2.73亿元</p>
+<p>2012年前：米哈游的前身、《FlyMe2theMoon》
+编辑
+米哈游由三位热爱动漫文化的上海交通大学学生刘伟、蔡浩宇和罗宇皓创立，成立于2012年。[10]在米哈游创立以前，三人就已经形成团队。蔡浩宇、刘伟、罗宇皓在研究生期间开发了一个主打自由创作的开源文学社区，在中国科学院技术创新大赛中获奖，拿到了人民币20万元奖学金。</p>
+<p>1995年，年仅8岁的蔡浩宇凭借《外星使者》获得了全国第二届计算机动画比赛二等奖[1]。1999年，12岁的蔡浩宇获评中国少年科学院首批“小院士”[1</p>
+<p>在联系上刘伟之前，陈悦天还在微博上联系到了张一鸣本人。2012年时，字节还是家小公司，今日头条才于2012年8月发布第一个版本。
+陈悦天曾说起蔡浩宇与张一鸣两人都有上述共同的特质。后来，他用一个词来总结他们俩，学神。
+“两个人都像理工科学神那种感觉，跟以前我们软件工程班里成绩最好的同学感觉很像。但比学神多一点的是他俩更近人情，毕竟是开公司的人，不会说话表达自己可不行。”</p>
+<p>但在有技术极客之称的蔡浩宇带队下，《原神》在多端的同时，无论是游戏的流畅度还是数据同步程度都保持着极高的水平，相当于蔡浩宇团队用2年的时间开发了4个产品，虽然这看似不过是将同样的内容移植到不同平台上，但实际上每个平台的底层逻辑区别是很大的，蔡浩宇团队需要针对每个平台做开发和优化</p>
+<p>【#每月10万退休金的老太太#】近日，四川一名博主晒出一系列AI画作，给出的指令从“画一个没有退休金的中国老太太”、到“每个月有1000块退休金的老太太”，再到“每个月10万退休金的老太太”……不得不说，AI也是懂养老的！那么，#你觉得多少退休金才够#？（via. AI冷科长 编辑:陈露）@陕视新闻 陕视新闻的微博视频</p>
+<p>只提供技术，不亲自下场做产品的优势是能做到轻资产运营，但是缺点也很明显——接触不到消费者，培养不了品牌的死忠粉/信徒，同时在投资人眼里公司市值缺乏实体支撑。毕竟再厉害的AI技术，也一定要包装在看得见摸得着的硬件产品里，以产品为生，才能持续走下去</p>
+<p>1926年8月14日，陆小曼与徐志摩在北京北海公园董事会厅堂订婚，请徐志摩的老师梁启超证婚[1]:98，梁启超在订婚仪式上发表一番对两人伤害家人亲朋，婚外出轨，人品低劣，以及反对两人结合的证婚词[1]:3。10月3日，陆小曼与徐志摩成婚</p>
+<p>贝索斯在经营亚马逊之时，展现出了非同一般的领导力，特别是公司持续亏损20年不为所动，而是着眼于公司的核心业务与未来增长，持续投资于技术、基础设施和人才团队。正是这种战略定力和长远眼光，这才有了如今亚马逊全球最大电商公司、云服务年800多亿美元收入、公司上万亿美元市值等等耀眼成绩。</p>
+<p>执行力和团队整合能力，是戴珊发展业务从0到1的核心手段，故而深受马云器重。</p>
+<p>關於pua，如果某人跟你說的話不明覺厲，讓你覺得自己有問題，那麽很可能不是你的問題，而是他的問題</p>
+<p>如果某些話聽了讓你熱血沸騰，那麽很可能有問題</p>
+<p>維特根斯坦</p>
+<p>年会不能停！</p>
+<p>当一个工具，就要有当一个工具的样子，要让用的人觉得趁手，才能继续使用。这就是打工人应有的觉悟</p>
+<p>按照Unity的说法，这次裁员将会影响“所有团队、所有地区的办公室，以及所有业务板块”，目的则是“重新聚焦于核心业务，实现长期的业绩和盈利增长”。</p>
+<p>那句话怎么说来着？
+刑不可知，则威不可测。
+美帝政府可没说禁售A100、H100和MI 250之后，阉割版芯片就不禁了</p>
+<p>我认为计算卡属于买方市场只是大部分人还意识不到而已，英伟达的股票虚高太多了。</p>
+<p>numpy中张量是否连续的定义
+对于任意的 N 维张量 t ，如果满足第 k 维相邻元素间隔 = 第 K+1维 至 最后一维的长度的乘积，则 t 是连续的</p>
+<p>李斌甚至说“如果没有做到原创技术领先的，都不配叫做高端品牌”。</p>
+<p>但在年轻人普遍容易受挫的年代，董明珠一派先得利者教人做事的咄咄逼人形象，显然是刺耳的。很多其他成年人也对此不全然赞同。
+经济问题的核心还是政治问题。政治上对于民众力量的增强有天然的恐惧，那必然带来“民富则抓紧，民贫则放松”的周期性变化。</p>
+<p>软件需要有人通盘理解它的运作机制，所以单个工程师有可能比一个职业开发团队造出更好的产品。因为单个工程师花时间，完整理解了他要构建的软件，而职业开发团队总是从一个项目转移到另一个项目。
+这也是为什么接手不熟悉的项目，比重建该项目要困难得多，以及为什么软件外包的质量总是如此糟糕。
+-- 《突然间我懂了软件》</p>
+<p>你需要了解一下rust闭包的实现原理。你的例子里的闭包，rust会生成一个匿名结构体并可变引用count，而你调用闭包的时候，会对匿名结构体本身产生可变引用。对闭包匿名结构体产生的可变引用会一直持续到循环结束，从而对count的可变引用也会一直持续，所以你中间不能再对count有别的引用​</p>
+<p>吵架小技巧，当事实有利的时候就谈事实，当事实不利的时候就谈身份
+权力一旦被发明出来，就会自我膨胀；掌握了权力的人则会像鸦片鬼那样越吃越上瘾。尧就已经有瘾。尧用舜二十年，又让他代理职务八年，直到死前都没放手，这也叫禅让？舜的欲望又大过尧。如果不是一命呜呼，才不会交出权力。[23]</p>
+<p>《掌控习惯》一个观点，如果在一个领域做到前 25%，在另外一个领域也做到前 25%，那么如果专注这两者的交叉地带，你就是这方向的头号玩家
+作者是一个生物学家、物理学都不算顶尖人物，但他找到的方向是生物力学。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/59"/><published>2024-01-14T07:02:39+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/58</id><title>大佬</title><updated>2024-08-02T14:33:53.561100+00:00</updated><content type="html"><![CDATA[<p>看pigserver代碼，居然發現以爲大佬的名字
+曾宇：
+曾宇，毕业于中南工业大学，现任腾讯公司副总裁，兼任 IEG（互动娱乐事业群）技术负责人，同时负责 PCG（内容与平台事业群）技术线。[1]</p>
+<p>2002年加入腾讯。2012年升任公司副总裁。2023年3月，兼任PCG/信息平台与服务线负责人。[2]</p>
+<p>2000年，进入深圳华为工作，负责有线智能网项目后台服务器的开发维护。</p>
+<p>2002年8月，加盟腾讯公司，作为架构师始创设计了中国最大的休闲游戏平台 —— QQGame游戏平台的分布式服务架构，实现了动态扩展，无缝升级，高容错等重要特性。</p>
+<p>2012年5月，兼任腾讯电脑管家CEO。</p>
+<p>2018年，腾讯成立平台与内容事业群（PCG）之后，曾宇担任PCG技术中台负责人；2019年8月接棒腾讯内容开放平台，同时负责PCG技术中台与内容中台。</p>
+<p>2023年，兼任PCG/信息平台与服务线负责人。[2]10月13日，据IT之家消息，腾讯内部发布人事任命，曾宇兼任 IEG（互动娱乐事业群）技术负责人，同时继续负责 PCG（内容与平台事业群）技术线。[1]</p>
+<p><a href="https://time.geekbang.org/column/article/88266">https://time.geekbang.org/column/article/88266</a>
+近日，腾讯副总裁曾宇谈了腾讯的技术价值观与技术人才修炼，他认为一个技术人员或者专家、工程师最重要的核心素质就是业务洞察力、技术视野和原创力。而对于工程师的自我修炼，曾宇认为，不论走专家路线，还是走技术管理者路线，专业都是基石，是最终的原创力</p>
+<p><a href="https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zengyu.md">https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zengyu.md</a></p>
+<p><a href="https://baike.sogou.com/v357460.htm">https://baike.sogou.com/v357460.htm</a>
+任宇昕：游戏之王
+2015年“中国40位40岁以下的商界精英”榜</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/58"/><published>2024-01-05T15:09:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/57</id><title>言论20240105</title><updated>2024-08-02T14:33:53.643056+00:00</updated><content type="html"><![CDATA[<p>公开数据显示，全球车载AA设备行业老大ASMPT在中国的业务收入占比明显下降，2021年为52%，2022年为42%。</p>
+<p>某一线国产自动化厂商高管杨S认为，“相比外商，中国本土企业具备价格、服务、交付等多维竞争优势。最为关键的是，在设备本身的算法和精度方面已经足以PK进口设备。”</p>
+<p>董宇辉急忙喝口热水：&quot;易老师，我突然觉得有点冷。&quot;
+易中天颇有深意地说：&quot;冷就对了。好好爱惜自己呀，君子无权，不如无才，最起码可以保命。&quot;</p>
+<p>正应了莫言的那句话：“当一碗水端不平的时候，只有牺牲那个最善良的人，才能风平浪静。一旦那个最善良的人不愿意再牺牲了，就会被扣上一个破坏和睦的帽子。”</p>
+<p>中国职场特有的“酱缸文化”——公司内不准出现独立、自由的异类，一切行动必须听领导的指挥，甚至为了所谓的集体利益，个人权益可以随时被牺牲掉。</p>
+<p>俞敏洪6月16日在“老俞闲话”上称：“做东方甄选很难说是一个战略。我一直说，事情做成了就是战略，做不成再大的战略也没用。所以，东方甄选最多就是在摸索一条出路。”幸运的是，俞敏洪等到了董宇辉</p>
+<p>孔孟之道在他身上体现得淋淋尽致。他看待财富的方式，对待金钱有一个下意识的抽离意识，还不能做到坦然面对；他讲仁义，讲“士为知己者死”，对俞敏洪异常尊敬和信任。</p>
+<p>軟件設計，我發現ioc是個很重要的手法。如果你的依賴需要變化，如果你要做好模塊測試，就要把依賴移出去
+當然，移出去之後用戶如果覺得不大方便，可以用裝飾這模式給他弄個簡單的藉口
+要注意的事，這些不好的東西，要放在越高層越好。不要讓髒東西弄亂你的基礎架構</p>
+<p>很多经营者在拿出经营方针之后就撒手不管,这种工作方式基 本无法收到理想的效果。
+一把手想成就大事,不光要管领导、管干部,还要耐心地去跟进各个管理岗位和一般员工的工作落实情况。如果一把手做事不细 致,那么他的指令就很难抵达组织的最基层,这是非常现实的问 题。</p>
+<p>可以说,推翻部下提案的上司,特别是中层管理者,是扼杀员工能动性的万恶之 源。
+因此,佳能电子科长的权限中明确指出“科长不得拒绝部下的提 案”,一旦违反,就会面临降职的处分。</p>
+<p>国内的管理显然是出了问题的，因为很多人对team leader的理解就是当上以后就可以不写代码了</p>
+<p>在董明珠这类商业精英看来，对于领导的绝对认同和绝对服从，是企业员工最基本的素质，传统的企业价值观更偏爱勤奋踏实的员工。</p>
+<p>他们的话术是，只要认真干活，升职加薪都在后头。在不少年轻职场人士看来，董明珠的工作思维是老式的，这类传统企业家给出的承诺往往是空头支票，毕竟公司上升的渠道掌握在公司内部，且正在越缩越小。</p>
+<p>打光全部子弹，源于王兴对市场的判断：在极度内卷的时候，必须下重手，饱和出击，拿钱把市场砸透，因为事后永远会后悔此前打法保守</p>
+<p>同样在最近如临大敌的是蔚来汽车的创始人李斌，他在最近蔚来九周年内部沟通会上说，我们以前是做五年战略规划，考虑的会比较长。但现在市场变化太快，这次只做两年经营计划。三年内不能帮助公司改善财务表现的事情，要么取消，要么延迟。「目前的环境里，长期主义的风险增加，回报变少」，李斌如是说。</p>
+<p>此后一个月，几乎所有有存在感的新品，都标配了8295芯片，这让8295的领先意义，瞬间被消解掉，从遥遥领先到泯然众人，只需一个月。</p>
+<p>华为跳阿里的我深有感触，阿里没有人愿意沉下心来做脏活苦活累活的，逼急了就是：互联网行业特性决定了…</p>
+<p>标  题: Re: 中医理论最重要的发展改进方向应该是建立严谨的量化标准体系
+发信站: 水木社区 (Mon Jan  1 10:56:23 2024), 站内</p>
+<p>如果真的建立了严谨的量化标准，那就揭开中医的真相了，中医跟着就完蛋了。
+本来就是玄学，非要搞科学那一套，这是找死。</p>
+<p>苹果的要求是minus 3-4, 苹果的管理人员至少要能随时接管比自己低三个级别的人手上的工作，这就要求管理人员必须是专家中的专家，清楚工作的每一个细节。
+一个真正强大的管理者，是绝对不应该凭借所谓“管理能力”做到领导的，大家可能以为只是对技术人员管理者这么要求，不是的，是任何岗位，不是专家就不要做领导，专业能力最强的人才有资格做领导，这是持续保持创新能力的其中一个秘诀，失去一线敏感度最容易发生的事情就是战略和执行脱节，创新的想法成为摆设，根本无法落地，因为创新意味着你不仅要有想法，而且要确保想法可以全部落地，不能落地的想法，在商业世界是没有价值的。</p>
+<p>出海企业怎么推进当地的工业化是一个新的命题。如何有效地推动当地的工程技术本身的发展，同时把它们纳入以中国为中心的内循环加外循环的体系中来，是我们未来或者长期发展中一个非常重要的任务。</p>
+<p>所以它意味着一个重要的转变，以往我们是依靠中国的产业链，然后在海外“卷”产品竞争。而以后我们需要将更多的产业链活动扩散到南方国家去，然后通过主导工程密集型、创新密集型的产品和技术，以及通过对全球性产业链的整合来获得竞争优势</p>
+<p>comment。如何防止养虎为患，养大儿子饿死老子？</p>
+<p>在美国，有面包有自由；在苏联，有面包没自由；留下来，没自由没面包。</p>
+<p>胡适劝人们“多研究问题，不要高谈主义”，</p>
+<p>从熊猫互娱再到普思资本的全线溃败，毫无疑问，王思聪的机会已经用完了。网络爽文中经常会出现的段子——不好好上班，就要回去继承亿万家产，没想到就这样，在王思聪身上应验了</p>
+<p>现在的京东就是在制造各种假自营
+坑信任京东自营的价格不敏感用户</p>
+<p>美国之所以能拔的全球股市涨幅榜头筹，除了拥有货币霸权在加息周期中虹吸全球流动性来加固自身资产价格外，还在于其本身在经济面所表现出的稳健基础和强预期得到全球投资者认可。</p>
+<p>为什么我国的金融市场表现如此，有没有足够发挥赋能实体经济的预期效果，真的值得认真反思。</p>
+<p>读书梁山政治，职场动物进化手册，马伯庸《太白金星有点烦》《长安的荔枝》</p>
+<p>赵玉平《梁山政治》《&lt;水浒&gt;是本管理书》</p>
+<p>《职场动物净化手册》</p>
+<p>《杜拉拉升职记》</p>
+<p>《圈子圈套》</p>
+<p>《输赢》</p>
+<p>《吴闲云说&lt;西游记&gt;》</p>
+<p>《局长成长史》(如何给领导送礼、拍马屁)</p>
+<p>《小强升职记》</p>
+<p>(时间管理)</p>
+<p>《边干边学当老板》(中小型企业管理)</p>
+<p>成君忆《水煮三国》</p>
+<p>芯片制造可概分为晶圆处理工序、晶圆针测工序、封装工序、测试工序等几个步骤，具体包括：光刻胶涂覆、曝光、计算光刻、离子注入、烘烤与显影、刻蚀、计量与检验、封装芯片等。其中晶圆处理工序和晶圆针测工序为前段工序，而封装工序、测试工序为后段工序。
+华为</p>
+<p>圣无线，神终端，千万别去大业软</p>
+<p>2012实验室的二级部门还包括：中央硬件工程学院、研发能力中心、中央软件院。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/57"/><published>2024-01-05T15:08:25+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/56</id><title>反思</title><updated>2024-08-02T14:33:53.759656+00:00</updated><content type="html"><![CDATA[<p>反思</p>
+<p>要反思一下，这次关于feature，我本着负责的态度发送一些comment给大家，但是老板简单的要求开会决定。背后是啥意思呢。我感觉是他看到我列举的一堆问题觉得为何不搞定反而是拿到台面上麻烦他们觉得我这么做不好。</p>
+<p>对于这种需要推动一堆人的事情，以后不要这么-从全局出发但是只做了一半了-，要不全做，要不不做</p>
+<p>项目管理</p>
+<p>对我来说，难点是如何控制风险
+一是如何保证进度，遇到一些开发过程中的意外issue导致无法准确估计时间，eg 某些其他模块的bug，内存问题，屎山问题
+二是如何保证在项目进行过程中新需求的可控，思路是变更控制，新需求放在下一个milestone
+三是如何保证deployment的质量，不只是bug，还包含开发设计过程中的未考虑的因素，第二点的思路是放在下一个milestone，除非设计有严重问题导致当前版本不能让release。另外一个思路是设置多一些machine test时间，这样可以灵活临时做一些design的change</p>
+<p>日記</p>
+<p>感覺自己對寫代碼真是愛好啊，熱愛的那種
+這兩天執著於把一個模塊對另一個模塊的耦合關係去掉。上班搞了幾天沒弄完。週末也忍不住加班搞定
+沒開電腦的時候，一天到晚在想怎麼的做法會比較好，既能保證兼容性，又能達到解耦的目標
+真是個呆子啊</p>
+<p>做事手法
+在公司做事，原則優先，再講實際
+前幾天一件事情，想要一個submodule就是飯了這個忌諱，導致理據不充分
+本來是想根據實際情況，原則一定程度上妥協與現實，結果弄出來的proposal被以為是想給大家自由權（雖然我內心是一定程度上支持自由權的，我很反感隨便一個想法就要上綱上線搞原則)，搞得一批就是漏洞</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/56"/><published>2023-12-16T14:53:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/55</id><title>言論20231216</title><updated>2024-08-02T14:33:53.866883+00:00</updated><content type="html"><![CDATA[<p>华为员工自曝偷偷面试军工企业经历，直接被鄙视了，对方说：华为淘汰的吧，35了在华为能混的下去吗？身体没啥毛病吧？
+对于国内来说，权力是核心竞争力</p>
+<p>Kent Beck關於簡單設計的四條規則
+據 Kent 所述,只要遵循以下規則,設計就能變得「簡單」:
+運行所有測試;
+不可重複;
+表達了程式設計師的意圖;
+盡可能減少類別和方法的數量;
+以上規則依其重要程度排列。</p>
+<p>测试与设计应该相辅相成。系统可测试,同时要保持类短小且目的单一的设计方案。遵循SRP的 类,测试起来较为简单。测试编写得越多,就越能持续走向编写较易测试的代码。所以,确 保系统完全可测试能帮助我们创建更好的设计。</p>
+<p>紧耦合的代码难以编写测试。同样,编写测试越多,就越会遵循DIP 之类规则,使用依 赖注入、接口和抽象等工具尽可能减少耦合。如此一来,设计就有长足进步</p>
+<p>有朋友海归，拿到某大互联网公司的offer，说是给总监级别，可以给管20-30个人，都是刚毕业没多久的大学生，说是耐操，而且便宜，让他随便使唤。。。把他吓到了，因为他海龟前都不管人，也就是个有点经验的大头兵</p>
+<p>具有讽刺意味的是，忠诚的员工更可能被选为企业的剥削目标。企业会假设，忠诚的员工更愿意为企业做出个人牺牲。
+-- 杜克大学的一项研究</p>
+<p>他们说，黄仁勋仍会抽出时间密切关注每周员工正在做的五件事的清单，这些清单会提交给领导</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/55"/><published>2023-12-16T14:50:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/54</id><title>言论202312</title><updated>2024-08-02T14:33:53.963771+00:00</updated><content type="html"><![CDATA[<p>言论</p>
+<p>本科刚毕业的第一份工作，TL的力荐让我了解了这本书（代码整洁之道）。这么多年以来也一直尽量写出整洁的代码，也遇到了很多困难。一方面领导更看重当下的交付速度，忽视技术债务的影响，另一方面团队成员水平参差不齐，不认同整洁代码的价值，到头来反倒成了我个人的小众爱好。</p>
+<p>我回到AMD是因为我想正确地重新设计处理器，我想将公司从破产中拯救出来。
+吉姆·凯勒</p>
+<p>寻找好的管理书籍，阅读评论，购买五本，全部阅读。这会给你一些想法。然后去找更多的书来填补一些空白。然后，你将比几乎任何人都更了解管理。他推荐的书籍包括吉姆·柯林斯（Jim Collins）的《从优秀到卓越：为什么有些公司实现了飞跃，而另一些公司却没有》（Good to Great： Why Some Companies Make the Leap and Other Don't）和罗伯特·科拉姆（Robert Coram）的《博伊德：改变战争艺术的战斗机飞行员》（Boyd： The Fighter Pilot Who Changed the Art of War）</p>
+<p>但是，&quot;什么是幻觉呢？&quot;Hohndel问道。Torvalds，他永远不会停止有点讽刺，说：&quot;我每天都能看到没有AI的错误。所以这就是为什么我不那么担心。我认为我们自己在犯错误方面做得非常好。</p>
+<p>一旦上过班，你的气质就变了</p>
+<p>「班味」，用于形容上班人身上特有的疲惫气质。短期来看，指上完一天班后，感觉身心被掏空、没有活力、精神疲倦</p>
+<p>标  题: Re: 现在国内卡年龄这件事确实够恶心的
+发信站: 水木社区 (Fri Dec  8 10:31:57 2023), 站内</p>
+<p>还是不缺人，工作岗位不够</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/54"/><published>2023-12-09T08:43:00+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/53</id><title>软件开发言论</title><updated>2024-08-02T14:33:54.058743+00:00</updated><content type="html"><![CDATA[<p>有很多因素会使软件开发复杂化,但最根本的原因是问题领域本身错综复杂,如果你要为一 家人员复杂的企业提高自动化程度,那么你开发的软件将无法回避这种复杂性,你所能做的只 控制这种复杂性。</p>
+<p>控制复杂性的关键是有一个好的领域模型</p>
+<p>极限编程承认设计决策的重要性,但强烈反对预先设计,相反,它将相当大的精力投入到促进沟通和提高项目快速变更能力的工作中。具有这种反应能力之后,开发人员就可以在项目的任 何阶段只利用“最简单而管用的方案”,然后不断进行重构,一步一步做出小的设计改进,最终 得到满足客户真正需要的设计。</p>
+<p>SOLID是基本原則，维括这个基本，Agile都不会太大风险</p>
+<p>实际上,XP最适合那些对设计的感觉很敏锐的开发人员。XP过程假定人们可以通过重构棚 改进设计,而且可以经常、快速地完成重构。</p>
+<p>现在我更喜欢”模块论”,“重用性”之类设计而非 “分层”之说,感觉“層“像是不完整的东西,要其它是配合才能工作, 而模块“才是獨立实体。</p>
+<p>一次，ASML又陷入了缺钱危机，这一回，是整个半导体行业都不景气，ASML甚至没有一张正经芯片制造商的订单，连母公司飞利浦都拒绝购买。斯密特甚至怀疑，ASML究竟能否捱过这场风雨，他多次询问首席财务官“我们到底要不要踩刹车？”财务官拒绝得坚决，大家都心知肚明，削减预算等于削减研发，等于告别未来。</p>
+<p>当突破带来更深层的模型时,通常会令人感到不安。与大部分重构相比,这种变化的回報多,风险也更高。而且突破出现的时机可能很不合时宜</p>
+<p>尽管我们希望进展顺利,但往往事与愿违。过渡到真正的深层模型需要从根本上调整思路。 并且对设计做大幅修改。在很多项目中,建模和设计工作最重要的进展都来自于突破。</p>
+<p>在项目团队中,技术能力最强的人员往往缺乏丰富的领域知识。这限制了他们的作用,并且更傾向于分派他们来开发一些支持组件,从而形成了一个恶性循环——知识的缺乏使他们远离了 些能够学到领域知识的工作。打破这种恶性循环是很重要的,方法是建立一支由开发人员和一位或多位领域专家组成的联,其中开发人员必须能力很强,能够长期稳定地工作并且对学习领域知识非常感兴趣,而领域专家则要掌握深厚的业务知识。如果你认真对待领域设计,那么它就是一项有趣且充满技术 挑战的工作。你肯定也会找到持这种观点的开发人员。
+深有同感,为啥呢?因为对能力给人也要安排事情啊，而他们能处理的主要就是同人沟通了，而這就是領域知識的工作了</p>
+<p>為啥有人会一直想通过配置之件定义系统呢?我认为這是懒惰,不善长代码之表现。因为一般讲,自己搞DSL 很難同成熟的嚴謹的工业语言相提并论</p>
+<p>C++的一个特点就是学了Level 1可以干活，学了Level 2可以干活，学了Level 3可以干活……自己干活通常没问题，但是Level低的人基本看不懂Level高的人的代码。  </p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/53"/><published>2023-12-02T08:05:47+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/52</id><title>大人学选择，成熟大人的独立思考术</title><updated>2024-08-02T14:33:54.149425+00:00</updated><content type="html"><![CDATA[<p>大人学选择，成熟大人的独立思考术</p>
+<p>理论原则
+选择让未来的选择增加的选项
+不要因为害怕担心而做出选择，不要在舒适区
+预想最坏的情况，并做出准备
+计算成本，包括机会成本
+优先让自己成为能独立运作的专业工作者，比如投资，创业，自雇人士，专业明星
+训练自己不依赖别人
+从哪里跌倒就从哪里爬起。分析问题所在解决问题，而非逃避和抱怨</p>
+<p>具体做法
+转职是为了追寻理想而非仅仅为了逃避现实，换句话说要有明确的方向感，知道自己想要什么</p>
+<p>例子
+抱怨最多的是兢兢业业，但是界限意识太清晰的人
+工作就是要弄脏手，不辛苦没有收获
+成功的销售不在于你厉害，而在于让客户觉得他自己很厉害（当然有点偏面了，产品竞争力也很重要），外语很重要，了解客户，取得他们的信任也重要</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/52"/><published>2023-11-12T00:40:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/51</id><title>软件设计理论体系</title><updated>2024-08-02T14:33:54.234465+00:00</updated><content type="html"><![CDATA[<p>软件设计理论体系
+基本目标
+可维护性
+可拓展性
+质量
+生产率
+可移植性</p>
+<p>基本原则，基本哲学，公理
+solid
+低耦合高內聚
+soc
+dry
+模块化</p>
+<p>具体方法
+ood，oop
+设计模式
+uml，4+1架构视图
+函数式编程
+微服务
+单元测试
+ci，cd，devops
+mvc，mvvm
+瀑布模型
+agile敏捷开发
+重构
+版本控制，git，pull request，代码审核
+tdd
+编程语言，及其best ptactise</p>
+<p>经典书籍与资料
+人月神话
+代码大全
+设计模式
+cpp core guideline</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/51"/><published>2023-11-11T07:52:35+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/50</id><title>软件杂项</title><updated>2024-08-02T14:33:54.379311+00:00</updated><content type="html"><![CDATA[<p>问题
+提高生产率
+减少bug</p>
+<p>分析
+软件工程是一个创造性的技术类工作。很难完全用流水线工人的思路加人或者自动化解决</p>
+<p>几个思路
+选用高级一些的编程语言。比如java，script。但是在极端情况下，效率不如c</p>
+<p>选用现代一些的编程语言，比如rust。但我相信我们的员工能力比较难掌握</p>
+<p>可视化编程，参考avs，不要自己造轮子了。注意，这个有局限性，只能做简单的，一次用，用完即扔，定制化</p>
+<p>rapsody，uml，但没人用过。感觉不行，讲不通啊，为啥老板在推。。</p>
+<p>做一个general的框架，但要统一到什么程度呢？
+一个差一些的avs？数据流图优化，基本算法函数，配置流程图</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/50"/><published>2023-11-08T11:26:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/49</id><title>言论</title><updated>2024-08-02T14:33:54.470430+00:00</updated><content type="html"><![CDATA[<p>你的产品是资产，但代码是负债</p>
+<p>重复比过早抽象的成本要低。过早的抽象会通过依赖和间接造成复杂性，并可能成为您响应变化的能力的瓶颈</p>
+<p>我觉得底层程序员最大的遗憾：写了一辈子程序，却没有自己的程序。就像农民工盖了一辈子楼房，也难有自己的楼房，很多只能住老家山里。
+「如果我当时知道创立英伟达之后遇到的困难有如此之大，要忍受如此之多的折磨和羞辱，比我们当时想象的情况难一百万倍，我觉得任何脑子正常的人，都不会决定要创立这家公司。</p>
+<p>黄老板一直把英伟达视为一个平台公司，从一开始就致力于服务开发者社区。这对公司获得长期成功非常关键。</p>
+<p>凡事先干起来，能解决90%的焦虑</p>
+<p>大多数人的焦虑的实质是：想得太多，做的太少。</p>
+<p><a href="https://m.36kr.com/p/2484196124596361">https://m.36kr.com/p/2484196124596361</a></p>
+<p>反内耗的秘诀就是——学会从外部找原因，少反思自己，多“责怪”他人。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/49"/><published>2023-10-23T15:08:43+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/48</id><title>言论</title><updated>2024-08-02T14:33:54.552329+00:00</updated><content type="html"><![CDATA[<p>理想主义往往正确，而现实主义往往成功</p>
+<p>有些技术团队非常的凑合。都是能力所限，能够把当前的软件改到稳定状态，没有明显 BUG 就已经劳心费力，精疲力竭，更没有动力去改造大的系统。
+<a href="https://www.newsmth.net/nForum/#%21article/Programming/210228?p=3">https://www.newsmth.net/nForum/#!article/Programming/210228?p=3</a></p>
+<p>Java 社区管理机器群是大麻烦，但对于 Python 社区的却未必。我们使用 docker + fabric 一直都能很轻松地管理大量的 Linux 机器。</p>
+<p>说世界离了谁都转，那是在PUA你，当你是傻子</p>
+<p><a href="https://www.newsmth.net/nForum/#%21article/WorkLife/3342423?p=3">https://www.newsmth.net/nForum/#!article/WorkLife/3342423?p=3</a></p>
+<p>保安还补了一句：你毕业后就跟学校没有任何关系了你知道罢</p>
+<p>现代国家的进步，在于规则和程序受国家法律保护，非必要，不受长官意志和人情的干扰和破坏。这是现代国家和前现代国家在对待规则和程序方面的差别</p>
+<p>你把肥鸭子都杀了，再请来的可都是空着肚子的鸭子
+什么反腐，是要钱
+真要反腐应该公开官员的资产</p>
+<p>猎豹只会追跑得最慢的、生病的和弱小的羚羊，是羚羊种族的压力测试器</p>
+<p>结婚的时候我说和他不离不弃，其实内心里，我是怕离开他不知道怎么活下去。。山哥</p>
+<p>江西周衙内(南昌周劼)语录集（1）：
+1、“高中同学不少去外省读了好大学的，都回家进了烟草、电网之类的，回家没有着落的，就在北上广深成都”。</p>
+<p>社会大变革下不是应该人才流动起来么？
+有多少项目就能留多少人，业务降级人才就会走。我跳槽的原因也是老单位业务上的减少。</p>
+<p>华为很多业务确实是面向领导的，软件水平真的不行，技术视野差，基层领导也确实不懂管理[惊喜]</p>
+<p>虽然网上很多人说架构师多重要，多么难以替代。但我的经历觉得，架构在业务面前可有可无，即使写的是屎山，把任务完成就得了，干的慢一点反而有更多救火英雄。而架构做得好，没那么多bug，老板可能觉得让你太闲了。就像扁鹊大哥那样</p>
+<p>软件设计是为了在让软件在长期范围内容易应对变化</p>
+<p>标  题: Re: 大佬们，想搞个视觉软件开发方面的创业公司，有啥要注意的
+发信站: 水木社区 (Fri Sep 22 08:06:26 2023), 站内</p>
+<p>工业类的视觉软件特别卷。你要考虑考虑你的产品比 halcon 、VisionPro有没有优势。
+如果拼价格，能不能拼得过 VisionMaster、VisionBank，CkVisionBuilder 国内的视觉软件产品。 </p>
+<p>多數業務員遇到的問題，就是組織業績不好的問題
+在任正非看来，余承东身上那股“闯劲”是许多人没有的，同时“能抓大放小，有战略眼光”。</p>
+<p>读者评。干活的就是不如动嘴巴的</p>
+<p>中国3000年不变。
+: 感觉以后也很难改变了</p>
+<p><a href="https://www.newsmth.net/nForum/#%21article/WorkLife/3414632?p=9">https://www.newsmth.net/nForum/#!article/WorkLife/3414632?p=9</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/48"/><published>2023-10-17T00:57:35+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/47</id><title>可视化语言vvvv生成代码分析</title><updated>2024-08-02T14:33:54.639142+00:00</updated><content type="html"><![CDATA[<p>patch如下，主要先把几个数字求和，再乘法，再作为半径画圆，在render这个园
+<img src="https://github.com/cutepig123/gitblog/assets/4235333/a4d5c9d2-4d72-4cc4-87e5-21c8af5b1170" alt="圖片" /></p>
+<p>生成代码如下</p>
+<pre><code class="language-cs">extern alias e1;
+extern alias e18;
+extern alias e2;
+extern alias e3;
+extern alias e8;
+extern alias e19;
+
+using n2 = global::System;
+using n7 = e1::VL.Core;
+using n12 = global::_callmenamesM2023M10M14_;
+using n23 = e8::_CoreLibBasics_.Primitive.Integer32;
+using n20 = global::System.Runtime.CompilerServices;
+using n3 = e2::VL.Core.CompilerServices;
+using n15 = e1::VL.Lib.Mathematics;
+using n8 = e1::VL.Core.CompilerServices;
+using n21 = global::System.Drawing;
+using n6 = e2::VL.Model;
+using n17 = e19::VL.Skia;
+using n4 = e2::VL.Core;
+using n16 = e18::_VL_Skia_.Graphics.Skia;
+using n11 = e3::Stride.Core.Mathematics;
+using n13 = e8::_VL_Collections_.Collections.Sequence;
+using n18 = e18::_VL_Skia_.Graphics.Skia.Layers;
+using n5 = global::_callmenamesM2023M10M14_.__auto;
+using n22 = e8::_CoreLibBasics_.Primitive;
+using n10 = e1::VL.Lib.Collections;
+using n24 = e8::_CoreLibBasics_.Math;
+using n1 = e2::VL.AppServices.CompilerServices;
+using n19 = global::System.Collections.Generic;
+using n9 = e2::VL.AppServices;
+using n14 = e8::_CoreLibBasics_.Primitive.Float32;
+
+namespace _callmenamesM2023M10M14_.__auto
+{
+    [n1.ElementAttribute(TracingId = 2457U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;Pay2MqKKesYLwCaGgpcbBN&quot;, Name = &quot;callmenames-2023-10-14Application&quot;)]
+    [n2.SerializableAttribute]
+    [n3.NameAttribute(&quot;callmenames-2023-10-14Application&quot;)]
+    [n3.CategoryAttribute(&quot;Main&quot;)]
+    [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+    public sealed class callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN : n4.PatchedObject, n2.IDisposable
+    {
+        [return: n3.PinAttribute(&quot;Output&quot;, isState: true)]
+        [n8.CreateNewAttribute]
+        [n1.ElementAttribute(DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;KZkYRzxdAynMk61QogxoK3&quot;, Name = &quot;Create&quot;)]
+        [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+        public static n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN Create([n3.PinAttribute(&quot;Node Context&quot;, visibility: n6.PinVisibility.Hidden)] n7.NodeContext Node_Context)
+        {
+            var instance = new callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(Node_Context, n4.PatchedObject.NewIdentity());
+            return instance.__Create__(Node_Context);
+        }
+
+        [return: n3.PinAttribute(&quot;Output&quot;, isState: true)]
+        [n8.CreateDefaultAttribute]
+        [n1.ElementAttribute(Name = &quot;CreateDefault&quot;)]
+        [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+        public static n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN CreateDefault()
+        {
+            var instance = new callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(n7.NodeContext.Default, n4.PatchedObject.NewIdentity());
+            return instance.__CreateDefault__();
+        }
+
+        [return: n3.PinAttribute(&quot;Output&quot;, isState: true)]
+        [n1.ElementAttribute(DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;D1nTuN9e0ZtPSJH7Tb5IvI&quot;, Name = &quot;Update&quot;)]
+        [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+        public n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN Update()
+        {
+            var __nodeContext = __GetContext__();
+            float __pad_A2RaOe6O7zOLGruMFL218M_0 = __slot_A2RaOe6O7zOLGruMFL218M;
+            n10.Spread&lt;int&gt; __pad_CWgu5nRyJVoLRpGXlIsCWE_1 = __slot_CWgu5nRyJVoLRpGXlIsCWE;
+            n11.Vector2 __pad_QE1c2hXfrToOaaOdXw40QY_2 = __slot_QE1c2hXfrToOaaOdXw40QY;
+            n13._Operations_.Sum&lt;n10.Spread&lt;int&gt;, int, n12.__AdaptiveImplementations__CXRHtulu8rMOJl4QSjAkRy&gt;(Input_In: __pad_CWgu5nRyJVoLRpGXlIsCWE_1, Result_Out: out int Result_3);
+            float Scalar_4 = (float)Result_3;
+            n14._Operations_.OperatorMultiply_Scale(Input_In: __pad_A2RaOe6O7zOLGruMFL218M_0, Scalar_In: Scalar_4, Output_Out: out float Output_5);
+            n15.RectangleAnchor Anchor_6 = __c_TMF1NyxQ9d7LTtVm6YcIB3;
+            n16.SkiaPaint_R Paint_7 = n16.SkiaPaint_R.CreateDefault();
+            bool Enabled_8 = true;
+            var State_Output_10 = this.__p_PYLuaBr0VayPSidI2VPKGZ.Update(Position_In: __pad_QE1c2hXfrToOaaOdXw40QY_2, Radius_In: Output_5, Anchor_In: Anchor_6, Paint_In: Paint_7, Enabled_In: Enabled_8, Output_Out: out n17.ILayer Output_9);
+            n11.Color4 Color_11 = __c_CivRgQ8t9OTPdrYoAJ74sw;
+            bool Clear_12 = true;
+            n17.CommonSpace Space_13 = __c_MNNIS2cQ77PN0s0IQAt0I9;
+            bool Show_Cursor_14 = true;
+            bool VSync_15 = true;
+            bool Enable_Keyboard_Shortcuts_16 = true;
+            bool Enabled_17 = true;
+            var Output_19 = this.__p_O4fdYYLQhQuQKpbFzMIhAb.Update(Input_In: Output_9, Color_In: Color_11, Clear_In: Clear_12, Space_In: Space_13, Show_Cursor_In: Show_Cursor_14, VSync_In: VSync_15, Enable_Keyboard_Shortcuts_In: Enable_Keyboard_Shortcuts_16, Enabled_In: Enabled_17, Render_Time_Out: out float Render_Time_18);
+            n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN that_20 = this;
+            if (this.__GetContext__().IsImmutable)
+                that_20 = !n19.EqualityComparer&lt;n18.Circle_PkBNwasMVJjOdYsVSPoZ1g&gt;.Default.Equals(State_Output_10, this.__p_PYLuaBr0VayPSidI2VPKGZ) || !n19.EqualityComparer&lt;n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7&gt;.Default.Equals(Output_19, this.__p_O4fdYYLQhQuQKpbFzMIhAb) ? new n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(this)
+                {__p_PYLuaBr0VayPSidI2VPKGZ = State_Output_10, __p_O4fdYYLQhQuQKpbFzMIhAb = Output_19} : that_20;
+            else
+            {
+                this.__p_PYLuaBr0VayPSidI2VPKGZ = State_Output_10;
+                this.__p_O4fdYYLQhQuQKpbFzMIhAb = Output_19;
+            }
+
+            return that_20;
+        }
+
+        [return: n3.PinAttribute(&quot;Output&quot;, isState: true)]
+        [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+        public n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN __Create__([n3.PinAttribute(&quot;Node Context&quot;, visibility: n6.PinVisibility.Hidden)] n7.NodeContext Node_Context)
+        {
+            n20.RuntimeHelpers.EnsureSufficientExecutionStack();
+            var __nodeContext = Node_Context;
+            n21.Rectangle Bounds_0 = __c_T28OIJnAvZzOmn87UqaoAn;
+            bool Save_Bounds_1 = true;
+            bool Bound_to_Document_2 = false;
+            n7.NodeContext Node_Context_3 = __nodeContext.CreateSubContext(&quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;O4fdYYLQhQuQKpbFzMIhAb&quot;, 2460U);
+            bool Dialog_If_Document_Changed_4 = false;
+            var Output_5 = n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7.Create(Bounds_In: Bounds_0, Save_Bounds_In: Save_Bounds_1, Bound_to_Document_In: Bound_to_Document_2, Node_Context_In: Node_Context_3, Dialog_If_Document_Changed_In: Dialog_If_Document_Changed_4);
+            n7.NodeContext Node_Context_6 = __nodeContext.CreateSubContext(&quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;PYLuaBr0VayPSidI2VPKGZ&quot;, 2473U);
+            var Output_7 = n18.Circle_PkBNwasMVJjOdYsVSPoZ1g.Create(Node_Context: Node_Context_6);
+            n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN that_8 = this;
+            this.__p_O4fdYYLQhQuQKpbFzMIhAb = Output_5;
+            this.__p_PYLuaBr0VayPSidI2VPKGZ = Output_7;
+            return that_8;
+        }
+
+        [return: n3.PinAttribute(&quot;Output&quot;, isState: true)]
+        [n3.SmellAttribute(n4.SymbolSmell.Default | n4.SymbolSmell.Hidden)]
+        public n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN __CreateDefault__()
+        {
+            var __nodeContext = n7.NodeContext.Default;
+            n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN that_0 = this;
+            this.__p_PYLuaBr0VayPSidI2VPKGZ = n18.Circle_PkBNwasMVJjOdYsVSPoZ1g.CreateDefault();
+            this.__p_O4fdYYLQhQuQKpbFzMIhAb = n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7.CreateDefault();
+            return that_0;
+        }
+
+        public void Dispose()
+        {
+            var __nodeContext = __GetContext__();
+            try
+            {
+                return;
+            }
+            finally
+            {
+                n9.CompilationHelper.ShieldedDisposeForManagedFields(this.__p_PYLuaBr0VayPSidI2VPKGZ);
+                n9.CompilationHelper.ShieldedDisposeForManagedFields(this.__p_O4fdYYLQhQuQKpbFzMIhAb);
+            }
+        }
+
+        [n1.ElementAttribute(TracingId = 2472U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;CWgu5nRyJVoLRpGXlIsCWE&quot;, Name = &quot;__slot_CWgu5nRyJVoLRpGXlIsCWE&quot;)]
+        public static n10.Spread&lt;int&gt; __slot_CWgu5nRyJVoLRpGXlIsCWE = n9.CompilationHelper.Deserialize&lt;n10.Spread&lt;int&gt;&gt;(&quot;2, 2, 2&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;CWgu5nRyJVoLRpGXlIsCWE&quot;);
+        [n1.ElementAttribute(TracingId = 2901U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;A2RaOe6O7zOLGruMFL218M&quot;, Name = &quot;__slot_A2RaOe6O7zOLGruMFL218M&quot;)]
+        public static float __slot_A2RaOe6O7zOLGruMFL218M = 0.05F;
+        [n1.ElementAttribute(TracingId = 3383U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;QE1c2hXfrToOaaOdXw40QY&quot;, Name = &quot;__slot_QE1c2hXfrToOaaOdXw40QY&quot;)]
+        public static n11.Vector2 __slot_QE1c2hXfrToOaaOdXw40QY = n9.CompilationHelper.Deserialize&lt;n11.Vector2&gt;(&quot;0.1, -0.05&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;QE1c2hXfrToOaaOdXw40QY&quot;);
+        [n1.ElementAttribute(TracingId = 2473U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;PYLuaBr0VayPSidI2VPKGZ&quot;, Name = &quot;Circle&quot;, IsManaged = true, IsAutoGenerated = true)]
+        public n18.Circle_PkBNwasMVJjOdYsVSPoZ1g __p_PYLuaBr0VayPSidI2VPKGZ;
+        [n1.ElementAttribute(TracingId = 2476U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;TMF1NyxQ9d7LTtVm6YcIB3&quot;, Name = &quot;Anchor&quot;, IsAutoGenerated = true)]
+        public static n15.RectangleAnchor __c_TMF1NyxQ9d7LTtVm6YcIB3 = n9.CompilationHelper.Deserialize&lt;n15.RectangleAnchor&gt;(&quot;Center&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;TMF1NyxQ9d7LTtVm6YcIB3&quot;);
+        [n1.ElementAttribute(TracingId = 2460U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;O4fdYYLQhQuQKpbFzMIhAb&quot;, Name = &quot;Renderer&quot;, IsManaged = true, IsAutoGenerated = true)]
+        public n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7 __p_O4fdYYLQhQuQKpbFzMIhAb;
+        [n1.ElementAttribute(TracingId = 2463U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;CivRgQ8t9OTPdrYoAJ74sw&quot;, Name = &quot;Color&quot;, IsAutoGenerated = true)]
+        public static n11.Color4 __c_CivRgQ8t9OTPdrYoAJ74sw = n9.CompilationHelper.Deserialize&lt;n11.Color4&gt;(&quot;0, 0, 0, 1&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;CivRgQ8t9OTPdrYoAJ74sw&quot;);
+        [n1.ElementAttribute(TracingId = 2465U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;MNNIS2cQ77PN0s0IQAt0I9&quot;, Name = &quot;Space&quot;, IsAutoGenerated = true)]
+        public static n17.CommonSpace __c_MNNIS2cQ77PN0s0IQAt0I9 = n9.CompilationHelper.Deserialize&lt;n17.CommonSpace&gt;(&quot;Normalized&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;MNNIS2cQ77PN0s0IQAt0I9&quot;);
+        [n1.ElementAttribute(TracingId = 2461U, DocumentId = &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, PersistentId = &quot;T28OIJnAvZzOmn87UqaoAn&quot;, Name = &quot;Bounds&quot;, IsAutoGenerated = true)]
+        public static n21.Rectangle __c_T28OIJnAvZzOmn87UqaoAn = n9.CompilationHelper.Deserialize&lt;n21.Rectangle&gt;(&quot;694, 232, 616, 439&quot;, false, &quot;CXRHtulu8rMOJl4QSjAkRy&quot;, &quot;T28OIJnAvZzOmn87UqaoAn&quot;);
+        void n2.IDisposable.Dispose()
+        {
+            using var __current_services = __GetServiceRegistry__().MakeCurrentIfNone();
+            Dispose();
+        }
+
+        public callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN() : base()
+        {
+        }
+
+        public callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(n7.NodeContext context, uint identity) : base(context, identity)
+        {
+        }
+
+        public callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN other) : base(other)
+        {
+            this.__p_PYLuaBr0VayPSidI2VPKGZ = other.__p_PYLuaBr0VayPSidI2VPKGZ;
+            this.__p_O4fdYYLQhQuQKpbFzMIhAb = other.__p_O4fdYYLQhQuQKpbFzMIhAb;
+        }
+
+        protected override n7.IVLObject __With__(n19.IReadOnlyDictionary&lt;string, n2.Object&gt; values)
+        {
+            return __WITH__(n9.CompilationHelper.GetValueOrExisting(values, &quot;__p_PYLuaBr0VayPSidI2VPKGZ&quot;, in __p_PYLuaBr0VayPSidI2VPKGZ), n9.CompilationHelper.GetValueOrExisting(values, &quot;__p_O4fdYYLQhQuQKpbFzMIhAb&quot;, in __p_O4fdYYLQhQuQKpbFzMIhAb));
+        }
+
+        internal callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN __WITH__(n18.Circle_PkBNwasMVJjOdYsVSPoZ1g __p_PYLuaBr0VayPSidI2VPKGZ, n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7 __p_O4fdYYLQhQuQKpbFzMIhAb)
+        {
+            n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN that_0 = this;
+            if (this.__GetContext__().IsImmutable)
+                that_0 = !n19.EqualityComparer&lt;n18.Circle_PkBNwasMVJjOdYsVSPoZ1g&gt;.Default.Equals(__p_PYLuaBr0VayPSidI2VPKGZ, this.__p_PYLuaBr0VayPSidI2VPKGZ) || !n19.EqualityComparer&lt;n16.Renderer_OJ1oTnNZv8VQL8P2l3hkH7&gt;.Default.Equals(__p_O4fdYYLQhQuQKpbFzMIhAb, this.__p_O4fdYYLQhQuQKpbFzMIhAb) ? new n5.callmenamesM2023M10M14Application_Pay2MqKKesYLwCaGgpcbBN(this)
+                {__p_PYLuaBr0VayPSidI2VPKGZ = __p_PYLuaBr0VayPSidI2VPKGZ, __p_O4fdYYLQhQuQKpbFzMIhAb = __p_O4fdYYLQhQuQKpbFzMIhAb} : that_0;
+            else
+            {
+                this.__p_PYLuaBr0VayPSidI2VPKGZ = __p_PYLuaBr0VayPSidI2VPKGZ;
+                this.__p_O4fdYYLQhQuQKpbFzMIhAb = __p_O4fdYYLQhQuQKpbFzMIhAb;
+            }
+
+            return that_0;
+        }
+    }
+}
+
+namespace _callmenamesM2023M10M14_
+{
+    public struct __AdaptiveImplementations__CXRHtulu8rMOJl4QSjAkRy : n22.IAdaptiveCreateDefault&lt;int&gt;, n24.IAdaptiveOperatorPlus&lt;int&gt;
+    {
+        public void CreateDefault(out int Output_Out)
+        {
+            n22._Operations_.CreateDefault_Generic&lt;int&gt;(Output_Out: out int Output_0);
+            Output_Out = Output_0;
+            return;
+        }
+
+        public void OperatorPlus(int Input_In, int Input_2_In, out int Output_Out)
+        {
+            n23._Operations_.OperatorPlus(Input_In: Input_In, Input_2_In: Input_2_In, Output_Out: out int Output_0);
+            Output_Out = Output_0;
+            return;
+        }
+    }
+}
+</code></pre>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/47"/><published>2023-10-15T02:48:36+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/46</id><title>再谈代理</title><updated>2024-08-02T14:33:54.725369+00:00</updated><content type="html"><![CDATA[<p>再谈代理</p>
 <p>上次写过一个blog <a href="https://github.com/cutepig123/gitblog/issues/24">https://github.com/cutepig123/gitblog/issues/24</a> 当时的要求已经基本达到。主要是实现一个端口提供多个服务，我基于一个开源代理修改而来，具体代码见https://github.com/cutepig123/dumb_proxy</p>
 <p>现在又想继续增强实现如下功能</p>
 <ul>
@@ -39,7 +1384,7 @@ need_xor = true
 <p><code>F:\_codes\Detours\samples\tracetcp-sockscap</code>稍后上传代码</p>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/46" rel="alternate"/><published>2023-08-23T13:07:16+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/45</id><title>笔记本</title><updated>2023-08-23T13:07:47.161120+00:00</updated><content type="html"><![CDATA[<p>bijiben</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/46"/><published>2023-08-23T13:07:16+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/45</id><title>笔记本</title><updated>2024-08-02T14:33:54.945163+00:00</updated><content type="html"><![CDATA[<p>bijiben</p>
 <h2>轻薄本-凌云 X16- R7 7840HS，能换内存64gb，2个硬盘</h2>
 <p><a href="http://www.wooking.com.cn/product/66">http://www.wooking.com.cn/product/66</a></p>
 <p>[<a href="https://www.ithome.com/">IT之家</a>](https://www.ithome.com/) 8 月 5 日消息，笔记本厂商吾空日前推出了凌云 X16 笔记本，R7 7840HS + 2.5K 165Hz 配置首发 3799  元，之后涨到了 4199 元。现在，这款笔记本正在开启预定，16GB + 512GB 版本售价重回 3799 元，32GB + 1TB 版本  4299 元</p>
@@ -48,7 +1393,7 @@ need_xor = true
 <h2>机械革命无界14</h2>
 <h2>火影众颜U4/U6</h2>
 <p>继机械革命无界14和火影众颜U4/U6之后，吾空凌云X16锐龙版也迎来了7840HS的更新，并打出了3799元起的首发价。当然，能否以这个价格购入还得拼人品，但该产品的出现，还是能给咱们打下一个心灵钢印，锐龙7 7840HS原来也能这么便宜！</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/45" rel="alternate"/><published>2023-08-10T15:09:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/44</id><title>Old Story 超强相亲经历</title><updated>2023-08-23T13:07:47.239105+00:00</updated><content type="html"><![CDATA[<p>超强相亲经历2007-02-06 18:07【下午硬被朋友拉去相亲】
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/45"/><published>2023-08-10T15:09:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/44</id><title>Old Story 超强相亲经历</title><updated>2024-08-02T14:33:55.052811+00:00</updated><content type="html"><![CDATA[<p>超强相亲经历2007-02-06 18:07【下午硬被朋友拉去相亲】
 女的长的相当不错，长发，蛮柔柔的样子。可我现在半点兴趣也提不起来，就是对着她发楞。结束后她发了消息给我，问我是不是对她不满意，我说不是，又问是不是嫌她难看，我说不是，你很好看。结果她就发嗲了一刚！娇声娇气要我明天去找她吃午饭。我说我穷光蛋，她说她来埋单，我说我胃溃疡，她说陪我去医院，我说我没医保卡，她说她来付帐，我么闲话来！</p>
 <p>【逛街】
 今天下午我在健身房里，收到她的手机电话，让我陪她逛徐家汇，我说没空，正在嘿咻嘿咻，她一下子很大声骂我黄色，忽然又小声问我你是不是有女朋友了？我说是的，我的女朋友就是扩胸器、跑步机等，她一下子愣住了，问我你在哪里，我说在健身房，她“噗哧”一下笑起来了，嗲声嗲气地骂我13点，然后让我快到徐家汇去，我说没空，她说不去的话就死给我看，我说你死吧，反正我也看不到，她又可怜巴巴地求我，我心肠软，一下子昏了头就答应她了。陪她逛徐家汇地铁下面的商场，我就是一个陪客，什么话也没有，她东看看，西摸摸，好像很兴奋，一路问我这件怎么样，那件好不好看，我就是不发表意见，到了快要回家的时候，她再三地逼我说，我看她一直在看那些鲜艳的衣服，就随便指了一件素色，说这件不错，想不到她一下子很惊喜地看着我，说我其实注意这件衣服很久了，就是想考考你的品味，想不到你还蛮懂的嘛！吾刚特了</p>
@@ -125,7 +1470,7 @@ need_xor = true
 我回到家里，躺在床上，回想着今天发生的一幕。钢笔上，笔记本，面纸上到处都是贴纸。大家都知道，这种玩意贴上去简单，撕下来可就不那么容易了。我一边叹气一边闷头撕着一些比较明显的，撕着撕着，悲从中来，不禁长叹一声。门外有朋友正好走进来，他奇怪的看着我，问：哟！你叹什么气啊。我摇摇头，起身拿了一瓶饮料丢给他。他惊奇的看着我床上的这些东西，大呼起来：这是什么啊。我看看！说完就全部拿了起来，看了许久，他也长叹一口气道：怪不得这些天看不到你的人，原来你躲起来享受美人恩了，真他妈不是东西。我苦笑一下：享受？接着就把这些天发生的事情都告诉了他。他听的时候表情千变万化，额头上不时有汗珠沁出。我唠唠叨叨说完之后，他睁大眼睛看着我，忽然扑通一声跪了下来！凄声道：英雄！如果你真不要就让给我吧！我推了他一下，笑道：搞什么！他问：你对这么好的女孩子真的一点感觉也没有？我说也不是，就是没到点子上。他神情古怪地看着我：我看你已经到点子上了！我傻了，他缓缓地说道：你没发现你的每张照片都很开心么？那种开心是发自内心的！ </p>
 <p>深夜，我躺在被子里，想着朋友说的话，难道他说的都是真的？我又仔细地看了一遍这些照片，还真的像他说的那样，笑的非常十三，但是又非常纯真。我翻来翻去，就是睡不着，还是打个电话给她！电话打过去她的声音也显然没睡着，她惊讶的低语：你那么晚打来干什么？我说我想你（我也不知道我怎么就脱口而出了），她说有多想，我说就像星星环绕着月亮（真恶心！）她呵呵笑说你神经，哪有星星环绕月亮的。我说难道是月亮环绕星星？她说也不是。我说那么就是互相环绕了。她噗嗤一声笑出来：你脑子有病！我说我是有病，相思病。她“油”了一声：恶心。我叹气：是恶心。她说我也想你，我说你也很恶心。她说是的。我说那恶心的人是不是应该在一起？她微微笑说是吧。我说：噢，你真的有病，我说相思病又没说相思你！她一下子无语了，我呵呵笑。她哼了一声：你欺负我好来！我说我就欺负你，她很小声很温柔的说我就愿意被你欺负。我刚特了…… </p>
 <p>夜，就这样悄悄的流逝……</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/44" rel="alternate"/><published>2023-08-09T16:22:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/43</id><title>EDR</title><updated>2023-08-23T13:07:47.360872+00:00</updated><content type="html"><![CDATA[<p>安全攻防之wmi</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/44"/><published>2023-08-09T16:22:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/43</id><title>EDR</title><updated>2024-08-02T14:33:55.166271+00:00</updated><content type="html"><![CDATA[<p>安全攻防之wmi</p>
 <h1>进攻</h1>
 <h2>wmi能干啥</h2>
 <h2>怎样用wmi</h2>
@@ -627,7 +1972,7 @@ print(output)
 <li>皮質 XDR。  </li>
 <li>FireEye 端點安全。  </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/43" rel="alternate"/><published>2023-08-08T12:51:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/42</id><title>oracle could的免费cpu性能差了点，但是好在永久免费</title><updated>2023-08-23T13:07:47.468690+00:00</updated><content type="html"><![CDATA[<h3>PassMark</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/43"/><published>2023-08-08T12:51:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/42</id><title>oracle could的免费cpu性能差了点，但是好在永久免费</title><updated>2024-08-02T14:33:55.268781+00:00</updated><content type="html"><![CDATA[<h3>PassMark</h3>
 <pre><code>                          PassMark PerformanceTest Linux
 
 
@@ -678,7 +2023,7 @@ success</p>
 <p>test it
 [opc@instance-20230730-2144 ~]$ python -m http.server</p>
 <h3>orcale cloud check balance</h3>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/42" rel="alternate"/><published>2023-07-30T14:07:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/41</id><title>Codespace的cpu性能还凑活着</title><updated>2023-08-23T13:07:47.564998+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/cutepig123/gitblog/assets/4235333/d0dff292-76cc-4f90-bd96-537b4900213b" alt="圖片" /></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/42"/><published>2023-07-30T14:07:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/41</id><title>Codespace的cpu性能还凑活着</title><updated>2024-08-02T14:33:55.362826+00:00</updated><content type="html"><![CDATA[<p><img src="https://github.com/cutepig123/gitblog/assets/4235333/d0dff292-76cc-4f90-bd96-537b4900213b" alt="圖片" /></p>
 <pre><code>@cutepig123 ➜ /workspaces/codespaces-jupyter (main) $ cat /proc/cpuinfo 
 processor       : 0
 vendor_id       : GenuineIntel
@@ -793,7 +2138,7 @@ address sizes   : 46 bits physical, 48 bits virtual
 power management:
 ···
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/41" rel="alternate"/><published>2023-07-30T11:59:00+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/40</id><title>使用userland app手机不用root安装linux</title><updated>2023-08-23T13:07:47.652789+00:00</updated><content type="html"><![CDATA[<p>使用userland app手机不用root安装linux</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/41"/><published>2023-07-30T11:59:00+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/40</id><title>使用userland app手机不用root安装linux</title><updated>2024-08-02T14:33:55.442115+00:00</updated><content type="html"><![CDATA[<p>使用userland app手机不用root安装linux</p>
 <p>目的
 测试能否编译rust程序
 测试性能</p>
@@ -841,7 +2186,7 @@ Use ESC or CTRL-C to exit
 A: Run All Tests   C: Run CPU Tests   M: Run Memory Tests   U: Upload Test Results
 </code></pre>
 <p>性能差了些，本来1900现在成900了</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/40" rel="alternate"/><published>2023-07-22T17:12:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/39</id><title>用windbg监视cl进程编译过程中打开的文件</title><updated>2023-08-23T13:07:47.748504+00:00</updated><content type="html"><![CDATA[<pre><code>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/40"/><published>2023-07-22T17:12:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/39</id><title>用windbg监视cl进程编译过程中打开的文件</title><updated>2024-08-02T14:33:55.527203+00:00</updated><content type="html"><![CDATA[<pre><code>
 Microsoft (R) Windows Debugger Version 10.0.22000.194 AMD64
 Copyright (c) Microsoft Corporation. All rights reserved.
 
@@ -1350,7 +2695,7 @@ ntdll!NtTerminateProcess+0x14:
 00007ffe`ef3ed644 c3              ret
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/39" rel="alternate"/><published>2023-07-17T07:08:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/38</id><title>zz找到了万元笔记本的完美替代方案</title><updated>2023-08-23T13:07:47.835409+00:00</updated><content type="html"><![CDATA[<p>发信人: pegasusrider (洛奇★小飞马), 信区: Notebook
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/39"/><published>2023-07-17T07:08:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/38</id><title>zz找到了万元笔记本的完美替代方案</title><updated>2024-08-02T14:33:55.635301+00:00</updated><content type="html"><![CDATA[<p>发信人: pegasusrider (洛奇★小飞马), 信区: Notebook
 标  题: 找到了万元笔记本的完美替代方案
 发信站: 水木社区 (Sat Jul  8 08:35:11 2023), 站内</p>
 <p>那就是买个7940的nuc，ppd上一堆
@@ -1367,13 +2712,13 @@ amd7940的核不带硬盘内存最便宜不到3k
 过去两年间没有一次必须用电池的场景
 就算有的话我的15年8g macbookpro足够</p>
 <p>唉唉！除了报销发票不好开简直完美！ </p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/38" rel="alternate"/><published>2023-07-08T14:44:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/37</id><title>zz标  题: 50岁，哪些事令你后悔？</title><updated>2023-08-23T13:07:47.913984+00:00</updated><content type="html"><![CDATA[<p>发信人: faithlost (信仰迷失), 信区: Tooooold
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/38"/><published>2023-07-08T14:44:17+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/37</id><title>zz标  题: 50岁，哪些事令你后悔？</title><updated>2024-08-02T14:33:55.774924+00:00</updated><content type="html"><![CDATA[<p>发信人: faithlost (信仰迷失), 信区: Tooooold
 标  题: 50岁，哪些事令你后悔？
 发信站: 水木社区 (Fri Jul  7 22:52:44 2023), 站内</p>
 <p>日本有一位医生，叫大津秀一，他的工作就是专门照顾那些临终的病人。在与1000位患者交谈，听取他们的临终遗憾后，他写下了《临终前会后悔的25件事》：
 第一个遗憾：没有做自己想做的事。第二个遗憾：没有实现梦想。第三个遗憾：做过对不起良心的事。第四个遗憾：被感情左右度过一生。第五个遗憾：没有尽力帮助过别人。第六个遗憾：过于相信自己。第七个遗憾：没有妥善安置财产。第八个遗憾：没有考虑过身后事。第九个遗憾：没有回故乡。第十个遗憾：没有享受过美食。第十一个遗憾：大部分时间都用来工作。第十二个遗憾：没有去想去的地方旅行。第十三个遗憾：没有和想见的人见面。第十四个遗憾：没能谈一场永存记忆的恋爱。第十五个遗憾：一辈子都没有结婚。第十六个遗憾：没有生育孩子。第十七个遗憾：没有看到孩子结婚。第十八个遗憾：没有注意身体健康。第十九个遗憾：没有戒烟。第二十个遗憾：没有表明自己的真实意愿。第二十一个遗憾：没有认清活着的意义。第二十二个遗憾：没有留下自己生存过的证据。第二十三个遗憾：没有看透生死。第二十四个遗憾：没有信仰。第二十五个遗憾：没有对深爱的人说“谢谢”。</p>
 <h2>50+岁数的大哥大姐，你们最后悔年轻时候做过或者没做过的事情是什么？</h2>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/37" rel="alternate"/><published>2023-07-08T14:30:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/36</id><title>shadowsocks</title><updated>2023-08-23T13:07:48.004407+00:00</updated><content type="html"><![CDATA[<pre><code>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/37"/><published>2023-07-08T14:30:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/36</id><title>shadowsocks</title><updated>2024-08-02T14:33:55.859101+00:00</updated><content type="html"><![CDATA[<pre><code>
  2332  cargo install shadowsocks-rust
  2333  wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.15.3/shadowsocks-v1.15.3.x86_64-unknown-linux-gnu.tar.xz
  2334  ls shadowsocks-v1.15.3.x86_64-unknown-linux-gnu.tar.xz
@@ -1405,7 +2750,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 }
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/36" rel="alternate"/><published>2023-07-02T03:00:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/35</id><title>居住证</title><updated>2023-08-23T13:07:48.106192+00:00</updated><content type="html"><![CDATA[<p>港澳居住证需要什么材料。只需要回乡证，结婚证，房产证，照片即可</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/36"/><published>2023-07-02T03:00:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/35</id><title>居住证</title><updated>2024-08-02T14:33:55.942009+00:00</updated><content type="html"><![CDATA[<p>港澳居住证需要什么材料。只需要回乡证，结婚证，房产证，照片即可</p>
 <p>地点在哪。上沙地铁站附近那个很方便，出地铁五十米</p>
 <p>注意事项。
 今天不熟悉搞了好多麻烦，去错地方折腾了半天，好几个地方都叫福田大厅。
@@ -1413,7 +2758,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 复印结婚证要全部三页复印而不是中间那一页</p>
 <p>如何领取。
 两周办好，可以邮寄，他们给张纸，交给邮递员</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/35" rel="alternate"/><published>2023-06-30T04:51:50+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/34</id><title>年度计划</title><updated>2023-08-23T13:07:48.188413+00:00</updated><content type="html"><![CDATA[<p>语言，
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/35"/><published>2023-06-30T04:51:50+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/34</id><title>年度计划</title><updated>2024-08-02T14:33:56.027319+00:00</updated><content type="html"><![CDATA[<p>语言，
 加强英语听力，不要听了半天不明白，目标是1.听懂名人演讲，比如奥巴马，nvidia台大 2.听懂技术类访谈节目</p>
 <p>粤语口语，目标是自己讲的别人能一次听懂。避免1别人要问多几次才明白 2别人立马转普通话</p>
 <p>工作。如何才能升职？如何找到突破点？如果从项目出发，有什么值得做，有机会升职的项目？</p>
@@ -1429,7 +2774,7 @@ sslocal  ssmanager  ssocks.json  ssserver  ssservice  ssurl
 难度 : 涉及到好几部分，每部分都要分别poc，安卓音频分析，语音频谱分析，ai语音识别，ai语音打分
 系统设计
 时间规划</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/34" rel="alternate"/><published>2023-06-25T04:51:58+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/33</id><title>感兴趣的书</title><updated>2023-08-23T13:07:48.263777+00:00</updated><content type="html"><![CDATA[<p>感兴趣的书</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/34"/><published>2023-06-25T04:51:58+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/33</id><title>感兴趣的书</title><updated>2024-08-02T14:33:56.106823+00:00</updated><content type="html"><![CDATA[<p>感兴趣的书</p>
 <p>目的。。学习的重点在于灵活运用，之前大学上课就是听听而已，理解都不算深入，更别说实践，运用，甚至灵活运用了。现在是想重新拿起来，思考能否把他们用到实际中</p>
 <p>《傅里叶光学导论 第四版》
 《傅里叶光学导论（第四版）》讨论傅里叶分析在光学领域中的应用，尤其是在衍射、成像、光学数据处理以及全息术方面的应用。内容涉及二维信号和系统的分析、标量衍射理论基础、菲涅耳衍射与夫琅禾费衍射、计算衍射和计算传播、相干光学系统的波动光学分析、光学成像系统的频谱分析、点扩展函数和传递函数的工程、波前调制、模拟光学信息处理、全息术、光通信中的傅里叶光学等。</p>
@@ -1448,7 +2793,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 （荷兰）朱豫才著  张湘平  虞水俊  孙志强  胡德文译
 🌐 Chinese
 本书是2001年由Pergamon出版，总结了作者在系统辨识领域的研究、开发及应用的成果，表达了他对辨识学科的看法。其中的渐近法（ASYM）被首次用于SetPoint公司的MPC项目中。该书倾向于应用，目的在于为理论和应用之间架起一座桥梁，为实际应用提供具有坚实科学理论基础的过程辨识方法。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/33" rel="alternate"/><published>2023-06-25T02:36:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/32</id><title>自动控制理论</title><updated>2023-08-23T13:07:48.338216+00:00</updated><content type="html"><![CDATA[<p>自动控制理论</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/33"/><published>2023-06-25T02:36:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/32</id><title>自动控制理论</title><updated>2024-08-02T14:33:56.198970+00:00</updated><content type="html"><![CDATA[<p>自动控制理论</p>
 <h1>本文目的</h1>
 <ul>
 <li>本人虽然是自控专业，但学的时候纯粹是书本知识，现在全部忘光了。当时也没有实践，完全没有切身感受。</li>
@@ -1555,7 +2900,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 <p><a href="https://blog.csdn.net/handsome_for_kill/article/details/103112509">https://blog.csdn.net/handsome_for_kill/article/details/103112509</a> MATLAB：对于状态空间方程的系统辨识</p>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/32" rel="alternate"/><published>2023-06-22T16:38:36+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/31</id><title>深圳游玩</title><updated>2023-08-23T13:07:48.449740+00:00</updated><content type="html"><![CDATA[<p>深圳游玩</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/32"/><published>2023-06-22T16:38:36+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/31</id><title>深圳游玩</title><updated>2024-08-02T14:33:56.303250+00:00</updated><content type="html"><![CDATA[<p>深圳游玩</p>
 <h1>适合夏天玩，儿童，室内</h1>
 <h2>The Wooderful Land 木育森林</h2>
 <p><a href="https://www.mamibuy.com.hk/talk/article/70649">https://www.mamibuy.com.hk/talk/article/70649</a></p>
@@ -1601,7 +2946,7 @@ Written for graduate students and professionals, Introduction to Modern Digital 
 <li>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/31" rel="alternate"/><published>2023-06-09T07:07:32+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/30</id><title>Win PE， Live CD总结</title><updated>2023-08-23T13:07:48.552093+00:00</updated><content type="html"><![CDATA[<pre><code class="language-bash">C:\Users\cutepig&gt;tree /f h:
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/31"/><published>2023-06-09T07:07:32+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/30</id><title>Win PE， Live CD总结</title><updated>2024-08-02T14:33:56.392022+00:00</updated><content type="html"><![CDATA[<pre><code class="language-bash">C:\Users\cutepig&gt;tree /f h:
 H:\
 │   WePE64_V2.2.iso
 │   WePE64_V2.2.iso.txt
@@ -1617,7 +2962,7 @@ H:\
 └───ventoy
         ventoy_wimboot.img	# 让ventoy支持的wim插件
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/30" rel="alternate"/><published>2023-06-09T06:38:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/29</id><title>网络小说 馆人</title><updated>2023-08-23T13:07:48.648440+00:00</updated><content type="html"><![CDATA[<p><a href="https://m.ddxs.com/guanren/">https://m.ddxs.com/guanren/</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/30"/><published>2023-06-09T06:38:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/29</id><title>网络小说 馆人</title><updated>2024-08-02T14:33:56.495550+00:00</updated><content type="html"><![CDATA[<p><a href="https://m.ddxs.com/guanren/">https://m.ddxs.com/guanren/</a></p>
 <p>一周时间读完了这个小说，小说讲的是一个小人物一步一步走上人生巅峰，迎娶白富美的历程
 主人公的成功，离不开一下几方面
 个人的天赋
@@ -1625,11 +2970,11 @@ H:\
 出生条件好，摊上个小土豪的爹妈
 利用各种资源，某些资源可能对自己有损害，但是用好了反而是有益
 自己的努力，其实看来，这个反而是小方面了</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/29" rel="alternate"/><published>2023-06-07T01:30:28+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/28</id><title>C语言 宏嵌套的展开规则 2 年前</title><updated>2023-08-23T13:07:48.733861+00:00</updated><content type="html"><![CDATA[<p>之前一直搞不明白宏为什么有的时候能递归，有的时候不能。
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/29"/><published>2023-06-07T01:30:28+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/28</id><title>C语言 宏嵌套的展开规则 2 年前</title><updated>2024-08-02T14:33:56.583398+00:00</updated><content type="html"><![CDATA[<p>之前一直搞不明白宏为什么有的时候能递归，有的时候不能。
 看boost pp的宏定义不懂为啥搞两层
 看了这个帖子才明白</p>
 <p><a href="https://zhuanlan.zhihu.com/p/344240420?utm_id=0">https://zhuanlan.zhihu.com/p/344240420?utm_id=0</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/28" rel="alternate"/><published>2023-05-26T06:03:38+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/27</id><title>sockscap代理不支持代理的软件</title><updated>2023-08-23T13:07:48.815988+00:00</updated><content type="html"><![CDATA[<p>要求
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/28"/><published>2023-05-26T06:03:38+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/27</id><title>sockscap代理不支持代理的软件</title><updated>2024-08-02T14:33:56.687457+00:00</updated><content type="html"><![CDATA[<p>要求
 windoes平台
 原先我有一些程序，但是他们不支持代理。如何让他们也能用？
 这个代理工具最好支持多个代理，首先通过p单的，然后再经过一个专有代理，比如shadowsocks实现加密</p>
@@ -1643,9 +2988,9 @@ proxifier 缺点是收费</p>
 <ul>
 <li><input disabled="" type="checkbox"> 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/27" rel="alternate"/><category term="TODO"/><published>2023-05-26T05:38:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/26</id><title>将任意程序变为windows service</title><updated>2023-08-23T13:07:48.901519+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.wintips.org/how-to-run-an-application-as-service/">https://www.wintips.org/how-to-run-an-application-as-service/</a></p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/27"/><category term="TODO"/><published>2023-05-26T05:38:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/26</id><title>将任意程序变为windows service</title><updated>2024-08-02T14:33:56.786826+00:00</updated><content type="html"><![CDATA[<p><a href="https://www.wintips.org/how-to-run-an-application-as-service/">https://www.wintips.org/how-to-run-an-application-as-service/</a></p>
 <p>nssm。用过，很好用</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/26" rel="alternate"/><published>2023-05-25T17:12:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/25</id><title>文件上传下载</title><updated>2023-08-23T13:07:48.992273+00:00</updated><content type="html"><![CDATA[<p>文件上传下载</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/26"/><published>2023-05-25T17:12:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/25</id><title>文件上传下载</title><updated>2024-08-02T14:33:56.863604+00:00</updated><content type="html"><![CDATA[<p>文件上传下载</p>
 <p>要求</p>
 <ul>
 <li>只用一个端口，方便端口映射或者socks代理</li>
@@ -1699,7 +3044,7 @@ fail3()
 <p>proposal3 一个rust程序</p>
 <p><a href="https://github.com/sigoden/dufs">https://github.com/sigoden/dufs</a></p>
 <p><a href="https://lib.rs/crates/simple-http-server">https://lib.rs/crates/simple-http-server</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/25" rel="alternate"/><published>2023-05-22T15:26:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/24</id><title>端口转发工具</title><updated>2023-08-23T13:07:49.090016+00:00</updated><content type="html"><![CDATA[<p>端口转发工具</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/25"/><published>2023-05-22T15:26:57+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/24</id><title>端口转发工具</title><updated>2024-08-02T14:33:56.967151+00:00</updated><content type="html"><![CDATA[<p>端口转发工具</p>
 <p>要求</p>
 <ul>
 <li>
@@ -1771,7 +3116,7 @@ socks Server<ul>
 <li><a href="https://cloud.tencent.com/developer/article/1484318">https://cloud.tencent.com/developer/article/1484318</a>  是的，我又用rust实现了一版socks5代理</li>
 <li><a href="https://jimages.net/archives/269">https://jimages.net/archives/269</a> 使用rust实现一个sock5代理</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/24" rel="alternate"/><published>2023-05-17T14:56:30+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/23</id><title>使用facebook nllb英文翻译中文</title><updated>2023-08-23T13:07:49.187040+00:00</updated><content type="html"><![CDATA[<p>测了一下。效果一般般。感觉比google翻译差</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/24"/><published>2023-05-17T14:56:30+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/23</id><title>使用facebook nllb英文翻译中文</title><updated>2024-08-02T14:33:57.058333+00:00</updated><content type="html"><![CDATA[<p>测了一下。效果一般般。感觉比google翻译差</p>
 <pre><code class="language-python">
 # https://huggingface.co/spaces/Geonmo/nllb-translation-demo
 import requests
@@ -1826,7 +3171,7 @@ while True:
 并在您的日志中打印traceId &amp; spanId来解决故障,并对相关日志和追踪. &#x27;}], &#x27;duration&#x27;: 21.45286989212036, &#x27;average_duration&#x27;: 3.95068706035614}}
 PS C:\JS\Desktop&gt; ^N
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/23" rel="alternate"/><published>2023-04-30T16:12:11+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/22</id><title>ChatGPT推荐图书</title><updated>2023-08-23T13:07:49.263531+00:00</updated><content type="html"><![CDATA[<h3>推荐几本出名的python入门教程</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/23"/><published>2023-04-30T16:12:11+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/22</id><title>ChatGPT推荐图书</title><updated>2024-08-02T14:33:57.159723+00:00</updated><content type="html"><![CDATA[<h3>推荐几本出名的python入门教程</h3>
 <pre><code>《Python编程从入门到实践》（Eric Matthes）
 《Python基础教程》（Magnus Lie Hetland）
 《Python核心编程》（Wesley Chun）
@@ -1867,7 +3212,7 @@ PS C:\JS\Desktop&gt; ^N
 风景秀丽的湖泊：湖泊风景优美，适合漫步湖畔、观赏湖中风光，放松心情，如西湖、洱海等。
 </code></pre>
 <p>这些地方都有着独特的风情与魅力，适合散心旅游。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/22" rel="alternate"/><published>2023-04-29T17:24:10+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/21</id><title>港澳台居民在广东如何参加基本医疗保险？</title><updated>2023-08-23T13:07:49.350006+00:00</updated><content type="html"><![CDATA[<h1>港澳台居民在广东如何参加基本医疗保险？</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/22"/><published>2023-04-29T17:24:10+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/21</id><title>港澳台居民在广东如何参加基本医疗保险？</title><updated>2024-08-02T14:33:57.263646+00:00</updated><content type="html"><![CDATA[<h1>港澳台居民在广东如何参加基本医疗保险？</h1>
 <p><a href="http://www.cnbayarea.org.cn/policy/policy%20analysis/content/post_535492.html">http://www.cnbayarea.org.cn/policy/policy%20analysis/content/post_535492.html</a></p>
 <p><a href="https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/609003/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97-%E6%B8%AF%E6%BE%B3%E4%BA%BA%E5%A3%AB%E5%8F%AF%E6%86%91%E8%AD%89%E5%9C%A8%E5%85%A7%E5%9C%B0%E6%8E%A5%E7%A8%AE-%E5%B1%85%E4%BD%8F%E8%AD%89%E8%88%87%E9%86%AB%E4%BF%9D%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E4%B8%80%E8%A6%BD">https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/609003/%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97-%E6%B8%AF%E6%BE%B3%E4%BA%BA%E5%A3%AB%E5%8F%AF%E6%86%91%E8%AD%89%E5%9C%A8%E5%85%A7%E5%9C%B0%E6%8E%A5%E7%A8%AE-%E5%B1%85%E4%BD%8F%E8%AD%89%E8%88%87%E9%86%AB%E4%BF%9D%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E4%B8%80%E8%A6%BD</a></p>
 <p><a href="https://m12333.cn/query/ck.html">https://m12333.cn/query/ck.html</a></p>
@@ -1882,7 +3227,7 @@ PS C:\JS\Desktop&gt; ^N
 </blockquote>
 <h2>港澳办：港澳居民内地纳税问题不以居住证为依据</h2>
 <p><a href="https://www.sohu.com/a/249463247_800726">https://www.sohu.com/a/249463247_800726</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/21" rel="alternate"/><published>2023-04-29T10:56:04+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/20</id><title>電影電視劇</title><updated>2023-08-23T13:07:49.455305+00:00</updated><content type="html"><![CDATA[<p>電影電視劇</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/21"/><published>2023-04-29T10:56:04+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/20</id><title>電影電視劇</title><updated>2024-08-02T14:33:57.347834+00:00</updated><content type="html"><![CDATA[<p>電影電視劇</p>
 <p>搜了一下如下主題的電影電視劇：程序員電影 程序員電視劇  技術創業電影 創業紀錄片 程序員紀錄片</p>
 <p>硅谷传奇 Pirates of Silicon Valley[3]
 社交网络 The Social Network[2]
@@ -1937,7 +3282,7 @@ PS C:\JS\Desktop&gt; ^N
 <a href="http://m.cyol.com/content/2018-03/10/content_17010436.htm">http://m.cyol.com/content/2018-03/10/content_17010436.htm</a>
 <a href="https://www.163.com/dy/article/HKRRTJQ40553P17N.html">https://www.163.com/dy/article/HKRRTJQ40553P17N.html</a>
 <a href="http://m.cnr.cn/news/20200927/t20200927_525279105.html">http://m.cnr.cn/news/20200927/t20200927_525279105.html</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/20" rel="alternate"/><published>2023-04-15T06:14:40+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/19</id><title> 20230407放假四天</title><updated>2023-08-23T13:07:49.544709+00:00</updated><content type="html"><![CDATA[<h1>20230407</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/20"/><published>2023-04-15T06:14:40+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/19</id><title> 20230407放假四天</title><updated>2024-08-02T14:33:57.437159+00:00</updated><content type="html"><![CDATA[<h1>20230407</h1>
 <h2>done</h2>
 <ul>
 <li>
@@ -2015,7 +3360,7 @@ PS C:\JS\Desktop&gt; ^N
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/19" rel="alternate"/><category term="TODO"/><published>2023-04-10T14:34:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/18</id><title>疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？</title><updated>2023-08-23T13:07:49.662614+00:00</updated><content type="html"><![CDATA[<p>我发现网上有人已经问过类似。但是没有回。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/19"/><published>2023-04-10T14:34:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/18</id><title>疑问：直流伺服电机停在某个位置的时候是否是所谓的“堵转”？</title><updated>2024-08-02T14:33:57.561799+00:00</updated><content type="html"><![CDATA[<p>我发现网上有人已经问过类似。但是没有回。</p>
 <p><a href="https://www.amobbs.com/thread-5545108-1-1.html">https://www.amobbs.com/thread-5545108-1-1.html</a></p>
 <p>直流伺服电机用在平衡车上，电机电流问题请教：</p>
 <p>一、印象中有本教材上提到伺服电机因内阻较小，启动电流或者说堵转电流较大，因此不允许直流电机不允许长期处于堵转状态，以防止电流过大烧毁电
@@ -2028,12 +3373,12 @@ PS C:\JS\Desktop&gt; ^N
 <p>2.4 平衡小车处于平衡状态，“堵转电流”和负载的惯量有关系吗？如果保持平衡时的电流是“堵转电流”，那不就和负载惯量没关系了，感觉不对啊？</p>
 <p>ref
 什么是 <a href="https://www.yibumotor.com/news/656.html">https://www.yibumotor.com/news/656.html</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/18" rel="alternate"/><published>2023-04-10T08:12:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/17</id><title>欢乐颂3</title><updated>2023-08-23T13:07:49.767315+00:00</updated><content type="html"><![CDATA[<p>欢乐颂3</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/18"/><published>2023-04-10T08:12:22+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/17</id><title>欢乐颂3</title><updated>2024-08-02T14:33:57.646169+00:00</updated><content type="html"><![CDATA[<p>欢乐颂3</p>
 <p>豆瓣评分挺差的，可是我觉得还不错。</p>
 <p>然后跟之前还是差不多，就是嗯，年轻小妹妹，但是你家庭背景各有不同。还是挺有实际的，现实的代表性。比如当大姐，家里一堆弟弟妹妹要照顾。但是平均来看这个片里面这一堆女人还是高于我们现实中的人的倍镜，实力，和水平了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/17" rel="alternate"/><published>2023-04-09T06:21:47+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/16</id><title>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的</title><updated>2023-08-23T13:07:49.981337+00:00</updated><content type="html"><![CDATA[<p>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的。企业的战略不应该是跟钱相关的，天天想钱的财务官不可能做好CEO。https://www.youtube.com/watch?v=TiB_TjlxYNM&amp;ab_channel=%E5%A4%A7%E7%83%AD%E9%97%A8 一个做企业家要做得久，做得好，他每天考虑的大部分的事情都应该跟钱没有关系，和钱有关的都不是战略性的。不以利益为出发点的战略决策，才是真正的庙堂之策。所以我一直相信一个好的财务总监很难做好董事长，因为好的财务总监脑子里全部都是钱，脑子里全是钱的人是很难做好事情</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/16" rel="alternate"/><published>2023-04-08T13:54:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/15</id><title>物理学变成玄学了</title><updated>2023-08-23T13:07:50.069219+00:00</updated><content type="html"><![CDATA[<p>量子擦除，双峰干涉，物理学变成玄学了。终于明白爱因斯坦老爷子的心态了。https://www.youtube.com/watch?v=Ik58awh2Mp4&amp;ab_channel=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/15" rel="alternate"/><published>2023-04-08T13:38:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/14</id><title>播客podcast </title><updated>2023-08-23T13:07:50.162867+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/17"/><published>2023-04-09T06:21:47+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/16</id><title>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的</title><updated>2024-08-02T14:33:57.729423+00:00</updated><content type="html"><![CDATA[<p>虽然马云经常哗众取宠，但是他说的有些话还是很有道理的。企业的战略不应该是跟钱相关的，天天想钱的财务官不可能做好CEO。https://www.youtube.com/watch?v=TiB_TjlxYNM&amp;ab_channel=%E5%A4%A7%E7%83%AD%E9%97%A8 一个做企业家要做得久，做得好，他每天考虑的大部分的事情都应该跟钱没有关系，和钱有关的都不是战略性的。不以利益为出发点的战略决策，才是真正的庙堂之策。所以我一直相信一个好的财务总监很难做好董事长，因为好的财务总监脑子里全部都是钱，脑子里全是钱的人是很难做好事情</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/16"/><published>2023-04-08T13:54:34+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/15</id><title>物理学变成玄学了</title><updated>2024-08-02T14:33:57.957257+00:00</updated><content type="html"><![CDATA[<p>量子擦除，双峰干涉，物理学变成玄学了。终于明白爱因斯坦老爷子的心态了。https://www.youtube.com/watch?v=Ik58awh2Mp4&amp;ab_channel=%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/15"/><published>2023-04-08T13:38:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/14</id><title>播客podcast </title><updated>2024-08-02T14:33:58.059046+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 推荐播客app。如何给播客添加字幕？ podcast transript <a href="https://www.zhihu.com/question/21067130">https://www.zhihu.com/question/21067130</a><ul>
 <li>打开chrome的实时字幕功能，只能在桌面使用</li>
@@ -2057,7 +3402,7 @@ PS C:\JS\Desktop&gt; ^N
 <li><input disabled="" type="checkbox"> 让播客app支持字幕 <a href="https://github.com/AntennaPod/AntennaPod/issues/4935">https://github.com/AntennaPod/AntennaPod/issues/4935</a></li>
 <li><input disabled="" type="checkbox"> 自建rss服务，使用openai whisper ai模型给播客增加字幕</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/14" rel="alternate"/><published>2023-04-08T04:25:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/13</id><title>windows版本的timeit</title><updated>2023-08-23T13:07:50.272474+00:00</updated><content type="html"><![CDATA[<p>代码是从stackoverflow里面找的https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/14"/><published>2023-04-08T04:25:12+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/13</id><title>windows版本的timeit</title><updated>2024-08-02T14:33:58.161816+00:00</updated><content type="html"><![CDATA[<p>代码是从stackoverflow里面找的https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line</p>
 <pre><code class="language-bash">@echo off
 @setlocal
 
@@ -2089,7 +3434,7 @@ echo end=%end%
 echo command took %hours%:%mins%:%secs%.%ms% (%totalsecs%.%ms%s total)
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/13" rel="alternate"/><published>2023-04-07T15:15:42+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2023-08-23T13:07:50.350577+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/13"/><published>2023-04-07T15:15:42+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/12</id><title>语音合成tts测试</title><updated>2024-08-02T14:33:58.263318+00:00</updated><content type="html"><![CDATA[<p>语音合成tts测试</p>
 <p>微软的edge tts</p>
 <pre><code class="language-bash"># https://pypi.org/project/edge-tts/
 pip install edge-tts
@@ -2108,7 +3453,7 @@ AO: [wasapi] 48000Hz stereo 2ch float
 A: 00:00:03 / 00:00:04 (74%)
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/12" rel="alternate"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2023-08-23T13:07:50.436221+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/12"/><category term="NLP"/><published>2023-04-07T14:11:49+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/11</id><title>Openai whisper语音识别测试</title><updated>2024-08-02T14:33:58.359228+00:00</updated><content type="html"><![CDATA[<p>Openai whisper语音识别测试</p>
 <pre><code>pip install git+https://github.com/openai/whisper.git 
 path %path%;F:\sw\ffmpeg-4.1.4-win64-static\bin
 
@@ -2305,9 +3650,9 @@ f:\users\cutepig\appdata\local\programs\python\python38\lib\site-packages\whispe
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp</li>
 <li><input checked="" disabled="" type="checkbox"> 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行</li>
-<li><input disabled="" type="checkbox"> 如何支持语音直接输入，而不是文件输入</li>
+<li><input checked="" disabled="" type="checkbox"> 如何支持语音直接输入，而不是文件输入</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/11" rel="alternate"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2023-08-23T13:07:50.523253+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/11"/><category term="NLP"/><category term="TODO"/><published>2023-04-07T13:45:31+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/10</id><title>windows脚本：强制删除目录</title><updated>2024-08-02T14:33:58.448001+00:00</updated><content type="html"><![CDATA[<pre><code>SET DIRECTORY_NAME=%~1
 TAKEOWN /f &quot;%DIRECTORY_NAME%&quot; /r /d y
 ICACLS &quot;%DIRECTORY_NAME%&quot; /grant administrators:F /t
 ICACLS &quot;%DIRECTORY_NAME%&quot; /reset /T
@@ -2317,13 +3662,13 @@ rd/s/q &quot;%DIRECTORY_NAME%&quot;
 
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/10" rel="alternate"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2023-08-23T13:07:50.622421+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/9" rel="alternate"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2023-08-23T13:07:50.704084+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/8" rel="alternate"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2023-08-23T13:07:50.784015+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/10"/><published>2023-04-07T11:32:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/9</id><title>网传拼多多APP恶意提取权限，偷窥用户隐私，偷偷安装应用。</title><updated>2024-08-02T14:33:58.529889+00:00</updated><content type="html"><![CDATA[<p>真是烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/9"/><published>2023-04-06T13:21:23+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/8</id><title>网传“中国电科成都员工痛批领导安排加班”，四川省与成都市总工会介入</title><updated>2024-08-02T14:33:58.620899+00:00</updated><content type="html"><![CDATA[<p>我只能说，真他妈烂透了。</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/8"/><published>2023-04-05T15:27:07+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/7</id><title>个人密码管理软件</title><updated>2024-08-02T14:33:58.739220+00:00</updated><content type="html"><![CDATA[<p>微软的Microsoft authenticator。这个是我现在正在用的，还在试用期间。</p>
 <p>剩下这几个还没用过，但据说是开源免费的。如果有需要可以玩一下。
 keenpass</p>
 <p>Bitwarden</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/7" rel="alternate"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2023-08-23T13:07:50.872024+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/7"/><published>2023-04-05T04:19:41+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/6</id><title>alpaca.cpp</title><updated>2024-08-02T14:33:58.828429+00:00</updated><content type="html"><![CDATA[<p>alpaca.cpp</p>
 <p>这是啥：一个基于llama微调后的模型</p>
 <p>如何本地运行？</p>
 <ul>
@@ -2352,17 +3697,17 @@ main: interactive mode on.
 sampling parameters: temp = 0.100000, top_k = 40, top_p = 0.950000, repeat_last_n = 64, repeat_penalty = 1.300000
 
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/6" rel="alternate"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2023-08-23T13:07:50.966810+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/6"/><category term="NLP"/><published>2023-03-20T01:20:52+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/5</id><title>小爱音箱使用chatgpt</title><updated>2024-08-02T14:33:58.936123+00:00</updated><content type="html"><![CDATA[<p>尝试了下https://github.com/yihong0618/xiaogpt，果然能用
 就差一个openai账号了</p>
 <pre><code>set OPENAI_API_KEY=${your_api_key}
 xiaogpt --hardware L15A --use_chatgpt_api
 </code></pre>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/5" rel="alternate"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2023-08-23T13:07:51.057023+00:00</updated><content type="html"><![CDATA[<p>免費認證
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/5"/><category term="smart home"/><published>2023-03-19T16:37:26+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/4</id><title>免費認證的課程</title><updated>2024-08-02T14:33:59.021877+00:00</updated><content type="html"><![CDATA[<p>免費認證
 freecodecamp.org/chinese/</p>
 <p>免費看，但沒有免費認證
 <a href="https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science">https://www.classcentral.com/report/coursera-free-online-courses/#Computer%20Science</a></p>
 <p><a href="https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp">https://www.google.com/search?q=software+audit+courses+free&amp;biw=393&amp;bih=721&amp;sxsrf=AJOqlzWRdnC-RVsfyGdiauteqowY3jZI7g%3A1677916933512&amp;ei=BfsCZMPzHuX9hwO4poqQAg&amp;oq=software+audit+courses+free&amp;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgAEB4yBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABOgoIABBHENYEELADSgQIQRgAUMIGWMYOYOIPaAFwAHgAgAG5AYgBuQGSAQMwLjGYAQCgAQHIAQfAAQE&amp;sclient=mobile-gws-wiz-serp</a></p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/4" rel="alternate"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2023-08-23T13:07:51.202848+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/4"/><published>2023-03-19T15:27:55+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/3</id><title>项目</title><updated>2024-08-02T14:33:59.114949+00:00</updated><content type="html"><![CDATA[<h1>个人简介</h1>
 <p>Many years software development working experience, strong C/C++ develop and debug skills, understanding of software design, generic programming, multi-threaded programming</p>
 <p>Semiconductor industry vision inspection application background</p>
 <p>Highly self-motivated, sincere, good team work, high analytical skills, curious at new knowledge, hard working</p>
@@ -2389,7 +3734,7 @@ freecodecamp.org/chinese/</p>
 <li>语言：C++</li>
 <li>架构：整个系统包含软件硬件以及光学。本人主要做软件方面。设计了整个应用的架构，以及主要的编码。大量使用多核运算提高UPH。使用内存池减少动态内存分配</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/3" rel="alternate"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2023-08-23T13:07:51.297800+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/3"/><published>2023-03-19T15:25:56+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/2</id><title>做一个modern c++的讲座</title><updated>2024-08-02T14:33:59.220100+00:00</updated><content type="html"><![CDATA[<h1>内容简介</h1>
 <p>讲以前的best practise现在已经不是了，主要包括</p>
 <ul>
 <li>函数直接返回值，而不需要返回参数。移动语义等。以前的vector里面放sharedptr不需要了，可以通过编写可以移动的变量来做到</li>
@@ -2409,7 +3754,7 @@ freecodecamp.org/chinese/</p>
 <ul>
 <li>函数直接返回值：代码性能不是那么一目了然</li>
 </ul>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/2" rel="alternate"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2023-08-23T13:07:51.390600+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/2"/><published>2023-03-19T15:23:08+00:00</published></entry><entry><id>https://github.com/cutepig123/gitblog/issues/1</id><title>程序員怎樣在業餘時間掙到錢？</title><updated>2024-08-02T14:33:59.403981+00:00</updated><content type="html"><![CDATA[<h3>程序員怎樣在業餘時間掙到錢？</h3>
 <p>ChatGPT
 副業開發：利用技能可以自行開發應用程式，個人開發軟體、APP、插件等，將成品上架交易平台進行銷售。</p>
 <p>代碼審核：可以利用擅長的編程技術為企業或其他開發者進行代碼審核，減少其系統中存在的問題和漏洞。</p>
@@ -2440,4 +3785,4 @@ freecodecamp.org/chinese/</p>
 <p>Bytecode Viewer: Bytecode Viewer是一個Java反編譯器，可以用於對APK文件進行反編譯。</p>
 <p>Androguard: Androguard是一個用於靜態分析的框架和工具，可以用於逆向安卓應用程序。</p>
 <p>這些工具的強大程度取決於你的需求和技能水平。請注意，在逆向工作之前，請確保你有合法的授權和許可權。</p>
-]]></content><link href="https://github.com/cutepig123/gitblog/issues/1" rel="alternate"/><published>2023-03-19T14:48:05+00:00</published></entry></feed>
+]]></content><link href="https://github.com/cutepig123/gitblog/issues/1"/><published>2023-03-19T14:48:05+00:00</published></entry></feed>

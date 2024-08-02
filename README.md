@@ -1,10 +1,37 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml)
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
+
 ## 最近更新
+- [簡化編程](https://github.com/cutepig123/gitblog/issues/75)--2024-08-02
+- [言論0802](https://github.com/cutepig123/gitblog/issues/74)--2024-08-02
+- [言论20240514](https://github.com/cutepig123/gitblog/issues/73)--2024-05-12
+- [gpu测试卷积](https://github.com/cutepig123/gitblog/issues/72)--2024-05-12
+- [llama3测试](https://github.com/cutepig123/gitblog/issues/71)--2024-04-30
+- [言论0430](https://github.com/cutepig123/gitblog/issues/70)--2024-04-28
+- [言论0410](https://github.com/cutepig123/gitblog/issues/69)--2024-04-14
+- [言论20240401](https://github.com/cutepig123/gitblog/issues/68)--2024-04-04
+- [在某些情形不同语言的不同很微妙啊](https://github.com/cutepig123/gitblog/issues/67)--2024-03-30
+- [言論20240401](https://github.com/cutepig123/gitblog/issues/66)--2024-03-30
+- [言論20240310](https://github.com/cutepig123/gitblog/issues/65)--2024-03-10
+- [言论20240215](https://github.com/cutepig123/gitblog/issues/64)--2024-02-15
+- [How to KNOW what ATTRIBUTES a IDispatch provided in pytthon win32com package](https://github.com/cutepig123/gitblog/issues/63)--2024-02-06
+- [言論20240203](https://github.com/cutepig123/gitblog/issues/62)--2024-02-03
+- [言論20240127](https://github.com/cutepig123/gitblog/issues/61)--2024-01-26
+- [Stable diffusion ](https://github.com/cutepig123/gitblog/issues/60)--2024-01-19
+- [言论20240114](https://github.com/cutepig123/gitblog/issues/59)--2024-01-14
+- [大佬](https://github.com/cutepig123/gitblog/issues/58)--2024-01-05
+- [言论20240105](https://github.com/cutepig123/gitblog/issues/57)--2024-01-05
+- [反思](https://github.com/cutepig123/gitblog/issues/56)--2023-12-16
+- [言論20231216](https://github.com/cutepig123/gitblog/issues/55)--2023-12-16
+- [言论202312](https://github.com/cutepig123/gitblog/issues/54)--2023-12-09
+- [软件开发言论](https://github.com/cutepig123/gitblog/issues/53)--2023-12-02
+- [大人学选择，成熟大人的独立思考术](https://github.com/cutepig123/gitblog/issues/52)--2023-11-12
+- [软件设计理论体系](https://github.com/cutepig123/gitblog/issues/51)--2023-11-11
+- [软件杂项](https://github.com/cutepig123/gitblog/issues/50)--2023-11-08
+- [言论](https://github.com/cutepig123/gitblog/issues/49)--2023-10-23
+- [言论](https://github.com/cutepig123/gitblog/issues/48)--2023-10-17
+- [可视化语言vvvv生成代码分析](https://github.com/cutepig123/gitblog/issues/47)--2023-10-15
 - [再谈代理](https://github.com/cutepig123/gitblog/issues/46)--2023-08-23
 - [笔记本](https://github.com/cutepig123/gitblog/issues/45)--2023-08-10
 - [Old Story 超强相亲经历](https://github.com/cutepig123/gitblog/issues/44)--2023-08-09
@@ -58,13 +85,26 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## smart home
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## TODO
+TODO list from [簡化編程](https://github.com/cutepig123/gitblog/issues/75)--16 jobs to do--0 jobs done
+* [ ] 包一层thin的layer，包一层cpp接口
+* [ ] 包一层python接口
+* [ ] 寫一個流程圖引擎（參考啥？）
+* [ ] 看图控件，maskeditor，learn, insp,lighting setting， image tools with etw，intensity et
+* [ ] 图像显示，放大缩小，画graphics，选择之后设置graphics属性，算法输入类似于idi
+* [ ] 对常用功能用mfc编写gui
+* [ ] 用opencv的gui
+* [ ] 控件？
+* [ ] mfc view
+* [ ] mfc dialog
+* [ ] mfc activex，放入c#测试
+* [ ] qt
+* [ ] wpf
+* [ ] flutter
+* [ ] electron之类
+* [ ] gaclib
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
-TODO list from [ 20230407放假四天](https://github.com/cutepig123/gitblog/issues/19) all done
-
-TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11)--1 jobs to do--2 jobs done
-- [x] 跑的太慢了，测一下https://github.com/ggerganov/whisper.cpp
-- [x] 除了语音识别，还有啥local的语音生成的tts lib？或者能免费用微软的tts也行
-- [ ] 如何支持语音直接输入，而不是文件输入
+TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11) all done
 
