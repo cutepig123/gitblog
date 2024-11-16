@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml)
 
 ## 最近更新
+- [言論20241116](https://github.com/cutepig123/gitblog/issues/81)--2024-11-16
 - [ 780M GPU whisperdesktop directML for AMD 7840HS CPU](https://github.com/cutepig123/gitblog/issues/80)--2024-11-16
 - [言论20240929](https://github.com/cutepig123/gitblog/issues/79)--2024-09-29
 - [言论20240903](https://github.com/cutepig123/gitblog/issues/78)--2024-09-03
