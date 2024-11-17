@@ -143,6 +143,14 @@ TODO list from [言论20240514](https://github.com/cutepig123/gitblog/issues/73)
 * [ ] getting real
 * [ ] 一個成功獨立工作者的故事
 
+TODO list from [言论0430](https://github.com/cutepig123/gitblog/issues/70)--6 jobs to do--0 jobs done
+* [ ] 《遗失的访谈》
+* [ ] 黑格尔《历史哲学》
+* [ ] 广东省2024年上半年中小学教师资格考试笔试报名时间为2024年1月12日9:30至15日16:00
+* [ ] 线上兼职少儿编程教师 https://www.zhipin.com/zhaopin/b6d44fa9ba74070b1nNy0tW5Ew~~/
+* [ ] python接单
+* [ ] 在DRL虚拟环境试炼，然后sim2real
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
