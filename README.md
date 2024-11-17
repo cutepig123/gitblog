@@ -207,6 +207,9 @@ TODO list from [sockscap代理不支持代理的软件](https://github.com/cutep
 
 TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11) all done
 
+TODO list from [免費認證的課程](https://github.com/cutepig123/gitblog/issues/4)--1 jobs to do--0 jobs done
+* [ ] 免費認證 freecodecamp.org/chinese/
+
 TODO list from [程序員怎樣在業餘時間掙到錢？](https://github.com/cutepig123/gitblog/issues/1)--1 jobs to do--0 jobs done
 * [ ] 程序員怎樣在業餘時間掙到錢？
 
