@@ -161,6 +161,9 @@ TODO list from [言论20240401](https://github.com/cutepig123/gitblog/issues/68)
 * [ ] Vue.js：纪录片
 * [ ] 高分纪录片】《致富之道》（全6集）富人是如何致富的？
 
+TODO list from [言論20240401](https://github.com/cutepig123/gitblog/issues/66)--1 jobs to do--0 jobs done
+* [ ] 《芯片简史》
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
