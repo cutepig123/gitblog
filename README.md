@@ -205,6 +205,10 @@ TODO list from [言论202312](https://github.com/cutepig123/gitblog/issues/54)--
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
+TODO list from [播客podcast ](https://github.com/cutepig123/gitblog/issues/14)--2 jobs to do--0 jobs done
+- [ ] 让播客app支持字幕 https://github.com/AntennaPod/AntennaPod/issues/4935
+- [ ] 自建rss服务，使用openai whisper ai模型给播客增加字幕
+
 TODO list from [Openai whisper语音识别测试](https://github.com/cutepig123/gitblog/issues/11) all done
 
 TODO list from [免費認證的課程](https://github.com/cutepig123/gitblog/issues/4)--1 jobs to do--0 jobs done
