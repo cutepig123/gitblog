@@ -171,6 +171,19 @@ TODO list from [言論20240310](https://github.com/cutepig123/gitblog/issues/65)
 TODO list from [大佬](https://github.com/cutepig123/gitblog/issues/58)--1 jobs to do--0 jobs done
 * [ ]  2015年“中国40位40岁以下的商界精英”榜
 
+TODO list from [言论20240105](https://github.com/cutepig123/gitblog/issues/57)--11 jobs to do--0 jobs done
+* [ ] 读书梁山政治，职场动物进化手册，马伯庸《太白金星有点烦》《长安的荔枝》
+* [ ] 赵玉平《梁山政治》《<水浒>是本管理书》
+* [ ] 《职场动物净化手册》
+* [ ] 《杜拉拉升职记》
+* [ ] 《圈子圈套》
+* [ ] 《输赢》
+* [ ] 《吴闲云说<西游记>》
+* [ ] 《局长成长史》(如何给领导送礼、拍马屁)
+* [ ] 《小强升职记》
+* [ ] 《边干边学当老板》(中小型企业管理)
+* [ ] 成君忆《水煮三国》
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
