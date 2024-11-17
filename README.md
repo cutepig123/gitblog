@@ -168,6 +168,9 @@ TODO list from [言論20240310](https://github.com/cutepig123/gitblog/issues/65)
 * [ ] Douglas Coupland 的小说《Microserfs》（微农）
 * [ ] 技术管理之巅。。讲国内的it公司技术管理的，写的其实不错。感觉作者对国内比较了解，听起来很真实。内容主要讲管理，而具体技术讲的比较少
 
+TODO list from [大佬](https://github.com/cutepig123/gitblog/issues/58)--1 jobs to do--0 jobs done
+* [ ]  2015年“中国40位40岁以下的商界精英”榜
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
