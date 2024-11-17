@@ -202,6 +202,14 @@ TODO list from [言论202312](https://github.com/cutepig123/gitblog/issues/54)--
 * [ ] “硅仙人”Jim Keller的芯片研发封神之道 https://m.huxiu.com/article/436560.html
 * [ ] https://picture.iczhiku.com/weixin/message1587129104882.html
 
+TODO list from [感兴趣的书](https://github.com/cutepig123/gitblog/issues/33)--6 jobs to do--0 jobs done
+* [ ] 《傅里叶光学导论 第四版》
+* [ ] 现代数字全息导论
+* [ ] Introduction to Modern Digital Holography with MATLAB
+* [ ] 控制理论及系统辨识
+* [ ] 📚 系统辨识及其MATLAB仿真+侯媛彬+汪梅等.PDF
+* [ ] 📚 过程控制的多变量系统辨识
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
