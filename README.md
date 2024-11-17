@@ -151,6 +151,11 @@ TODO list from [言论0430](https://github.com/cutepig123/gitblog/issues/70)--6 
 * [ ] python接单
 * [ ] 在DRL虚拟环境试炼，然后sim2real
 
+TODO list from [言论0410](https://github.com/cutepig123/gitblog/issues/69)--3 jobs to do--0 jobs done
+* [ ] 《撤换高管，重整供应链，小米如何在一年内完成逆转？》
+* [ ] 自我管理类的书有分两种，一种是老板买来发给员工看的，从书名中就可以看出来：《没有任何借口》、《卓有成效的管理者》、《高效能人士的七个习惯》……，至于他们自己，顺便翻几页，打个了哈欠，就放到书架当展览品了。
+* [ ] 另一种是给自己看的，书名也能听得出一些端倪，《FBI测谎术》、《潜规则》、《厚黑学》、《我不是教你诈》……
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
