@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml)
 
 ## 最近更新
+- [參考](https://github.com/cutepig123/gitblog/issues/84)--2024-11-17
 - [參考](https://github.com/cutepig123/gitblog/issues/83)--2024-11-17
 - [測試onnx directml](https://github.com/cutepig123/gitblog/issues/82)--2024-11-16
 - [言論20241116](https://github.com/cutepig123/gitblog/issues/81)--2024-11-16
@@ -93,6 +94,12 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## smart home
 - [小爱音箱使用chatgpt](https://github.com/cutepig123/gitblog/issues/5)--2023-03-19
 ## TODO
+TODO list from [參考](https://github.com/cutepig123/gitblog/issues/84)--4 jobs to do--0 jobs done
+* [ ] 1、《巴菲特的第一桶金》
+* [ ] 2、《模型思维》
+* [ ] 3、《为什么：关于因果关系的新科学》
+* [ ] 4、《繁荣与衰退：一部美国经济发展史》
+
 TODO list from [參考](https://github.com/cutepig123/gitblog/issues/83)--472 jobs to do--0 jobs done
 * [ ] **羅**2022-03-19 22:18
 * [ ]  **机器视觉行业主要上市公司：** 
