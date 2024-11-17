@@ -184,6 +184,24 @@ TODO list from [言论20240105](https://github.com/cutepig123/gitblog/issues/57)
 * [ ] 《边干边学当老板》(中小型企业管理)
 * [ ] 成君忆《水煮三国》
 
+TODO list from [言论202312](https://github.com/cutepig123/gitblog/issues/54)--16 jobs to do--0 jobs done
+* [ ] 吉姆·柯林斯（Jim Collins）的《从优秀到卓越：为什么有些公司实现了飞跃，而另一些公司却没有》（Good to Great： Why Some Companies Make the Leap and Other Don't）
+* [ ] 罗伯特·科拉姆（Robert Coram）的《博伊德：改变战争艺术的战斗机飞行员》（Boyd： The Fighter Pilot Who Changed the Art of War） 这本书主要是关于团队的领导力和运营效率
+* [ ] 《习惯的力量》- 查尔斯·杜希格 是查尔斯·杜希格（Charles Duhigg）的作品，以探讨习惯如何塑造我们的生活以及如何改变习惯而脱颖而出。杜希格的书以引人入胜的叙述和实用的见解而闻名，对于那些对个人发展感兴趣的人来说，这是一本有价值的读物
+* [ ] 《科学革命的结构》- 托马斯·库恩 托马斯·库恩（Thomas Kuhn）的《科学革命的结构》（The Structure of Scientific
+* [ ] 《Sotweed Factor》- 约翰·巴斯 约翰·巴斯（John Barth）的《Sotweed Factor》以讽刺的方式描绘了早期美国的经历，偏离了典型的历史叙事。这本小说将历史与虚构融为一体，挑战了传统叙事方式
+* [ ] 《战争的33种策略》- 罗伯特·格林 罗伯特·格林（Robert Greene）的《战争的33种策略》（The 33 Strategies of War）提供了一本全面指导战略艺术的指南，将军事战术与日常生活挑战相提并论。格林的作品常因其深度和适用性而受到赞扬，包括在商业和人际关系方面。
+* [ ] 《爱的五种语言》- 加里·查普曼 爱的五种语言是有史以来最好的管理书籍 《五种爱的语言》（The Five Love Languages）由加里·查普曼（Gary Chapman）被誉为最佳管理书籍，尽管它主要关注个人关系。查普曼的爱语言概念被广泛接受，用于改善各种关系中的沟通和理解，包括工作场所。对于希望扩展对人类行为、战略思维、科学进步和人际沟通的理解的读者来说，吉姆·凯勒的这些建议是一个引人入胜的起点。
+* [ ] 五大团队功能障碍 - 帕特里克·伦西奥尼 ，这是对团队动态和领导力感兴趣的人必读的书籍，强调团队内信任的重要性
+* [ ] 《泰坦的诱声》- 库尔特·冯内古特  这是一部在冯内古特作品中排名很高的科幻小说，以其黑色幽默和哲学主题而闻名。
+* [ ] 《误把妻子当成帽子的男人》- 奥利弗·萨克斯 对于文学和心理学爱好者来说，奥利弗·萨克斯（Oliver Sacks）的《误将妻子当帽子的男人》提供了对神经疾病的迷人见解，推荐体验萨克斯自己朗读的有声书
+* [ ] 《第二十二条军规》- 约瑟夫·黑勒 两者都提供了对社会和人类状况的深刻批判
+* [ ] 《局外人》- 阿尔贝·加缪
+* [ ] https://foresightnews.pro/article/detail/38229
+* [ ] https://lobolab.tech/jim-keller-the-cpu-god/
+* [ ] “硅仙人”Jim Keller的芯片研发封神之道 https://m.huxiu.com/article/436560.html
+* [ ] https://picture.iczhiku.com/weixin/message1587129104882.html
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
