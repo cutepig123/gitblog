@@ -129,6 +129,15 @@ TODO list from [簡化編程](https://github.com/cutepig123/gitblog/issues/75)--
 * [ ] electron之类
 * [ ] gaclib
 
+TODO list from [言論0802](https://github.com/cutepig123/gitblog/issues/74)--7 jobs to do--0 jobs done
+* [ ] 首先要做的是提高听力水平.每天坚持听英语广播.我以前听的是roundtable摩天轮，中外主持人讨论中国发生的新闻，每集一个小时，podcast还有回放。有故事背景的话比较容易听懂
+* [ ] 喜马拉雅，走遍美国反复听，听新概念，englishcentral网站
+* [ ] 还有一个 duolingo app
+* [ ] 第二是增加词汇量，拿本托福红宝书背几遍
+* [ ] 口语这个事情可以放在最后练
+* [ ] 把娃的英语外教抢过来
+* [ ] 《40年40人》中國改革開放40年人物特輯
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
