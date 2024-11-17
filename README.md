@@ -138,6 +138,11 @@ TODO list from [言論0802](https://github.com/cutepig123/gitblog/issues/74)--7 
 * [ ] 把娃的英语外教抢过来
 * [ ] 《40年40人》中國改革開放40年人物特輯
 
+TODO list from [言论20240514](https://github.com/cutepig123/gitblog/issues/73)--3 jobs to do--0 jobs done
+* [ ] https://m.douban.com/subject_collection/ECQU5U7HQ
+* [ ] getting real
+* [ ] 一個成功獨立工作者的故事
+
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
