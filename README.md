@@ -205,6 +205,50 @@ TODO list from [言论202312](https://github.com/cutepig123/gitblog/issues/54)--
 TODO list from [sockscap代理不支持代理的软件](https://github.com/cutepig123/gitblog/issues/27)--1 jobs to do--0 jobs done
 - [ ] 做一个基于detours的类似于sockscap工具，感觉只需要hook connect就行了
 
+TODO list from [電影電視劇](https://github.com/cutepig123/gitblog/issues/20)--42 jobs to do--0 jobs done
+* [ ] 硅谷传奇 Pirates of Silicon Valley[3]
+* [ ]   社交网络 The Social Network[2]
+* [ ]   超验骇客 Transcendence[8]
+* [ ]   代码奔腾 Code Rush (2000)[9]
+* [ ]   硅谷第一季
+* [ ]   互联网之子(The Internet's Own Boy: The Story of Aaron Swartz)
+* [ ]   【七集纪录片】像程序员一样思考-Think Like a Coder
+* [ ]   为什么贫穷，这部纪录片一共八集，每集一小时
+* [ ]   富哥哥穷弟弟，这部纪录片记录了1对亲生兄弟
+* [ ]   走进比尔：解码比尔盖茨，评分9.3
+* [ ]   美国商业大亨传奇评分9.3
+* [ ]   富翁谷底翻身技巧
+* [ ]   金钱与我，评分8.2
+* [ ]    2015 年主演的电影《史蒂夫·乔布斯》。
+* [ ]   操作系统革命 Rovolutuon OS
+* [ ]  《运转乾坤》 该片被沃顿商学院名列金融电影必看第一位。讲述了瓦伦丁从街头乞讨的黑人小混混与从事期货交易的温索普互换身份的故事
+* [ ]   《可口可乐小子》
+* [ ]   《华尔街》
+* [ ]   《抢钱世界》
+* [ ]   门口的野蛮人》
+* [ ]   教父
+* [ ]   《网络风云
+* [ ]   企业人格诊断书
+* [ ]   优势合作》
+* [ ]   当幸福来敲men
+* [ ]   《实习大叔》
+* [ ]   《中国合伙人》
+* [ ]   《创世纪》中国评分8.5-9.0全2部107集
+* [ ]   《天 道》中国评分9.2全24集
+* [ ]   《大染坊》中国评分9.2全24集
+* [ ]   《大时代》中国评分9.3全40集
+* [ ]   《大宅门》中国评分9.4全40集
+* [ ]   《亿 万》美国评级8.9-9.3全6季72集
+* [ ]   《纸钞屋》西班牙比分8.6-9.4共5季48集
+* [ ]   《硅 谷》美国比分9.2-9.4共6季第53集
+* [ ]   《创业年代》
+* [ ]   纪录片《年轻进行时》讲述云造科技创业故事 - C财经
+* [ ]   纪录片《创新之路》第七集《市场为王》：谁给谷歌当房东
+* [ ]   百度创业20周年纪录片《二十度》上线揭秘技术信仰背后的故事
+* [ ]   科教频道特别节目创业纪录片《创业英雄·青春》 - CCTV节目官网
+* [ ]   创业英雄（系列纪录片）_百度百科
+* [ ]   大型纪录片《征程》 第四集动能的转换 - 奥一网
+
 TODO list from [播客podcast ](https://github.com/cutepig123/gitblog/issues/14)--2 jobs to do--0 jobs done
 - [ ] 让播客app支持字幕 https://github.com/AntennaPod/AntennaPod/issues/4935
 - [ ] 自建rss服务，使用openai whisper ai模型给播客增加字幕
