@@ -3,6 +3,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/cutepig123/gitblog/master/feed.xml)
 
 ## 最近更新
+- [旅游](https://github.com/cutepig123/gitblog/issues/87)--2024-12-29
 - [回乡感受20241220](https://github.com/cutepig123/gitblog/issues/86)--2024-12-23
 - [参考](https://github.com/cutepig123/gitblog/issues/85)--2024-11-17
 - [參考](https://github.com/cutepig123/gitblog/issues/84)--2024-11-17
